@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+#> Удаление TMP файлов
+#> ( В скрипте скачивания TMP-файлы не удаляются автоматически и считаются признаком пропуска скачивания файла. )
+
+#(
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+#>1:
+download_dir=${1:-""}
+[[ -z "$download_dir" ]] && download_dir=`conf 00-RND-195-core.conf download_dir`
+
+#>2:
+deb=${2:-""}
+if [[ -n "$deb" ]]; then
+    set -x 
+    find "$download_dir/" -name "*.TMP" -delete #-print
+else
+    find "$download_dir/" -name "*.TMP" -delete
+fi
+
+
+#)>>"$0.log" 2>&1

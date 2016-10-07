@@ -1,0 +1,746 @@
+do.am*stat/*uCoz*tracker
+sitebro.com.tw*track*SiteBro*analytics
+sitebro.tw*track*SiteBro*analytics
+su.pr*hosted_js*StumbleUpon Widgets*widget
+napata.info*conect*Malware*tracker
+live1.netupdater.info*live.php*NetUpdater*analytics
+ocioso.com.br*troca-de-links*Ocioso*widget
+ocioso.com.br*compartilhe*Ocioso*widget
+184.73.199.28*tracker/event*SkyTide Anlaytics*analytics
+ity.im*ad*ity.im*ad
+at.ua*stat/*uCoz*tracker
+belstat.fr*regstat*BelStat*analytics
+logc257.at.pagesjaunes.fr*hit.xiti*AT Internet*analytics
+rcm-fr.amazon.fr*e/cm*Amazon Associates*ad
+vizzit.se*vizzittag/*Vizzit*analytics
+linkwi.se*delivery*Linkwise*ad
+benchtag.co*benchmarketingsmarttag/get*Benchmarketing*tracker
+pubble.co*resources/javascript/qainit.js*Pubble*widget
+adf.ly*js/entry*AdF.ly*ad
+adf.ly*js/link*AdF.ly*ad
+adf.ly*conv*AdF.ly*ad
+pimcore*static/js/frontend/geoip.js*Pimcore*analytics
+belstat.nl*regstat*BelStat*analytics
+ilsemedia.nl*tag*Sanoma*ad
+ilsemedia.nl*get*Sanoma*ad
+pt1.beslist.nl*pt/*Beslist*analytics
+knoopstat.nl*stat/knoopstat.cgi*Knoopstat*tracker
+hyves.nl*precompiled/hyvesconnect.js*Hyves Widgets*widget
+hyves.nl*respect/button*Hyves Widgets*widget
+www.uz*plugins/top_rating*Blog Rating Tracker*tracker
+tracker.sbox.pro*track.js*SBox*tracker
+adfoc.us*js/siteoverlay/script.js*AdFocus*ad
+adfoc.us*js/fullpage/script.js*AdFocus*ad
+nr7.us*apps/*Net-Results*tracker
+dotomi*.com/ucm*Dotomi*tracker
+hints.netflame.cc*service/script/*Fireclick*analytics
+shop.pe*widget*AddShoppers*widget
+adserver.cl*ad*LINCE Adserver*ad
+affiliates.forestview.eu*z*ForestView*ad
+admicro1.vcmedia.vn*ads_codes/ads_box_225.ads*VCMedia*analytics
+admicro1.vcmedia.vn*ads_codes/ads_box_221.ads*VCMedia*analytics
+dantri3.vcmedia.vn*scripts/lib/html5.js*VCMedia*analytics
+logdantri.vcmedia.vn*scripts/log.js*VCMedia*analytics
+vcmedia.vn*ads*AdMicro*ad
+js.sl.pt*snippets/sas.js*SAPO Ads*ad
+assets.customer.io*assets/track.js*Customer.io*tracker
+mailtrack.io*trace*MailTrack.io*tracker
+aloodo.github.io*bowser/bowser.min.js*Aloodo*analytics
+ethn.io*remotes*Ethnio*tracker
+js.honeybadger.io*v0.3/honeybadger.min.js*Honeybadger*analytics
+suggest.io*js*Suggest.io*widget
+js.exceptional.io*exceptional.js*Exceptional*tracker
+ecdn.firstimpression.io*static/jquery.js*First Impression*tracker
+cdn.firstimpression.io*apd_client.js*First Impression*tracker
+statisfy.net*javascripts/stats.js*Statisfy*analytics
+webstat.net*cgi-bin*Web.STAT*tracker
+linkz.net*linkz/linkz.js*LinkZ*ad
+srtk.net*www/delivery/*SearchRev*tracker
+viafoura.net*vf.js*Viafoura*widget
+secure.comodo.net*trustlogo/javascript*TrustLogo*privacy
+rs6.net*on.jsp*Constant Contact*tracker
+cdn.decibelinsight.net*i/13498/di.js*Decibel Insight*tracker
+cdn.decibelinsight.net*i/13498/di.js*Decibel Insight*tracker
+cogocast.net*tag/partner/14*CogoCast*ad
+tumri.net*ads*Ensemble*tracker
+webcollage.net*smart-button*Webcollage*analytics
+track-web.net*js*LeadForensics*tracker
+bid.g.doubleclick.net*xbbe*DoubleClick Bid Manager*ad
+stats.g.doubleclick.net*dc.js*Google Analytics*analytics
+googleads.g.doubleclick.net*pagead/viewthroughconversion*Google Dynamic Remarketing*ad
+gan.doubleclick.net*gan*Google Affiliate Network*ad
+doubleclick.net*activityi*DoubleClick Floodlight*tracker
+doubleclick.net*activity;*DoubleClick Spotlight*tracker
+domainanalytics.net*js*LeadForensics*tracker
+ip-route.net*js*LeadForensics*tracker
+thesearchagency.net*tsawaypoint.php*The Search Agency*tracker
+vitamine.networldmedia.net*bts/*BV! Media*ad
+omtrdc.net*m2/*Adobe Test & Target*tracker
+sitebro.net*track*SiteBro*analytics
+d2bgg7rjywcwsy.cloudfront.net*js/*TapIt!*ad
+d37gvrvc0wt4s1.cloudfront.net*js/*Rollbar*tracker
+d31qbv1cthcecs.cloudfront.net*atrk.js*Alexa Metrics*analytics
+d5nxst8fruw4z.cloudfront.net*atrk.gif*Alexa Metrics*analytics
+dtym7iokkjlif.cloudfront.net*dough/1.0/*Shareaholic*widget
+dtym7iokkjlif.cloudfront.net*media/js/*Shareaholic*widget
+dc8na2hxrj29i.cloudfront.net*code/keen-*Keen IO*analytics
+d3io1k5o0zdpqr.cloudfront.net*js/pinit.js*Pinterest*widget
+st.targetix.net*script/publisherssp*Targetix*ad
+ibsrv.net*forumsponsor*Performancing Metrics*ad
+ibsrv.net*linkshare*Performancing Metrics*ad
+ibsrv.net*sponsors*Performancing Metrics*ad
+ibsrv.net*sponsor*Performancing Metrics*ad
+ibsrv.net*ads*Performancing Metrics*ad
+trackercloud.net*js*LeadForensics*tracker
+trackinvestigate.net*js*LeadForensics*tracker
+spendcrazy.net*sc.html*Spendcrazy*tracker
+cloud.spendcrazy.net*ab/rt_sidebar_2.html*Spendcrazy*tracker
+cloud.spendcrazy.net*ab/160.php*Spendcrazy*tracker
+vizisense.net*pixel.js*ViziSense*tracker
+online-metrix.net*fp*ThreatMetrix*tracker
+finger-info.net*js*LeadForensics*tracker
+mxcdn.net*bb*Meetrics*analytics
+adspeed.net*ad.php*AdSpeed*ad
+fwmrm.net*ad/*FreeWheel*ad
+fwmrm.net*p/*FreeWheel*ad
+fwmrm.net*g/*FreeWheel*ad
+hello.myfonts.net*count*MyFonts Counter*tracker
+link.ixs1.net*s/at*eWayDirect*widget
+req.geekchart.net*req.php*Geek Chart*widget
+assets-polarb-com.a.ssl.fastly.net*assets-polarb-com.a.ssl.fastly.net*Polar*widget
+paid-to-promote.net*images/ptp.gif*Paid-To-Promote*ad
+fbcdn.net*connect.php/js/fb.loader*Facebook Social Plugins*widget
+fbcdn.net*connect.php/js/fb.share*Facebook Social Plugins*widget
+mypagerank.net*services*MyPagerank*analytics
+trailbox.net*js*LeadForensics*tracker
+addynamo.net*ad/*Ad Dynamo*ad
+meetrics.net*bb*Meetrics*analytics
+acint.net*aci.js*Artificial Computation Intelligence*tracker
+js.gb-world.net*lib/ga_social_tracking.js*GB-World*analytics
+taggify.net*banners/*Taggify*ad
+taggify.net*view.*Taggify*ad
+taggify.net*va/*Taggify*ad
+taggify.net*v2/*Taggify*ad
+e.yieldmanager.net*script.js*Right Media*ad
+lfov.net*webrecorder/*LoopFuse OneView*tracker
+channelfinder.net*js/embed_cf*ChannelFinder*widget
+site-research.net*js*LeadForensics*tracker
+trackdiscovery.net*js*LeadForensics*tracker
+openstat.net*cnt.js*Openstat*analytics
+discovertrail.net*js*LeadForensics*tracker
+cdn.elasticad.net*native/serve/js/nativeEmbed.gz.js*Elastic Ad*tracker
+cdn.wishpond.net*connect.js*Wishpond*tracker
+cn.clickable.net*js/cct.js*Syncapse*ad
+livecounter.dk*counter*Livecounter*analytics
+mixi.jp*js/plugins.js*mixi*widget
+mixi.jp*js/share.js*mixi*widget
+mixi.jp*share*mixi*widget
+yahoo.co.jp*js/s_retargeting.js*Yahoo! Retargetting*ad
+rcm-jp.amazon.co.jp*e/cm*Amazon Associates*ad
+gaug.es*track*Gaug.es*analytics
+rcm-es.amazon.es*e/cm*Amazon Associates*ad
+belstat.be*regstat*BelStat*analytics
+metriweb.be*dyn/*MetriWeb*tracker
+1.adhesecdn.be*pool/lib/*Adhese*ad
+webgozar.ir*c.aspx*WebGozar*analytics
+iwiw.hu*like.jsp*iWiW Widgets*widget
+ad.hu*g3.js*Adverticum*ad
+hotlog.ru*cgi-bin/hotlog*HotLog*analytics
+web.redhelper.ru*service/*RedHelper*widget
+bs.yandex.ru*code/*Yandex.Direct*ad
+yandex.ru*resource/watch*Yandex.Metrics*analytics
+yandex.ru*metrika/watch*Yandex.Metrics*analytics
+yandex.ru*cycounter*Yandex.Metrics*analytics
+yandex.ru*informer*Yandex.Metrics*analytics
+an.yandex.ru*resource/context.js*Yandex.Direct*ad
+an.yandex.ru*system/context.js*Yandex.Direct*ad
+an.yandex.ru*code/*Yandex.Direct*ad
+vkontakte.ru*widget_community.php*VKontakte Widgets*widget
+vkontakte.ru*widget_comments.php*VKontakte Widgets*widget
+vkontakte.ru*js/api/openapi.js*VKontakte Widgets*widget
+vkontakte.ru*widget_groups.php*VKontakte Widgets*widget
+vkontakte.ru*js/api/share.js*VKontakte Widgets*widget
+vkontakte.ru*widget_like.php*VKontakte Widgets*widget
+connect.mail.ru*js/loader.js*Mail.Ru Group*widget
+connect.mail.ru*share*Mail.Ru Group*widget
+mail.ru*tracker*Rambler*tracker
+mail.ru*counter*Rambler*tracker
+list.ru*tracker*Rating@Mail.Ru*tracker
+list.ru*counter*Rating@Mail.Ru*tracker
+cdn.retailrocket.ru*content/javascript/api.js*Retail Rocket*analytics
+mediametrics.ru*inject/inject.js*Mediametrics*tracker
+utarget.ru*jsclck*uTarget*ad
+surfingbird.ru*share/share*Surf by Surfingbird*widget
+stg.odnoklassniki.ru*share/odkl_share.js*Mail.Ru Group*widget
+yandex.st*share/*Yandex.API*widget
+webforensics.co.uk*js*LeadForensics*tracker
+rcm-uk.amazon.co.uk*e/cm*Amazon Associates*ad
+revelations.trovus.co.uk*tracker/*Trovus Revelations*analytics
+tzetze.it*banner-tzetze.png*TzeTze*widget
+tzetze.it*tzetze_external.*TzeTze*widget
+rcm-it.amazon.it*e/cm*Amazon Associates*ad
+wishabi.ca*track*Wishabi*tracker
+rcm-ca.amazon.ca*e/cm*Amazon Associates*ad
+stat.netmonitor.fi*js/*NetMonitor*analytics
+nk.pl*script/sledzik/widgets/sledzik_widget_shout*NK.pl Widgets*widget
+nk.pl*script/nk_widgets*NK.pl Widgets*widget
+nk.pl*img/nk_widgets*NK.pl Widgets*widget
+nk.pl*card/js*NK.pl Widgets*widget
+wykop.pl*dataprovider/diggerwidget/*Wykop*widget
+imgwykop.pl*static/wykoppl/img/tools/wykop_*Wykop*widget
+mdcn.mobi*phx.*Velti mGage Visualize*analytics
+apps.dotter.me*proClinical/proClinical.js*Dotter*tracker
+get.roost.me*js/*Roost*widget
+www.cbox.ws*box*Cbox*widget
+wiredminds.de*track*WiredMinds*analytics
+belstat.de*regstat*BelStat*analytics
+browser-statistik.de*browser.png*Browser-Statistik*analytics
+rcm-de.amazon.de*e/cm*Amazon Associates*ad
+anormal-tracker.de*countv2.php*Anormal Tracker*analytics
+anormal-tracker.de*tracker.js*Anormal Tracker*analytics
+tfag.de*js_ng/js_ng_*Tomorrow Focus*ad
+www.zanox-affiliate.de*ppv/*Zanox*ad
+js.smartredirect.de*js/*adgoal*ad
+zulu.tweetmeme.com*button_ajax.js*TweetMeme*widget
+tweetmeme.com*i/scripts/button.js*TweetMeme*widget
+lypn.com*exp/*Lynchpin Analytics*analytics
+lypn.com*lp/*Lynchpin Analytics*analytics
+superfish.com*apiserver*Superfish*widget
+uptrends.com*images/uptrends.gif*Uptrends*analytics
+uptrends.com*aspx/uptime.aspx*Uptrends*analytics
+o.aolcdn.com*os/ads/adchoices.png*AOL OBA Notice*privacy
+o.aolcdn.com*os/aol/beacon.min.js*Advertising.com*ad
+o.aolcdn.com*ads/adswrapper*Advertising.com*ad
+o.aolcdn.com*js/mg2.js*Advertising.com*ad
+adsyndication.msn.com*delivery/getads.js*Bing Ads*ad
+ads1.msn.com*library/dap.js*Bing Ads*ad
+r.msn.com*scripts/microsoft_adcenterconversion.js*Microsoft adCenter Conversion*ad
+flex.msn.com*mstag/*Bing Ads*ad
+ads.msn.com*library/dap.js*Bing Ads*ad
+www.blogcatalog.com*w/recent.php*BlogCatalog*widget
+statcounterfree.com*private/counter.js*Free Counter*analytics
+kweb.videostep.com*getlink*VideoStep*ad
+123-tracker.com*js*LeadForensics*tracker
+list-manage.com*track/*MailChimp Tracking*tracker
+www.apture.com*js/apture.js*Apture*widget
+api.genoo.com*js/gtrack.js*Genoo*ad
+manycontacts.com*assets/js/manycontacts.min.js*ManyContacts*tracker
+translate.google.com*translate_a/element.js*Google Translate*widget
+www.google.com*friendconnect/script/friendconnect.js*Google FriendConnect*widget
+www.google.com*uds/api/search*Google AJAX Search API*widget
+www.google.com*uds/stats*Google JSAPI Stats Collection*tracker
+apis.google.com*js/platform.js*Google+ Platform*widget
+apis.google.com*js/plusone.js*Google+ Platform*widget
+google.com*adsense/search/async-ads.js*Google Adsense*ad
+google.com*afsonline/show_afs_ads.js*Google Adsense*ad
+google.com*adsense/domains/caf.js*Google Adsense*ad
+google.com*adsense/search/ads.js*Google Adsense*ad
+google.com*buzz/api/button.js*Google+ Platform*widget
+google.com*uds/afs*Google Adsense*ad
+cdn.connatix.com*min/connatix.handler.dfp.min.js*Connatix*analytics
+common.onset.freedom.com*fi/analytics/cms/*Omniture (Adobe Analytics)*tracker
+rp-api.com*rjs/repost*Repost.us*widget
+widget.crowdynews.com*js/widget.js*Crowdynews*widget
+cdn.triggertag.gorillanation.com*js/triggertag.js*Gorilla Nation*ad
+fastonlineusers.com*on*Free Online Users*analytics
+api.widgetbucks.com*script/ads.js*WidgetBucks*ad
+adosia.com*adscroll/iscroll-min.js*Adosia*analytics
+widgets.twimg.com*j/*Twitter Badge*widget
+websiteexploration.com*js*LeadForensics*tracker
+conversionruler.com*bin/*ConversionRuler*analytics
+www.googleadservices.com*pagead/conversion*Google AdWords Conversion*ad
+partner.googleadservices.com*opt/pubads_impl_73.js*Google AdServices*tracker
+partner.googleadservices.com*gampad/*Google Adsense*ad
+typepad.com*t/stats*Typepad Stats*analytics
+traveladvertising.com*live/*Travora Media*ad
+btttag.com*btt.js*Blue Triangle Technologies*analytics
+civicscience.com*widget/jspoll*CivicScience*widget
+sitebro.com*track*SiteBro*analytics
+besucherstatistiken.com*private/counter.js*Free Counter*analytics
+dotomi.com*adinfo/adinfo.php*Dotomi Notice*privacy
+adinton.com*script.3.1/adinton.js*Adinton*analytics
+adinton.com*script/adinton.js*Adinton*analytics
+app.getsignals.com*img.gif*Signals by HubSpot*tracker
+explore-123.com*js*LeadForensics*tracker
+lead-watcher.com*js*LeadForensics*tracker
+spa.snap.com*snap_preview_anywhere.js*Snap*widget
+shots.snap.com*snap_shots.js*Snap*widget
+analytics.revee.com*analytics-v1.js*Revee*analytics
+cdn.nprove.com*npcore.js*Optim.al*tracker
+widgets.getpocket.com*v1/j/btn.js*Pocket Button*widget
+heapanalytics.com*js/heap.js*Heap*analytics
+heapanalytics.com*api*Heap*analytics
+heapanalytics.com*h*Heap*analytics
+3dstats.com*cgi-bin/3dstrack*3DStats*analytics
+s.clickability.com*s*Clickability Beacon*tracker
+akanoo.com*tracker*Akanoo*analytics
+akanoo.com*aa*Akanoo*analytics
+akanoo.com*t*Akanoo*analytics
+bitcoinplus.com*js/miner.js*Bitcoin Miner*widget
+beaconads.com*ac/*Beacon Ad Network*ad
+atgsvcs.com*js/atgsvcs.js*ATG Recommendations*tracker
+compteurdevisite.com*private/counter.js*Free Counter*analytics
+swoop.com*js/spxw.js*Swoop*widget
+affiliation-france.com*pooltag*Affiliation France*ad
+affiliation-france.com*scripts*Affiliation France*ad
+affiliation-france.com*bans*Affiliation France*ad
+adtgs.com*layer*AdPerium*ad
+adtgs.com*pop*AdPerium*ad
+exceptional-js.heroku.com*exceptional.js*Exceptional*tracker
+conversionsbox.com*cb.js*Conversions Box*widget
+adzly.com*adserve*adzly*ad
+platform.stumbleupon.com*1/widgets.js*StumbleUpon Widgets*widget
+stumbleupon.com*badge/embed/*StumbleUpon Widgets*widget
+stumbleupon.com*hostedbadge*StumbleUpon Widgets*widget
+objects.tremormedia.com*embed/js*Tremor Media*ad
+glam.com*app/site/affiliate/viewchannelmodule.act*Glam Media*ad
+glam.com*etagsimg*Glam Media*ad
+glam.com*jsadimp*Glam Media*ad
+glam.com*gad/*Glam Media*ad
+path-trail.com*js*LeadForensics*tracker
+userpulse.com*toolbar.js*UserPulse*widget
+disqus.com*recent_comments_widget.js*Disqus*widget
+disqus.com*popular_threads_widget.js*Disqus*widget
+disqus.com*top_commenters_widget.js*Disqus*widget
+disqus.com*combination_widget.js*Disqus*widget
+disqus.com*get_num_replies*Disqus*widget
+disqus.com*count.js*Disqus*widget
+disqus.com*forums/*Disqus*widget
+disqus.com*blogger*Disqus*widget
+disqus.com*embed*Disqus*widget
+disqus.com*api*Disqus*widget
+fx.gtopstats.com*js/gtop.js*GTop*analytics
+exitmonetization.com*js*ExitMonetization*ad
+feedjit.com*serve/*Feedjit*analytics
+feedjit.com*map/*Feedjit*analytics
+feedjit.com*b/*Feedjit*analytics
+smart4ads.com*smart4ads*smart4ads*ad
+zaparena.com*w/*zaparena*ad
+cntr-di5.com*js/59949.js*LeadForensics*tracker
+iubenda.com*iubenda.js*iubenda*privacy
+cloudtracer101.com*js*LeadForensics*tracker
+getvero.com*assets/m.js*Vero*tracker
+mi.adinterax.com*customer*AdInterax*ad
+mi.adinterax.com*js*AdInterax*ad
+cdn.attracta.com*badge/*Attracta*widget
+yimg.com*mi/ywa.js*Yahoo Analytics*analytics
+d.yimg.com*ds/badge.js*Yahoo! Buzz*analytics
+static.addtoany.com*menu/page.js*Lockerz Share*widget
+static.addtoany.com*menu/feed.js*Lockerz Share*widget
+discover-path.com*js*LeadForensics*tracker
+mvtracker.com*counter*MindViz Tracker*tracker
+mvtracker.com*digits*MindViz Tracker*tracker
+mvtracker.com*mvlive*MindViz Tracker*tracker
+mvtracker.com*stats*MindViz Tracker*tracker
+mvtracker.com*tr.x*MindViz Tracker*tracker
+mvtracker.com*tss*MindViz Tracker*tracker
+mvtracker.com*ts*MindViz Tracker*tracker
+cdn.boomtrain.com*analyticstrain/4a9018c4ed9b7dc009098df5342be707/analyticstrain.min.js*Boomtrain*analytics
+research.de.com*bb*Meetrics*analytics
+trk.sodoit.com*rts*ROI trax*tracker
+ssp.adskom.com*vads*ADSKOM*ad
+ssp.adskom.com*ads*ADSKOM*ad
+contactusplus.com*toolbar.js*UserPulse*widget
+richmedia247.com*sync*NCOL*ad
+cdn.undertone.com*js/ajs.js*Undertone*ad
+www-path.com*js*LeadForensics*tracker
+scripts.verticalacuity.com*vat/mon/*Vertical Acuity*ad
+tm.verticalacuity.com*vat/mon/*Vertical Acuity*ad
+shopximity.com*js/spxw.js*Swoop*widget
+assets.loomia.com*js/*Loomia*tracker
+pricegrabber.com*conversion.php*PriceGrabber*ad
+click-to-trace.com*js*LeadForensics*tracker
+imonomy.com*script/14567725232/preload.js*imonomy*ad
+js.goods.redtram.com*ticker_*RedTram*ad
+redtram.com*n4p/*RedTram*ad
+tracker.icerocket.com*services/collector.js*IceRocket Tracker*analytics
+webgozar.com*counter*WebGozar*analytics
+cloudpath82.com*js*LeadForensics*tracker
+cdn.targetfuel.com*client.js*Target Fuel*tracker
+api.facebook.com*method/fql.query*Facebook Social Graph*widget
+facebook.com*v2.0/js/conversions/tracking.js*Facebook Conversion Tracking*tracker
+facebook.com*v2.0/email_open_log_pic.php*Facebook Conversion Tracking*tracker
+facebook.com*js/conversions/tracking.js*Facebook Conversion Tracking*tracker
+facebook.com*email_open_log_pic.php*Facebook Conversion Tracking*tracker
+facebook.com*v2.0/offsite_event.php*Facebook Conversion Tracking*tracker
+facebook.com*v2.0/brandlift.php*Facebook Beacon*tracker
+facebook.com*offsite_event.php*Facebook Conversion Tracking*tracker
+facebook.com*brandlift.php*Facebook Beacon*tracker
+facebook.com*v2.0/fr/u.php*Facebook Exchange (FBX)*ad
+facebook.com*v2.0/connect*Facebook Connect*widget
+facebook.com*fr/u.php*Facebook Exchange (FBX)*ad
+facebook.com*connect*Facebook Connect*widget
+facebook.com*tr*Facebook Custom Audience*ad
+widget.crowdignite.com*widgets*Crowd Ignite*widget
+infusionsoft.com*app*Infusionsoft*widget
+enquisite.com*log.js*Enquisite*tracker
+trace-2000.com*js*LeadForensics*tracker
+cts.vresp.com*s.gif*VerticalResponse*tracker
+friendfeed.com*embed/widget/*FriendFeed*tracker
+vk.com*widget_community.php*VKontakte Widgets*widget
+vk.com*widget_comments.php*VKontakte Widgets*widget
+vk.com*js/api/openapi.js*VKontakte Widgets*widget
+vk.com*widget_groups.php*VKontakte Widgets*widget
+vk.com*js/api/share.js*VKontakte Widgets*widget
+vk.com*widget_like.php*VKontakte Widgets*widget
+reddit.com*static/spreddit*Reddit*widget
+reddit.com*static/button*Reddit*widget
+reddit.com*buttonlite.js*Reddit*widget
+reddit.com*.embed*Reddit*widget
+bridgetrack.com*track*BridgeTrack*ad
+bridgetrack.com*a/s/*BridgeTrack*ad
+leadforce1.com*bf/bf.js*LeadFormix*analytics
+sendtonews.com*player/sidebar.php*SendtoNews*widget
+fast.fonts.com*t/trackingcode.js*Fonts.com*analytics
+carrierzone.com*app/count*Aplus Analytics*analytics
+cqcounter.com*cgi-bin/c*CQ Counter*tracker
+statuscake.com*app/*StatusCake*tracker
+sa.entireweb.com*sense.js*SpeedyAds*ad
+shareaholic.com*analytics_frame.html*Shareaholic*widget
+cdn.shareaholic.com*media/js/*Shareaholic*widget
+skypeassets.com*i/scom/*Skype*widget
+app.insightgrit.com*1/*Zeta Search*ad
+trailinvestigator.com*js*LeadForensics*tracker
+needle.com*needle_service.js*Needle*widget
+pathful.com*js/scripts/*Pathful*tracker
+the-lead-tracker.com*js*LeadForensics*tracker
+load.instinctiveads.com*i.js*Instinctive*tracker
+engine.instinctiveads.com*a/0.9533535316284412.js*Instinctive*tracker
+addfreestats.com*cgi-bin/afstrack.cgi*AddFreeStats*analytics
+assets.pinterest.com*js/pinit.js*Pinterest*widget
+assets.pinterest.com*js/pinit.js*Pinterest*widget
+pinterest.com*images/about/buttons/pinterest-button.png*Pinterest*widget
+pinterest.com*images/follow-on-pinterest-button.png*Pinterest*widget
+pinterest.com*images/pidgets/pin_it_button.png*Pinterest*widget
+pinterest.com*images/pinterest-button.png*Pinterest*widget
+pinterest.com*images/pidgets/pinit*Pinterest*widget
+pinterest.com*images/pinext.png*Pinterest*widget
+adsensecamp.com*show/*AdsenseCamp*ad
+tellaparts.com*crumb*TellApart*tracker
+lucidmedia.com*images/adchoices*LucidMedia Notice*privacy
+otracking.com*js*OrangeSoda*analytics
+clustrmaps.com*stats/maps*ClustrMaps*analytics
+clustrmaps.com*counter/*ClustrMaps*analytics
+adreadytractions.com*rt/*AdReady*ad
+download.skype.com*share/skypebuttons/*Skype*widget
+cdn.dev.skype.com*uri/*Skype*widget
+observerapp.com*record*Observer*analytics
+yumenetworks.com*dynamic*YuMe, Inc.*ad
+iproute66.com*js*LeadForensics*tracker
+weebly.com*weebly/apps/serveads*Weebly Ads*ad
+kargo.com*ad/network/tag/kargo-*Kargo*ad
+cuelinks.com*js/*CueLinks*ad
+adspeed.com*ad.php*AdSpeed*ad
+radarstats.com*js/widget.js*RadarStats*widget
+predictad.com*scripts/publishers/*Widdit*tracker
+predictad.com*scripts/molosky/*Widdit*tracker
+www.maploco.com*vm*MapLoco*widget
+admin.brightcove.com*js*Brightcove*widget
+col.stc.s-msn.com*br/sc/i/ff/adchoices*Microsoft Notice*privacy
+as.bankrate.com*RealMedia/ads/adstream.cap/123*Bankrate*tracker
+bankrate.com*jsfeeds/cnbc-maintab-mtg-avgs.js*Bankrate*tracker
+cdn.mercent.com*js/tracker.js*Mercent*ad
+scan-trail.com*js*LeadForensics*tracker
+j.maxmind.com*app/country.js*MaxMind*tracker
+j.maxmind.com*app/geoip.js*MaxMind*tracker
+view.binlayer.com*ad*BinLayer*ad
+ml314.com*tag.aspx*Bombora*tracker
+craftkeys.com*track.js*CraftKeys*analytics
+j.clickdensity.com*cr.js*ClickDensity*tracker
+veruta.com*scripts/trackmerchant.js*Veruta*tracker
+ssl.webserviceaward.com*wsc/*Web Service Award*tracker
+images.scanalert.com*meter/*McAfee Secure*widget
+tags.expo9.exponential.com*tags/*Tribal Fusion*ad
+saas.intelligencefocus.com*sensor/*IntelligenceFocus*analytics
+widgets.alexa.com*traffic/javascript/*Alexa Widget*analytics
+xslt.alexa.com*site_stats/js/s/*Alexa Widget*analytics
+xslt.alexa.com*site_stats/js/t/*Alexa Traffic Rank*analytics
+as00.estara.com*as/initiatecall2*ATG Optimization*tracker
+as00.estara.com*as/commonlink*ATG Optimization*tracker
+as00.estara.com*webcare*ATG Optimization*tracker
+as00.estara.com*fs/lr*ATG Optimization*tracker
+web-path.com*js*LeadForensics*tracker
+contatoreaccessi.com*private/counter.js*Free Counter*analytics
+zergnet.com*zerg.js*ZergNet*widget
+gonzogrape.gumgum.com*javascripts/ggv2.js*gumgum*ad
+g2.gumgum.com*javascripts/ggv2.js*gumgum*ad
+cdn.gumgum.com*javascripts/ggv2.js*gumgum*ad
+tweetboard.com*tb.js*Tweetboard*widget
+adelixir.com*webpages/scripts/ne_roi_tracking.js*LXR100*analytics
+adelixir.com*neroitrack*LXR100*analytics
+platform.tumblr.com*v1/follow_button.html*Tumblr Buttons*widget
+platform.tumblr.com*v1/share*Tumblr Buttons*widget
+www.tumblr.com*dashboard/iframe*Tumblr Dashboard*widget
+contadorvisitasgratis.com*private/counter.js*Free Counter*analytics
+groovehq.com*widgets/*Groove*widget
+webcontadores.com*private/counter.js*Free Counter*analytics
+callbackhunter.com*widget*CallbackHunter*widget
+trail-viewer.com*js*LeadForensics*tracker
+tag.didit.com*didit/*Didit Blizzard*analytics
+tag.didit.com*js/*Didit Blizzard*analytics
+woopra.com*js/woopra.js*Woopra*analytics
+woopra.com*js/w.js*Woopra*analytics
+cdn1.tags1.revdepo.com*banners/bounce/bounce-tag_1.0.22.js*RevenueHits*ad
+cdn1.tags1.revdepo.com*banners/script/bnrcore_1.0.25.js*RevenueHits*ad
+cdn1.tags1.revdepo.com*banners/script/bnr-tag_1.0.9.js*RevenueHits*ad
+cdn1.tags3.revdepo.com*banners/script/bnr-wrp_1.0.20.js*RevenueHits*ad
+ajax.googleapis.com*ajax/libs/webfont/1/webfont.js*Google AJAX Search API*widget
+commondatastorage.googleapis.com*code.snapengage.com/js/*SnapEngage*widget
+moonraymarketing.com*tracking.js*Moonray Autopilot*tracker
+flickr.com*apps/badge/badge_iframe.gne*Flickr Badge*widget
+flickr.com*badge_code_v2.gne*Flickr Badge*widget
+uservoice.com*javascripts/widget*UserVoice*widget
+uservoice.com*api*UserVoice*widget
+ads.doclix.com*adserver/serve/*AdSide*ad
+surphace.com*widgets/sphereit/js*Sphere*ad
+ads.ad-center.com*smart_ad/display*Ad-Center*analytics
+traffic.pubexchange.com*m/1433545629/bc247b13-7e42-4b98-96d1-a90066909bef*PubExchange*tracker
+cdn2.pubexchange.com*modules/display/popsugar_moms/477/rail_by_partner/f*PubExchange*tracker
+cdn.pubexchange.com*modules/partner/the_good_men_project*PubExchange*tracker
+thefancy.com*fancyit.js*Fancy Widget*widget
+thefancy.com*widget.js*Fancy Widget*widget
+licdn.com*scds/common/u/img/icon/icon_adchoices_ac_77x15.png*LinkedIn Notice*privacy
+ecustomeropinions.com*survey*eDigitalResearch*widget
+thinglink.com*jse/embed.js*ThingLink*widget
+path-follower.com*js*LeadForensics*tracker
+emagazines.com*insight/javascript/emags_fingerprint.js*Oplytic*analytics
+zapunited.com*w/*zaparena*ad
+mmtro.com*tro.js*Email Attitude*tracker
+mmtro.com*p*Email Attitude*tracker
+cdn.nextclickads.com*nextclickads/tags/xbanner/xbanner.js*Next Click Ads*tracker
+cdn.taboola.com*libtrc/labx-iflscience/loader.js*Taboola*widget
+voice2page.com*naa_1x1.js*InternetAudioAds*tracker
+lead-analytics-1000.com*js*LeadForensics*tracker
+vindicosuite.com*creative*Vindico Group*ad
+vindicosuite.com*tracking*Vindico Group*ad
+vindicosuite.com*feeds*Vindico Group*ad
+vindicosuite.com*track*Vindico Group*ad
+vindicosuite.com*serve*Vindico Group*ad
+vindicosuite.com*imp*Vindico Group*ad
+kampanj.tradera.com*widget*Tradera Widget*widget
+platform.foursquare.com*js/widgets.js*Foursquare Widget*widget
+analytics.gigyahosting1.com*gigya-analytics.js*Gigya Social Analytics*analytics
+userapi.com*js/api/*VKontakte Widgets*widget
+choices.truste.com*ca*TRUSTe Notice*privacy
+fby.s3.amazonaws.com*fby.js*Feedbackify*widget
+s3.amazonaws.com*getsatisfaction.com/javascripts/feedback-v2.js*GetSatisfaction*widget
+s3.amazonaws.com*getsatisfaction.com/feedback/feedback.js*GetSatisfaction*widget
+s3.amazonaws.com*searchdiscovery-satellite-production*Adobe TagManager*widget
+s3.amazonaws.com*cdn.barilliance.com*Barilliance*tracker
+s3.amazonaws.com*j.kissinsights.com*KissInsights*analytics
+s3.amazonaws.com*wingify/vis_opt.js*Visual Website Optimizer*tracker
+s3.amazonaws.com*asset.pagefair.com*PageFair*tracker
+s3.amazonaws.com*saaspulse-cdn/*Totango*tracker
+s3.amazonaws.com*github/ribbons*GitHub Ribbon*widget
+s3.amazonaws.com*new.cetrk.com*Crazy Egg*analytics
+s3.amazonaws.com*totango-cdn/*Totango*tracker
+s3.amazonaws.com*publishflow*PublishFlow*analytics
+s3.amazonaws.com*freshplum*Freshplum*widget
+s3.amazonaws.com*cdx-radar*Cedexis Radar*analytics
+s3.amazonaws.com*adstage*AdStage*ad
+amazonaws.com*td-cdn/sdk/td-1.1.1.js*Treasuredata*tracker
+amazonaws.com*scripts.hellobar.com*Hello Bar*widget
+cdn2.lockerdome.com*_js/ajs.js*LockerDome*tracker
+trumba.com*scripts/spuds.js*Trumba*widget
+kona.kontera.com*javascript/*Kontera ContentLink*ad
+gumroad.com*js/gumroad.js*Gumroad*ad
+cdn.optimizely.com*js/*Optimizely*tracker
+mct.rkdms.com*sid.gif*RKG Attribution Management*tracker
+hittail.com*mlt.js*HitTail*tracker
+track.roiservice.com*track/*Atlas ProfitBuilder*ad
+turnsocial.com*bar/*TurnSocial*widget
+kixer.com*ad/load.js*Kixer*tracker
+cim.meebo.com*cim*Meebo Bar*ad
+heybubble.com*vchat/content/*HeyBubble*widget
+heybubble.com*vchat/frame/*HeyBubble*widget
+cookieq.com*cookieq*CookieQ*privacy
+cookieq.com*scripts*CookieQ*privacy
+clickserve.cc-dt.com*link/*Google Affiliate Network*ad
+bebi.com*public/js/bebi_v1.js*Bebi Media*tracker
+cdnma.com*apps/*Net-Results*tracker
+communicatorcorp.com*public/scripts/conversiontracking.js*Communicator Corp*tracker
+tracking.dsmmadvantage.com*clients/*DSMM Advantage*tracker
+visitstreamer.com*vs.js*Visit Streamer*analytics
+api.survicate.com*assets/survicate.js*Survicate*analytics
+gigya.com*js/gigyagaintegration.js*Gigya Social Analytics*analytics
+gigya.com*js/socialize.js*Gigya Socialize*widget
+ads.ngageinc.com*index_ci.php/pxl/fire/testin49660*Connected Interactive*tracker
+linksalpha.com*social*LinksAlpha*widget
+madisonlogic.com*jsc*Madison Logic*ad
+static.polldaddy.com*p*Polldaddy*widget
+network-handle.com*js*LeadForensics*tracker
+pagead2.googlesyndication.com*pagead/images/ad_choices_*GDN Notice*privacy
+pagead2.googlesyndication.com*pagead/images/adchoices/*GDN Notice*privacy
+pagead2.googlesyndication.com*pagead/abglogo/adc*GDN Notice*privacy
+googlesyndication.com*apps/domainpark/*Google Adsense*ad
+googlesyndication.com*simgad/*Google Adsense*ad
+googlesyndication.com*pagead/*Google Adsense*ad
+pagead.googlesyndication.com*pagead/osd.js*Google Syndication*tracker
+lead-123.com*js*LeadForensics*tracker
+resources.infolinks.com*js/infolinks_main.js*InfoLinks*ad
+conversionlab.trackset.com*track/*Trackset ConversionLab*analytics
+blastro.com*images/ads*Blastro Networks*ad
+imgsrv.nextag.com*imagefiles/includes/roitrack.js*Nextag ROI Optimizer*tracker
+trustlogo.com*trustlogo/javascript*TrustLogo*privacy
+trendemon.com*apis/loadflame/mainflamejs*TrenDemon*analytics
+spotxchange.com*track*SpotXchange*ad
+cloud-trail.com*js*LeadForensics*tracker
+quantserve.com*adchoices/*Quantcast Notice*privacy
+visitorville.com*js/plgtrafic.js.php*VisitorVille*analytics
+belstat.com*regstat*BelStat*analytics
+scripts.kiosked.com*loader/kiosked-loader.js*Kiosked*widget
+p.brilig.com*contact/bct*Brilig*ad
+ci-mpsnare.iovation.com*script/logo.js*iovation*tracker
+ci-mpsnare.iovation.com*snare.js*iovation*tracker
+snapengage.com*chatjs/servicegetproactivegeodata*Snap Engage*widget
+snapengage.com*chatjs/ServiceGetConfig*Snap Engage*widget
+snapengage.com*snapengage-*SnapEngage*widget
+snapengage.com*statusimage*SnapEngage*widget
+snapengage.com*snapabug.js*SnapEngage*widget
+hubspot.com*analytics/*HubSpot*analytics
+velti.com*phx.*Velti mGage Visualize*analytics
+sitemeter.com*js/counter.js*SiteMeter*analytics
+sitemeter.com*meter.asp*SiteMeter*analytics
+c.ypcdn.com*2/i/rtd*YP*ad
+i1.ypcdn.com*hyperlocal/*YP*ad
+cdn.rlets.com*capture_static/mms/mms.js*ReachLocal*ad
+rcm.amazon.com*e/cm*Amazon Associates*ad
+cloud-journey.com*js*LeadForensics*tracker
+tqlkg.com*image*Commission Junction*ad
+letterbox-path.com*js*LeadForensics*tracker
+scribit.com*vat/mon/vts.js*Scribit*tracker
+i.i.com.com*cnwk.1d/ads/*CBS Interactive*ad
+siteimprove.com*js/*Siteimprove*tracker
+youtube.com*subscribe_widget*YouTube Subscription*widget
+adexcite.com*ads*AdExcite*ad
+searchignite.com*si/cm/tracking/*SearchIgnite*analytics
+informer.com*favorites-button.js*Informer Widget*widget
+bugherd.com*sidebar*BugHerd*widget
+bugherd.com*bugherd*BugHerd*widget
+wishabi.com*track*Wishabi*tracker
+adhood.com*adserver/ad*adhood*ad
+static.hupso.com*share/*Hupso*analytics
+hupso.com*share/img/services/*Hupso*analytics
+c.microsoft.com*ms.js*WEDCS*tracker
+addshoppers.com*widget*AddShoppers*widget
+viafoura.com*app/js/vf.js*Viafoura*widget
+creative.ad120m.com*ad120m/scripts/smart/smart.js*ad120m*ad
+intilery-analytics.com*rest/*Intilery*analytics
+leadexposer.com*analytics*Leadexposer*analytics
+ipadd-path.com*js*LeadForensics*tracker
+google-analytics.com*u/ga_debug.js*Google Analytics*analytics
+google-analytics.com*u/ga_beta.js*Google Analytics*analytics
+google-analytics.com*analytics.js*Google Analytics*analytics
+google-analytics.com*siteopt.js*Google Website Optimizer*analytics
+google-analytics.com*cx/api.js*Google Analytics*analytics
+google-analytics.com*urchin.js*Google Analytics*analytics
+google-analytics.com*ga_exp.js*Google Analytics*analytics
+google-analytics.com*u/ga.js*Google Analytics*analytics
+google-analytics.com*collect*Google Analytics*analytics
+google-analytics.com*ga.js*Google Analytics*analytics
+adedy.com*creatives*ADGoto*ad
+lct.salesforce.com*sfga.js*Salesforce*tracker
+aff3.gittigidiyor.com*affiliate_front.js*GittiGidiyor Affiliate Program*ad
+freshdesk.com*widget/freshwidget.js*Freshdesk*widget
+thecounter.com*id*QuinStreet*ad
+beencounter.com*b.js*Beencounter*analytics
+linkedin.com*csp/*LinkedIn Ads*ad
+extole.com*.extole.com*Extole*analytics
+skimlinks.com*api/*SkimLinks*ad
+skimlinks.com*js/*SkimLinks*ad
+picadmedia.com*js/*Image Space Media*ad
+learnpipe.com*javascript/widget/search/pubblesearchinit.js*Pubble*widget
+learnpipe.com*javascript/widget/qa/qainit.js*Pubble*widget
+bkrtx.com*js/*BlueKai*tracker
+w.soundcloud.com*player*SoundCloud*widget
+hit-parade.com*log*Hit-Parade*analytics
+c.compete.com*bootstrap/*CompeteXL*analytics
+tellapart.com*crumb*TellApart*tracker
+app.yesware.com*t/*Yesware*widget
+resources.intextscript.com*js/main_intext.js*InfoLinks*ad
+extern.yahoo.com*b*Right Media*ad
+wa.marketingsolutions.yahoo.com*script/scriptservlet*Yahoo Search Marketing Analytics*analytics
+ipnoid.com*tracker/*TraceMyIP*tracker
+trail-web.com*js*LeadForensics*tracker
+adcel.vrvm.com*adtag.js*Verve Mobile*ad
+c.vrvm.com*pass/vrv/*Verve Mobile*ad
+go.vrvm.com*t*Verve Mobile*ad
+sphere.com*widgets/sphereit/js*Sphere*ad
+business-path-55.com*js*LeadForensics*tracker
+forcetrac.com*euinc*ForceTrac*tracker
+zendesk.com*external/zenbox/overlay.js*Zendesk*tracker
+static.btbuckets.com*bt.js*BTBuckets*tracker
+n.btbuckets.com*js*BTBuckets*tracker
+bufferapp.com*js/button*Buffer Button*widget
+bufferapp.com*button*Buffer Button*widget
+t.adonly.com*core/tag.js*Gloadmarket*ad
+analytics.apnewsregistry.com*analytics/*News Registry*analytics
+indeed.com*pagead/conv*Indeed*ad
+indeed.com*p/jobs*Indeed*ad
+indeed.com*ads/*Indeed*ad
+ad.bizo.com*pixel*LinkedIn Marketing Solutions*tracker
+mi725.com*content*MI725*ad
+amadesa.com*static/client_js/engine/amadesajs.js*Amadesa*tracker
+api.zippyshare.com*api/embed*Zippyshare Widget*widget
+hurra.com*ostracker.js*Hurra Tracker*tracker
+www.domodomain.com*domodomain/sensor/*DomoDomain*analytics
+cdn.wibiya.com*toolbars*Wibiya Toolbar*widget
+cdn.wibiya.com*loaders*Wibiya Toolbar*widget
+contaxe.com*go*Contaxe*ad
+tribalfusion.com*media/common/adchoice*Tribal Fusion Notice*privacy
+mb01.com*getimage.asp*MaxBounty*ad
+baidustatic.com*cpro/ui/*Baidu Ads*ad
+st-hatena.com*js/bookmark_button*Hatena*widget
+plugin.mediavoice.com*plugin.js*Polar Mobile*ad
+freecounterstat.com*private/counter.js*Free Counter*analytics
+letterboxtrail.com*js*LeadForensics*tracker
+gosquared.com*livestats/tracker*GoSquared*analytics
+fastwebcounter.com*secure.php*Free Online Users*analytics
+sidekick-toysrus.elasticbeanstalk.com*toysrus/m/sidekick.js*Elastic Beanstalk*tracker
+elasticbeanstalk.com*toysrus/m/sidekick.js*Elastic Beanstalk*tracker
+jlist.com*feed.php*J-List Affiliate Program*ad
+jlist.com*media/*J-List Affiliate Program*ad
+jlist.com*ad/*J-List Affiliate Program*ad
+stocktwits.com*addon/widget*StockTwits*widget
+stocktwits.com*networkbar*StockTwits*widget
+stumble-upon.com*js/widgets.js*StumbleUpon Widgets*widget
+intensedebate.com*js/*Intense Debate*widget
+cdn.springboardplatform.com*storage*SpringBoard*ad
+feedbackify.com*f.js*Feedbackify*widget
+api.flattr.com*button*Flattr Button*widget
+tenderapp.com*tender_widget.js*Tender*widget
+addinto.com*ai/ai2_bkmk.js*AddInto*widget
+addinto.com*logos/*AddInto*widget
+keywordmax.com*tracking/*KeywordMax*tracker
+content.yieldmanager.com*rmtag3.js*Right Media*ad
+content.yieldmanager.com*rmi.js*Right Media*ad
+cdn.flurry.com*js/*Flurry*analytics
+epicgameads.com*ads/*Epic Game Ads*ad
+server.wingify.com*app/js/code/wg_consolidated.js*Visual Website Optimizer*tracker
+app.phonalytics.com*track*Phonalytics*analytics
+cloud-exploration.com*js*LeadForensics*tracker
+platform.twitter.com*widgets*Twitter Button*widget
+platform.twitter.com*oct.js*Twitter Advertising*ad
+twitter.com*1/statuses/user_timeline.json*Twitter Badge*widget
+twitter.com*1/statuses/followers.json*Twitter Badge*widget
+twitter.com*statuses/user_timeline/*Twitter Badge*widget
+twitter.com*1/urls/count.json*Twitter Badge*widget
+twitter.com*1/users/show.json*Twitter Badge*widget
+digg.com*tools/widgetjs*Digg Widget*widget
+shopsocially.com*js*ShopSocially*widget
+launch.newsinc.com*js/embed.js*NDN Player Suite*widget
+assets.newsinc.com*analyticsprovider.svc/*NDN Analytics*analytics
+assets.newsinc.com*ndn.2.js*NDN Analytics*analytics
+forensics1000.com*js*LeadForensics*tracker
+c1.web-visor.com*c.js*WebVisor*analytics
+beta.web-visor.com*c.js*WebVisor*analytics
+widgetserver.com*syndication/subscriber*WidgetBox*tracker
+widget.trustpilot.com*bootstrap/v5/tp.widget.bootstrap.min.js*Trustpilot*widget
+js.indexww.com*ht/cur3.js*Index Exchange*tracker
+js.indexww.com*ht/cur3.js*Index Exchange (Formerly Casale Media)*ad
+fx.gtop.ro*js/gtop.js*GTop*analytics
+storage.trafic.ro*js/trafic.js*Trafic*analytics
+slashdot.org*slashdot-it.pl*Slashdot Widget*widget
+yarpp.org*pixels/*Adknowledge*ad
+tracemyip.org*tracker/*TraceMyIP*tracker
+browser-update.org*update.js*Browser Update*widget

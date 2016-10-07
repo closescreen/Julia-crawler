@@ -1,0 +1,2474 @@
+susnet.nu**Blog Rating Tracker*tracker
+tru.am**trueAnthem*widget
+mixmarket.biz**AdLabs*ad
+adnet.biz**adNET.de*ad
+mconet.biz**MCOnet*tracker
+trafficfactory.biz**Pornvertising*ad
+stat.webtrack.biz**webtrack*analytics
+ro2.biz**Ro2.biz*ad
+clickky.biz**Clickky*ad
+roia.biz**TrackingSoft*analytics
+tr.webantenna.info**WebAntenna*analytics
+sonician.info**Sonican*tracker
+aucourant.info**Advaction*ad
+clicking.com.tw**ClicKing*ad
+blogad.com.tw**BlogAD*ad
+leady.cz**Leady*analytics
+imedia.cz**Imedia*ad
+bbmedia.cz**BBelements*ad
+ad4mat.cz**ad4mat*ad
+im.cz**Imedia*ad
+g3nesis.com.br**G3NESIS*analytics
+adserver.com.br**Predicta*ad
+widget.dihitt.com.br**diHITT Badge*widget
+ad4mat.br**ad4mat*ad
+spot.im**Spot.IM*widget
+adsfac.sg**Facilitate Digital*ad
+ad4mat.ar**ad4mat*ad
+adbox.lv**AdBox*ad
+mycounter.com.ua**MyCounter.ua*analytics
+mbn.com.ua**Master Banner Network*ad
+c8.net.ua**C8 Network*ad
+mycounter.ua**MyCounter.ua*analytics
+hit.ua**HIT.UA*tracker
+r.i.ua**i.ua*analytics
+reactivpub.fr**Reactivpub*ad
+clicmanager.fr**ClicManager*ad
+orangeads.fr**Orange*ad
+livecount.fr**Blog Rating Tracker*tracker
+c.orange.fr**Orange*ad
+iapref.orange.fr**Orange*ad
+gstat.orange.fr**Orange*ad
+ad6media.fr**ad6media*ad
+weborama.fr**Weborama*ad
+affiliaweb.fr**Affiliaweb*ad
+reussissonsensemble.fr**Affilinet GmbH*ad
+ad4mat.fr**ad4mat*ad
+assoc-amazon.fr**Amazon Associates*ad
+beead.fr**eBuzzing*ad
+tradelab.fr**Tradelab*ad
+adnext.fr**Adverline*ad
+ad6.fr**ad6media*ad
+fluidads.co**FluidAds*ad
+beanstock.co**Beanstock Media*tracker
+realtime.co**Realtime*analytics
+prfct.co**Perfect Audience*ad
+fyre.co**Livefyre*widget
+research-int.se**TNS*analytics
+3c45d848d99.se**Wiget Media*ad
+ads.aftonbladet.se**Aftonbladet Ads*ad
+webstat.se**Webstat.se*tracker
+emediate.se**Emediate*ad
+adaction.se**AdAction*ad
+susnet.se**Blog Rating Tracker*tracker
+webtraffic.se**Webtraffic*analytics
+ad4mat.se**ad4mat*ad
+easyresearch.se**Questback*tracker
+livere.co.kr**LiveRe*widget
+adcheck.about.co.kr**eBay Korea*ad
+ad.about.co.kr**eBay Korea*ad
+adv.imadrep.co.kr**imad*ad
+adinsight.co.kr**eMnet*ad
+outbanner.hu.co.kr**Outbanner*ad
+realclick.co.kr**RealClick*ad
+dimpact.co.il**Digital Impact*ad
+adland.co.il**AdLand*ad
+gooo.al**Goooal*tracker
+resmeter.respublica.al**Res-meter*tracker
+m4n.nl**M4N*ad
+justpremium.nl**Just Premium*ad
+affiliate4you.nl**Affiliate4You*ad
+webhelpje.nl**Webhelpje*widget
+ds1.nl**Daisycon*ad
+icstats.nl**ICStats*analytics
+our.glossip.nl**Crowdynews*widget
+stealth.nl**Blog Rating Tracker*tracker
+sharecompany.nl**ShareCompany*analytics
+bobum.nl**Blog Rating Tracker*tracker
+quintrics.nl**ShareCompany*analytics
+ad.adverteerdirect.nl**Adverteerdirect*ad
+ad4mat.nl**ad4mat*ad
+adscience.nl**Adscience*ad
+ant.conversive.nl**Conversive*tracker
+speed-trap.nl**Cerberus Speed-Trap*tracker
+beacons.hottraffic.nl**HotTraffic*tracker
+ad-serverparc.nl**AdLantic*ad
+webads.nl**WebAds*ad
+hiro.tv**HIRO*ad
+teads.tv**Teads*ad
+sync.adap.tv**Adap.tv*ad
+set.adap.tv**Adap.tv*ad
+log.adap.tv**Adap.tv*ad
+segments.adap.tv**Adap.tv*ad
+u-ads.adap.tv**Adap.tv*ad
+qlog.adap.tv**Adap.tv*ad
+redir.adap.tv**Adap.tv*ad
+ads.adap.tv**Adap.tv*ad
+videoplaza.tv**Videoplaza*ad
+adne.tv**appTV*ad
+go.affec.tv**Affectv*ad
+vidible.tv**Vidible*ad
+teljari.is**Modernus*analytics
+adnetwork.pro**ADNETWORK.PRO*ad
+cxt.ms**Connexity*ad
+sitetag.us**SiteTag*analytics
+lead.adsender.us**Lucini*tracker
+adsfac.us**Facilitate Digital*ad
+loader.engage.gsfn.us**GetSatisfaction*widget
+mpstat.us**SOASTA mPulse*analytics
+widgets.amung.us**Whos.amung.us*widget
+whos.amung.us**Whos.amung.us*widget
+nmcdn.us**Newsmax*widget
+admaya.in**Admaya*ad
+tidbit.co.in**Tidbit*widget
+xiti**AT Internet*analytics
+popin.cc**popIn*ad
+cnt.tyxo.bg**Blog Rating Tracker*tracker
+counter.search.bg**Blog Rating Tracker*tracker
+easyads.bg**EasyAds*ad
+b.grabo.bg**Grabo Affiliate*ad
+ad4mat.bg**ad4mat*ad
+content.ad**Content.ad*tracker
+spider.ad**Spider.Ad*ad
+dataxpand.script.ag**Dataxpand*ad
+supert.ag**Datalicious SuperTag*widget
+truehits.in.th**Truehits.net*analytics
+hits.e.cl**Certifica Metric*analytics
+bepolite.eu**smartAD*ad
+trgt.eu**Pilot*ad
+coremetrics.eu**Coremetrics*analytics
+adsfac.eu**Facilitate Digital*ad
+emediate.eu**Emediate*ad
+adinsight.eu**ResponseTap*tracker
+9nl.eu**ClickMeter*analytics
+addynamics.eu**AdDynamics*ad
+eclick.vn**eClick*ad
+ad360.vn**Ad360*ad
+adnet.vn**Adnet*ad
+ambientplatform.vn**Ambient Digital*ad
+adnetwork.net.vn**Ambient Digital*ad
+adtimaserver.vn**Adtima*ad
+vietad.vn**VietAd*ad
+anthill.vn**Ants*ad
+adnetwork.vn**Ambient Digital*ad
+ants.vn**Ants*ad
+admicro.vn**AdMicro*ad
+admaster.com.cn**AdMaster.cn*ad
+cn01.dwstat.cn**dwstat.cn*tracker
+comm100.cn**Comm100*widget
+dmclick.cn**Darwin Marketing*tracker
+omgts.cn**Omnicom China*ad
+x.cnt.my**Smart Leads*tracker
+netscope.data.marktest.pt**Marktest*analytics
+burt.io**Burt*analytics
+ebz.io**eBuzzing*ad
+lp4.io**Linkpulse*tracker
+assets.helpful.io**Helpful*widget
+cosmi.io**adingo*ad
+clickigniter.io**ClickIgniter*tracker
+api.keen.io**Keen IO*analytics
+xref.io**Adlux*ad
+segment.io**Segment*analytics
+intercom.io**Intercom*widget
+api.trak.io**trak.io*analytics
+goals.ar.gy**Argyle Social*tracker
+lypn.net**Lynchpin Analytics*analytics
+fastclick.net**ValueClick Media*ad
+esm1.net**Think Realtime*tracker
+yldmgrimg.net**Right Media*ad
+domdex.net**Magnetic*tracker
+cedexis.net**Cedexis Radar*analytics
+atomex.net**Komli ATOM*ad
+r7ls.net**Impact Radius*tracker
+ehavior.net**Ehavior*analytics
+adc-serv.net**ad:C media*tracker
+adbutter.net**Makazi Group*ad
+netshelter.net**NetShelter*ad
+spring-tns.net**TNS*analytics
+egain.net**eGain*widget
+adorika.net**Adorika*ad
+ats.tumri.net**Ensemble*tracker
+liveclicker.net**Liveclicker*widget
+pictela.net**Advertising.com*ad
+adviva.net**Specific Media*ad
+livechatinc.net**LiveChat*widget
+pages05.net**Silverpop*ad
+lpsnmedia.net**LivePerson*widget
+bannerconnect.net**Banner Connect*ad
+connexity.net**Connexity*ad
+adbureau.net**Atlas*ad
+nr-data.net**New Relic*analytics
+mkt51.net**Silverpop*ad
+liveperson.net**LivePerson*widget
+gw-services.vtrenz.net**Silverpop*ad
+media.net**Media.net*ad
+adverserve.net**adverServe*ad
+888media.net**888media*ad
+ziyu.net**Blog Rating Tracker*tracker
+feedads.g.doubleclick.net**Google Adsense*ad
+g.doubleclick.net**DoubleClick*ad
+iv.doubleclick.net**Right Media*ad
+fls.doubleclick.net**DoubleClick Floodlight*tracker
+doubleclick.net**DoubleClick*ad
+lduhtrp.net**Commission Junction*ad
+tradetracker.net**TradeTracker*analytics
+webtrekk-asia.net**Webtrekk*analytics
+dominocounter.net**Domino Counter*tracker
+dynad.net**DynAd*ad
+infinity-tracking.net**Infinity Tracking*tracker
+peer39.net**Peer39*tracker
+dlqm.net**Dynamic Logic*tracker
+cedexis-radar.net**Cedexis Radar*analytics
+i.total-media.net**Total Media*ad
+netbiscuits.net**Netbiscuits*analytics
+opentracker.net**Opentracker*analytics
+zdbb.net**Ziff Davis*ad
+adnetinteractive.net**Mediawhiz*ad
+effectivemeasure.net**Effective Measure*analytics
+doublemax.net**ClickForce*ad
+eyeota.net**Eyeota*tracker
+nedstatbasic.net**Motigo Webstats*analytics
+adcloud.net**AdCloud*ad
+w55c.net**DataXu*ad
+connect.decknetwork.net**The DECK*ad
+ads.newtentionassets.net**Newtention*ad
+modallogix.net**Smarter Remarketer*ad
+everestjs.net**Media Optimizer (Adobe)*tracker
+adnxs.net**AppNexus*ad
+typekit.net**Typekit by Adobe*widget
+targetpsp.px.247inc.net**247-inc*tracker
+c.bigmir.net**bigmir*tracker
+ip-label.net**ip-label*tracker
+buzzbytes.net**Buzz Media*ad
+fmpub.net**Federated Media*ad
+rvty.net**rtbLab*ad
+beacon.krxd.net**Krux Digital*tracker
+cdn.krxd.net**Krux Digital*tracker
+rcads71.net**Switch Concepts*ad
+p161.net**Platform161*ad
+contentwidgets.net**Wahoha*widget
+avail.net**Avail*ad
+adsfactor.net**Adsfactor*ad
+getconversion.net**GetConversion*widget
+onclickads.net**Propeller Ads*ad
+surinter.net**Adverline*ad
+freegeoip.net**IP Mappers*tracker
+flagads.net**Flag Ads*ad
+adru.net**adru.net*ad
+redintelligence.net**redvertisment*ad
+adhigh.net**GetIntent*ad
+publicidad.net**Publicidad.net*ad
+gmads.net**GroupM Server*ad
+hop.clickbank.net**ClickBank*ad
+c.conversionlogic.net**Conversion Logic*analytics
+rlcdn.net**ReachLocal*ad
+ad.newsnow.net**Switch Concepts*ad
+prnx.net**Premonix*analytics
+scout.scoutanalytics.net**Scout Analytics*analytics
+gscontxt.net**Grapeshot*tracker
+sublimemedia.net**Eyeconomy*tracker
+pingdom.net**Pingdom*tracker
+adsrevenue.net**YesUp Advertising*ad
+marketo.net**Marketo*analytics
+qbaka.net**Qbaka*tracker
+segmint.net**Segmint*tracker
+viraladnetwork.net**Viral Ad Network*ad
+z5x.net**DSNR Media Group*ad
+media.gsimedia.net**GSI Media*ad
+ppjol.net**Press+*widget
+connect.facebook.net**Facebook Connect*widget
+anametrix.net**Anametrix*analytics
+scorecard.wspisp.net**Leads by Web.com*tracker
+cdn.ywxi.net**McAfee Secure*widget
+adform.net**Adform*ad
+pl-engine.intextad.net**ReWords*ad
+zwaar.net**Zwaar*ad
+adclear.net**AdClear*ad
+pages02.net**Silverpop*ad
+ad.adnetwork.net**AdNetwork.net*ad
+ad4mat.net**ad4mat*ad
+brandaffinity.net**Brand Affinity*ad
+admixer.net**Admixer*ad
+eulerian.net**Eulerian*analytics
+quick-counter.net**Quick-counter.net*tracker
+adtegrity.net**Adtegrity*ad
+chitika.net**Chitika*ad
+webtrekk.net**Webtrekk*analytics
+affiz.net**Affiz CPM*ad
+abmr.net**Akamai Cookie Sync*ad
+yieldoptimisers.net**Switch Concepts*ad
+adadvisor.net**Neustar AdAdvisor*tracker
+adlink.net**Hi-Media Performance*ad
+everesttech.net**Media Optimizer (Adobe)*tracker
+px.owneriq.net**OwnerIQ*tracker
+owneriq.net**OwnerIQ*tracker
+strcst.net**8thBridge*widget
+linkoffers.net**FlexOffers*ad
+facetz.net**FACETz*tracker
+analytics.leadlifesolutions.net**LeadLife*analytics
+mxptint.net**MaxPoint Interactive*ad
+cleanrm.net**Korrelate*tracker
+pixel.yola.net**Yola Analytics*analytics
+analytics.yola.net**Yola Analytics*analytics
+hs-analytics.net**HubSpot*analytics
+readserver.net**appTV*ad
+ads.targetix.net**Targetix*ad
+e2ma.net**Emma*widget
+nuggad.net**Nugg.Ad*ad
+appssavvy.net**appssavvy*ad
+monitus.net**Monitus*tracker
+geoplugin.net**geoPlugin*tracker
+sensic.net**GfK*analytics
+adcastplus.net**Klaustech*tracker
+service.optify.net**Optify*tracker
+afy11.net**Adify*ad
+2o7.net**Omniture (Adobe Analytics)*tracker
+openx.net**OpenX*ad
+trackedlink.net**dotMailer*tracker
+adhese.net**Adhese*ad
+tags.dashboardad.net**Dashboard Ad*ad
+adverticum.net**Adverticum*ad
+st.magnify.net**Magnify Stats*tracker
+ads.solvedigital.net**Switch Concepts*ad
+gum.criteo.com**Criteo*tracker
+widget.criteo.com**Criteo*tracker
+sslwidget.criteo.com**Criteo*tracker
+rtax.criteo.com**Criteo*ad
+cas.criteo.com**Criteo*ad
+static.criteo.net**Criteo*ad
+r.criteo.com**Criteo*ad
+cat.nl.eu.criteo.com**Criteo*ad
+cat.fr.eu.criteo.com**Criteo*ad
+static.criteo.com**Criteo*ad
+rtax.eu.criteo.com**Criteo*ad
+int.teracent.net**Teracent*tracker
+adserver.teracent.net**Teracent*tracker
+searchforce.net**SearchForce*tracker
+viewablemedia.net**Visible Measures*analytics
+smarterremarketer.net**Smarter Remarketer*ad
+popcash.net**Popcash*ad
+e-kolay.net**MedyaNet*ad
+collective-media.net**AMP Platform*ad
+clickexperts.net**ClickExperts*tracker
+predicta.net**Predicta*ad
+rfihub.net**Rocket Fuel*tracker
+adsvc1107131.net**MediaShift*ad
+buzzcity.net**BuzzCity*ad
+trafficjunky.net**TrafficJunky*ad
+freehostedscripts.net**IP Mappers*tracker
+ads.placester.net**Placester*ad
+deqwas.net**Deqwas*analytics
+a.ucoz.net**uCoz*tracker
+tracker.euroweb.net**Euroweb Counter*tracker
+certona.net**Certona*tracker
+am15.net**advmaker.ru*ad
+baynote.net**Baynote Observer*tracker
+dt00.net**MarketGid*ad
+sexad.net**SexAdNetwork*ad
+specificclick.net**Specific Media*ad
+dt07.net**MarketGid*ad
+adsfac.net**Facilitate Digital*ad
+ad.vi-tag.net**VIVALU*analytics
+vi-tag.net**VIVALU*analytics
+polyad.net**PolyAd*ad
+smaato.net**Smaato*ad
+clicktalecdn.sslcs.cdngc.net**ClickTale*analytics
+bloggurat.net**Blog Rating Tracker*tracker
+adn.fusionads.net**BuySellAds*ad
+fusionads.net**Fusion Ads*ad
+ojrq.net**Impact Radius*tracker
+pagefair.net**PageFair*tracker
+go-mpulse.net**SOASTA mPulse*analytics
+e-planning.net**e-planning*ad
+ezakus.net**Ezakus*ad
+adformdsp.net**Adform*ad
+feedcat.net**FeedCat*widget
+evyy.net**Impact Radius*tracker
+ads.brand.net**Brand.net*ad
+bbtrack.net**NetBooster Group*tracker
+omtrdc.net**Omniture (Adobe Analytics)*tracker
+ad-srv.net**Target Performance*ad
+wunderloop.net**Audience Science*tracker
+dn3y71tq7jf07.cloudfront.net**Barilliance*tracker
+dl1d2m8ri9v3j.cloudfront.net**TrackJS*analytics
+d3s7ggfq1s6jlj.cloudfront.net**Qualaroo*widget
+d31bfnnwekbny6.cloudfront.net**Kupona*tracker
+d3aa0ztdn3oibi.cloudfront.net**500friends*widget
+d2xkqxdy6ewr93.cloudfront.net**BrainSINS*ad
+d1af033869koo7.cloudfront.net**[24]7*widget
+d3v27wwd40f0xu.cloudfront.net**Sidecar*ad
+d3m83gvgzupli.cloudfront.net**SeeWhy*analytics
+d3ezl4ajpp2zy8.cloudfront.net**Magnetic*tracker
+doug1izaerwt3.cloudfront.net**Kissmetrics*analytics
+d1447tq2m68ekg.cloudfront.net**AB Tasty*tracker
+d3cxv97fi8q177.cloudfront.net**Impact Radius*tracker
+d2gfdmu30u15x7.cloudfront.net**TraceView*tracker
+d3q6px0y2suh5n.cloudfront.net**Rich*analytics
+dnhgz729v27ca.cloudfront.net**Convert Platform*tracker
+d5phz18u4wuww.cloudfront.net**Visual Website Optimizer*tracker
+d2wy8f7a9ursnm.cloudfront.net**Bugsnag*tracker
+de8of677fyt0b.cloudfront.net**AppDynamics*analytics
+d2zah9y47r7bi2.cloudfront.net**TrackJS*analytics
+d9lq0o81skkdj.cloudfront.net**Think Realtime*tracker
+d1lm7kd3bd3yo9.cloudfront.net**6Sense*analytics
+d1l6p2sc9645hc.cloudfront.net**GoSquared*analytics
+d1q7pknmpq2wkm.cloudfront.net**Fanplayr*analytics
+d3qxef4rp70elm.cloudfront.net**Vero*tracker
+dnn506yrbagrg.cloudfront.net**Crazy Egg*analytics
+d3nslu0hdya83q.cloudfront.net**Sentry*tracker
+d16fk4ms6rqz1v.cloudfront.net**SaleCycle*ad
+d1cerpgff739r9.cloudfront.net**Cadreon*ad
+d2uevgmgh16uk4.cloudfront.net**SeeWhy*analytics
+d28ethi6slcjbm.cloudfront.net**SeeWhy*analytics
+d8rk54i4mohrb.cloudfront.net**SimpleReach*tracker
+d3iwjrnl4m67rd.cloudfront.net**TripleLift*ad
+d2dq2ahtl5zl1z.cloudfront.net**Segment*analytics
+dssja7qsifeak.cloudfront.net**Experimently*ad
+d3pkntwtp2ukl5.cloudfront.net**Unbounce*tracker
+dtlilztwypawv.cloudfront.net**Sift Science*tracker
+d1tprjo2w7krrh.cloudfront.net**LeadiD*tracker
+d29p64779x43zo.cloudfront.net**trak.io*analytics
+d2bw638ufki166.cloudfront.net**Granify*widget
+d3uemyw1e5n0jw.cloudfront.net**Placester*ad
+du8783wkf05yr.cloudfront.net**Omniture (Adobe Analytics)*tracker
+d3von6il1wr7wo.cloudfront.net**Dianomi*ad
+d36lvucg9kzous.cloudfront.net**Heap*analytics
+d81mfvml8p5ml.cloudfront.net**display block*analytics
+d1ros97qkrwjf5.cloudfront.net**New Relic*analytics
+d1ivexoxmp59q7.cloudfront.net**Convertro*tracker
+d1uwd25yvxu96k.cloudfront.net**ContactMe*widget
+d3mvnvhjmkxpjz.cloudfront.net**Usersnap*widget
+d13im3ek7neeqp.cloudfront.net**SeeWhy*analytics
+d2oh4tlt9mrke9.cloudfront.net**SessionCam*analytics
+d24n15hnbwhuhn.cloudfront.net**Amplitude*analytics
+d3rmnwi2tssrfx.cloudfront.net**Spring Metrics*analytics
+d15qhc0lu1ghnk.cloudfront.net**Errorception*tracker
+d1n7kk4vfnecsc.cloudfront.net**Kissmetrics*analytics
+d1qpxk1wfeh8v1.cloudfront.net**Cadreon*ad
+d12ulf131zb0yj.cloudfront.net**ReachForce*tracker
+dtkm4pd19nw6z.cloudfront.net**UserRules*widget
+d47xnnr8b1rki.cloudfront.net**Segment*analytics
+d1991e1bwxgrnr.cloudfront.net**Kissmetrics*analytics
+feedmeter.net**Blog Rating Tracker*tracker
+rtbidder.net**Brandscreen*ad
+mobalyzer.net**Mobalyzer*analytics
+adimg.net**AdLantis*ad
+insitez.blob.core.windows.net**Insitez*analytics
+adaos-ads.net**ADAOS*ad
+ivimedia.net**ividence*tracker
+intgr.net**Publir*ad
+linkstorm.net**Linkstorm*ad
+adspirit.net**Ad Spirit*ad
+sb.sellpoint.net**SellPoint*widget
+intermarkets.net**Intermarkets*ad
+telemetryverification.net**Telemetry*tracker
+crwdcntrl.net**Lotame*tracker
+admaster.net**AdMaster*ad
+ati-host.net**AT Internet*analytics
+pixfuture.net**PixFuture*ad
+ads.shorttail.net**AdGent Digital*ad
+go.realvu.net**RealVu*ad
+crosspixel.net**Cross Pixel Media*tracker
+ad.media-servers.net**MediaShakers*ad
+qwobl.net**Audience Ad Network*ad
+grmtech.net**GroupM Server*ad
+h12-media.net**H12 Ads*ad
+hello.staticstuff.net**Clicky*analytics
+a8.net**A8*ad
+admagnet.net**Ad Magnet*ad
+intentmedia.net**Intent Media*tracker
+odnxs.net**OpenX*ad
+simplytechnology.net**Switch Concepts*ad
+rsys4.net**Responsys*tracker
+gwa.reedbusiness.net**Omniture (Adobe Analytics)*tracker
+jump-time.net**JumpTime*tracker
+amimg.net**Ad Magnet*ad
+client.cobrowser.net**CoBrowser*widget
+simpleadserver.net**Simple AdServer*ad
+npario-inc.net**nPario*tracker
+admission.net**Cobalt Group*ad
+demdex.net**Media Optimizer (Adobe)*tracker
+mm7.net**Acxiom*ad
+clickintext.net**ClickInText*ad
+double.net**Double.net*ad
+sageanalyst.net**SageMetrics*analytics
+fendix.net**Switch Concepts*ad
+tealium.hs.llnwd.net**Tealium*analytics
+tacoda.net**Tacoda*ad
+keymetric.net**KeyMetric*analytics
+offerpoint.net**Blue Cherry Group*tracker
+reinvigorate.net**Reinvigorate*analytics
+iprom.net**iprom*ad
+yceml.net**Commission Junction*ad
+cdn.decibelinsight.net**Decibel Insight*tracker
+onenetworkdirect.net**Digital River*tracker
+durasite.net**DuraSite*ad
+adsummos.net**Operative Media*ad
+liqwid.net**Liqwid*ad
+7eer.net**Impact Radius*tracker
+content.webcollage.net**Webcollage*analytics
+media.webcollage.net**Webcollage*analytics
+popadscdn.net**PopAds*ad
+pages01.net**Silverpop*ad
+udmserve.net**Underdog Media*ad
+adbooth.net**Adbooth*ad
+pro-market.net**AlmondNet*ad
+revsci.net**Audience Science*tracker
+clicktale.net**ClickTale*analytics
+axf8.net**Gomez*tracker
+semasio.net**Semasio*tracker
+livechatnow.net**LiveChatNow*widget
+trafficgate.net**Rakuten LinkShare*ad
+poll.truehits.net**Truehits.net*analytics
+banner.truehits.net**Truehits.net*analytics
+adzerk.net**Adzerk*ad
+black-buck.net**Numbate*ad
+3gl.net**Catchpoint*tracker
+anrdoezrs.net**Commission Junction*ad
+beead.net**eBuzzing*ad
+ad.yieldlab.net**Yieldlab*ad
+chartbeat.net**ChartBeat*analytics
+beacon.clickequations.net**ClickEquations*tracker
+js.clickequations.net**ClickEquations*tracker
+bidswitch.net**BidSwitch*ad
+ad.globaltakeoff.net**GlobalTakeoff*ad
+trkme.net**nonstop Consulting*tracker
+statistik-gallup.net**TNS*analytics
+telemetrytaxonomy.net**Telemetry*tracker
+srv.sayyac.net**Sayyac*analytics
+korrelate.net**Korrelate*tracker
+tns-cs.net**TNS*analytics
+a2dfp.net**Ad Decisive*ad
+mediainter.net**BBelements*ad
+livere.co.kr.cizion.ixcloud.net**LiveRe*widget
+innity.net**Innity*ad
+trafficrevenue.net**Traffic Revenue*ad
+tentaculos.net**Pulpo Media*ad
+code.taggify.net**Taggify*ad
+qksz.net**Commission Junction*ad
+ad.yieldmanager.net**Right Media*ad
+schetu.net**Advaction*ad
+kontagent.net**Kontagent*analytics
+tlm100.net**Telemetry*tracker
+accesstrade.net**AccessTrade*ad
+bloggerads.net**BloggerAds*ad
+trk.newtention.net**Newtention*ad
+newtention.net**Newtention*ad
+ads.newtention.net**Newtention*ad
+go2web20.net**Generic Social Sharing Widgets*widget
+monetate.net**Monetate*analytics
+svlu.net**SeeVolution*analytics
+mystat-in.net**Mytop Counter*tracker
+brandmovers.net**Brandmovers*ad
+ads.avazu.net**Avazu Network*ad
+adstars.co.id**Adstars*ad
+adplus.co.id**ADPLUS*ad
+wemfbox.ch**NET-Metrix*widget
+ad4mat.ch**ad4mat*ad
+openadex.dk**Open AdExchange*ad
+tns-gallup.dk**TNS*analytics
+euroads.dk**Euroads*ad
+nope.dk**Blog Rating Tracker*tracker
+emediate.dk**Emediate*ad
+userneeds.dk**Userneeds*widget
+chart.dk**Blog Rating Tracker*tracker
+online.adservicemedia.dk**Adservice Media*ad
+ad4mat.dk**ad4mat*ad
+netminers.dk**Netminers*analytics
+ad.advantagemedia.dk**Advantage Media*ad
+t.webtracker.jp**WebTracker*analytics
+fout.jp**FreakOut*ad
+adingo.jp.eimg.jp**adingo*ad
+maist.jp**Pornvertising*ad
+eco-tag.jp**ecotag*ad
+i2i.jp**i2i.jp*ad
+microad.jp**MicroAd*ad
+adingo.jp**adingo*ad
+advg.jp**AdPlan*analytics
+s.yjtag.jp**Yahoo Analytics*analytics
+adlantis.jp**AdLantis*ad
+ad.vcm.jp**ADResult*ad
+ad-move.jp**Pornvertising*ad
+nakanohito.jp**Nakanohito*analytics
+clickanalyzer.jp**WriteUp ClickAnalyzer*analytics
+moras.jp**moreAds*ad
+tracer.jp**Digital Forest*tracker
+plugins.mixi.jp**mixi*widget
+ov.yahoo.co.jp**Yahoo! Overture*ad
+i-mobile.co.jp**i-mobile*ad
+logly.co.jp**logly*ad
+cyberwing.co.jp**Cyber Wing*ad
+impact-ad.jp**impAct*ad
+ad-cloud.jp**adcloud*ad
+assoc-amazon.jp**Amazon Associates*ad
+ptengine.jp**Pt engine*analytics
+trustclick.ne.jp**Logicad*ad
+ebis.ne.jp**AD EBiS*analytics
+taggyad.jp**TAGGY*ad
+bypass.jp**Bypass*ad
+shinobi.jp**Ninja Access Analysis*analytics
+a-cast.jp**activecore*ad
+japanmetrix.jp**Bluemetrix*analytics
+ot.ca-mpr.jp**MicroAd*ad
+adresult.jp**ADResult*ad
+adnet.com.tr**Adnet (MedyaNet)*ad
+adklik.com.tr**Adklik*ad
+ad4mat.tr**ad4mat*ad
+hotwords.es**HOTWords*ad
+colbenson.es**SearchBroker*widget
+ad6media.es**ad6media*ad
+ad4mat.es**ad4mat*ad
+tnsinternet.be**Kantar Media*tracker
+webhelpje.be**Webhelpje*widget
+ad4mat.be**ad4mat*ad
+adhese.be**Adhese*ad
+9nl.be**ClickMeter*analytics
+anetwork.ir**Anetwork*ad
+adman.gr**ADMAN*ad
+adman.in.gr**ADMAN*ad
+ad4mat.gr**ad4mat*ad
+blogglisten.no**Blog Rating Tracker*tracker
+webtraffic.no**Webtraffic*analytics
+ad4mat.no**ad4mat*ad
+euroads.no**Euroads*ad
+sportsbetaffiliates.com.au**Sportsbet Affiliates*ad
+newsanalytics.com.au**News Corp Beacon*tracker
+alluremedia.com.au**Allure Media*ad
+checkmystats.com.au**CheckMyStats*ad
+analytics.avanser.com.au**AVANSER*analytics
+vxml4.delacon.com.au**Delacon*analytics
+ctnetwork.hu**CTnetwork*ad
+audit.median.hu**Median*tracker
+stat.mystat.hu**MyStat*analytics
+ad4mat.hu**ad4mat*ad
+brow.si**Brow.si*widget
+smartbn.ru**SmartBN*ad
+videoclick.ru**videoclick.ru*ad
+count.rbc.ru**RBC Counter*tracker
+st.top100.ru**Rambler*tracker
+actionpay.ru**actionpay*ad
+adnet.ru**Medialand*ad
+adonweb.ru**actionpay*ad
+adhands.ru**AdHands*ad
+reformal.ru**Reformal*widget
+traforet.ru**Traforet*ad
+rmbn.ru**Rich Media Banner Network*ad
+counter.yadro.ru**LiveInternet*analytics
+ad4mat.ru**ad4mat*ad
+begun.ru**Begun*ad
+share.pluso.ru**Pluso*widget
+adriver.ru**AdRiver*ad
+tbn.ru**TBN.ru*ad
+b2bvideo.ru**B2Bvideo*ad
+mc.yandex.ru**Yandex.Metrics*analytics
+adsniper.ru**AdSniper*ad
+aitarget.ru**aitarget*ad
+odinkod.ru**eTargeting*ad
+spylog.ru**Openstat*analytics
+mastertarget.ru**MasterTarget*ad
+cityads.ru**CityAds*ad
+adnwb.ru**actionpay*ad
+maxlab.ru**Maxlab*ad
+videoclik.ru**videoclick.ru*ad
+luxup.ru**AdLabs*ad
+connect.ok.ru**Mail.Ru Group*widget
+uralweb.ru**Blog Rating Tracker*tracker
+gdeslon.ru**GdeSlon*ad
+kavanga.ru**Kavanga*ad
+iplogger.ru**IPLogger*tracker
+data.redhelper.ru**RedHelper*widget
+directadvert.ru**Direct/ADVERT*ad
+datamind.ru**DataMind*ad
+b2bcontext.ru**B2BContext*ad
+loveadvert.ru**Play by Mamba*ad
+ad.mail.ru**Mail.Ru Banner Network*ad
+rotaban.ru**RotaBan*ad
+adwolf.ru**AdFox*ad
+ad.rambler.ru**Rambler*tracker
+ad2.rambler.ru**Rambler*tracker
+top100-images.rambler.ru**Rambler*tracker
+counter.rambler.ru**Rambler*tracker
+goodadvert.ru**GoodADVERT*ad
+medialand.ru**Medialand*ad
+vidigital.ru**imho vi*ad
+ulogix.ru**uLogix*ad
+contextbar.ru**Nolix*ad
+magna.ru**Magna Advertise*ad
+adlabs.ru**AdLabs*ad
+otclick-adv.ru**otClick*ad
+underclick.ru**Underclick*ad
+leadhit.ru**LeadHit*ad
+cnstats.ru**CNStats*tracker
+am10.ru**advmaker.ru*ad
+livetex.ru**LiveTex*widget
+counter.megaindex.ru**MegaIndex*analytics
+adfox.ru**AdFox*ad
+recreativ.ru**Recreativ*ad
+rutarget.ru**rutarget*tracker
+madnet.ru**MADNET*ad
+digitaltarget.ru**Vi*ad
+rollad.ru**Rollad*ad
+adeasy.ru**AdEasy*ad
+shareth.ru**ShareThrough*ad
+gameleads.ru**CityAds*ad
+advaction.ru**Advaction*ad
+advombat.ru**Aidata*tracker
+tns-counter.ru**TNS*analytics
+adnet.lt**Adnet Media*ad
+adclick.lt**Adnet Media*ad
+oewabox.at**OWA*analytics
+ad4mat.at**ad4mat*ad
+po.st**Po.st*widget
+zero.kz**ZERO.kz*tracker
+spn.ee**Spinnakr*analytics
+tracking.onefeed.co.uk**Onefeed*ad
+tags.sitetagger.co.uk**Signal*tracker
+roi.vertical-leap.co.uk**Vertical Leap*tracker
+ad6media.co.uk**ad6media*ad
+dianomioffers.co.uk**Dianomi*ad
+grapeshot.co.uk**Grapeshot*tracker
+valuedopinions.co.uk**Valued Opinions*tracker
+sc.qsoft.co.uk**Switch Concepts*ad
+unanimis.co.uk**Unanimis*ad
+ads-littlestarmedia.co.uk**Switch Concepts*ad
+abccampaignaudit.co.uk**Switch Concepts*ad
+adgenie.co.uk**adGENIE*ad
+ad4mat.co.uk**ad4mat*ad
+assoc-amazon.co.uk**Amazon Associates*ad
+successfultogether.co.uk**Affilinet GmbH*ad
+beead.co.uk**eBuzzing*ad
+wowanalytics.co.uk**WOW Analytics*analytics
+adskeeper.co.uk**Yengo*ad
+say.ac**Say.ac*analytics
+eadv.it**eADV*ad
+payclick.it**PayClick*ad
+u.heatmap.it**Heatmap*analytics
+l.heatmap.it**Heatmap*analytics
+shinystat.it**ShinyStat*analytics
+arubamediamarketing.it**Aruba Media Marketing*ad
+tracking.conversionlab.it**Trackset ConversionLab*analytics
+trackset.it**Trackset VisualPath*analytics
+clickpoint.it**Clickpoint*ad
+banzaiadv.it**Banzai Advertising*ad
+ad4mat.it**ad4mat*ad
+9nl.it**ClickMeter*analytics
+m8lab.it**M8Lab*ad
+ammadv.it**Aruba Media Marketing*ad
+bt.rcs.it**RCS MediaGroup*ad
+ads.rcs.it**RCS MediaGroup*ad
+chango.ca**Chango*tracker
+assoc-amazon.ca**Amazon Associates*ad
+api.flyertown.ca**Flyertown*widget
+kau.li**Kauli*ad
+adlive.ie**Switch Concepts*ad
+ad4mat.mx**ad4mat*ad
+esendra.fi**Esendra*ad
+kavijaseuranta.fi**Fonecta*tracker
+admp.sanoma.fi**Sanoma*ad
+analytics.sanoma.fi**Sanoma*ad
+simpli.fi**Simpli.fi*ad
+ad4mat.fi**ad4mat*ad
+euroads.fi**Euroads*ad
+mystat.pl**Blog Rating Tracker*tracker
+rec.quartic.pl**Quartic*analytics
+adfreestyle.pl**adFreestyle*ad
+hit.gemius.pl**Gemius*analytics
+nextclick.pl**Nextclick*ad
+stat.4u.pl**stat4u*analytics
+adstat.4u.pl**stat4u*analytics
+adtaily.pl**AdTaily*ad
+adtotal.pl**AdTotal*ad
+adsearch.adkontekst.pl**Adkontekst*ad
+adocean.pl**AdOcean*tracker
+intext.contextad.pl**Context.ad*ad
+ad4mat.pl**ad4mat*ad
+clickonometrics.pl**Clickonometrics*ad
+smartcontext.pl**SmartContext*ad
+incontext.pl**ReWords*ad
+adview.pl**Adview (Agora)*ad
+optimix.asia**iClick*ad
+ads.mocean.mobi**mOcean Mobile*ad
+174.37.54.170**Blog Rating Tracker*tracker
+9nl.me**ClickMeter*analytics
+trackers.adtarget.me**Adtarget.me*ad
+static-trackers.adtarget.me**Adtarget.me*ad
+polar.me**Polar Mobile*ad
+fbshare.me**Generic Social Sharing Widgets*widget
+static.getkudos.me**GetKudos*widget
+photorank.me**Olapic*widget
+mvb.me**Movable Media*analytics
+qrius.me**Qrius*widget
+51.la**51.La*analytics
+adnet.de**adNET.de*ad
+met.vgwort.de**VG Wort*analytics
+track.blogcounter.de**BlogCounter*widget
+connect.ekomi.de**eKomi*widget
+econda-monitor.de**Econda*analytics
+etracker.de**etracker*analytics
+ad4mat.de**ad4mat*ad
+assoc-amazon.de**Amazon Associates*ad
+webtrekk.de**Webtrekk*analytics
+adshot.de**Adshot.de*ad
+rs.epoq.de**epoq*widget
+adscale.de**AdScale*ad
+sponsorads.de**SponsorAds.de*ad
+feedify.de**Feedify*ad
+verticalnetwork.de**Vertical Network*tracker
+ioam.de**INFOnline*analytics
+ligatus.de**Ligatus*ad
+adserver.freenet.de**freeXmedia*ad
+revenuemax.de**RevenueMax*ad
+intelliad.de**intelliAd*ad
+leitmotiv.de**Leitmotiv*ad
+soma2.de**SOMA 2*ad
+adspirit.de**Ad Spirit*ad
+wieistmeineip.de**IP Mappers*tracker
+acc-hd.de**COADVERTISE*ad
+get.mirando.de**Mirando*tracker
+ads.adtiger.de**AdTiger*ad
+ipcounter.de**Blog Rating Tracker*tracker
+adyard.de**adyard*ad
+adtraxx.de**AdTraxx*ad
+usemax.de**Usemax*ad
+vinsight.de**Hubert Burda Media*tracker
+ivwbox.de**INFOnline*analytics
+affimax.de**AffiMax*tracker
+advolution.de**Advolution*ad
+wwa.wipe.de**Web Wipe Anlaytics*analytics
+adtech.de**ADTECH*ad
+4stats.de**4stats*tracker
+active-tracking.de**Active Performance*ad
+active-srv02.de**Active Performance*ad
+analytics-static.unister-gmbh.de**Unister*tracker
+analytics.unister-gmbh.de**Unister*tracker
+webprospector.de**WebProspector*analytics
+xplosion.de**xplosion*tracker
+adrolays.de**Adrolays*tracker
+fc.webmasterpro.de**Blog Rating Tracker*tracker
+stats.vertriebsassistent.de**DiVa*tracker
+liverail.com**LiveRail*ad
+effiliation.com**Effiliation*ad
+brsrvr.com**BloomReach*tracker
+apex-ad.com**Break Media*ad
+arena.altitude-arena.com**Altitude Digital*ad
+adk2.com**adk2*ad
+btstatic.com**Signal*tracker
+ad-stir.com**AdStir*ad
+ontoplist.com**Generic Social Sharing Widgets*widget
+leads.specificmedia.com**Specific Media*ad
+smp.specificmedia.com**Specific Media*ad
+specificmedia.com**Specific Media*ad
+ads.orange142.com**Orange142*ad
+evisitcs.com**eVisit Analyst*analytics
+eproof.com**eProof*analytics
+bbelements.com**BBelements*ad
+cptgt.com**AdOn Network*ad
+adtaily.com**AdTaily*ad
+errorception.com**Errorception*tracker
+netavenir.com**Net Avenir*ad
+reachlocallivechat.com**ReachLocal*ad
+ad.adfunky.com**Adfunky*ad
+eyeviewads.com**Eyeview*ad
+adadyn.com**Adadyn*ad
+orpae.com**ClarityRay*tracker
+rhythmxchange.com**Rhythmxchange*tracker
+blogbang.com**BlogBang*ad
+advidi.com**Advidi*ad
+publishers.halogennetwork.com**Halogen Network*ad
+hat.halogennetwork.com**Halogen Network*ad
+jivosite.com**JivoSite*widget
+featurelink.com**FeatureLink*ad
+branica.com**Branica*analytics
+intelligentpixel.modernimpact.com**Modern Impact*tracker
+vlog.leadformix.com**LeadFormix*analytics
+api.amplitude.com**Amplitude*analytics
+erovinmo.com**LinkSmart*analytics
+propellerpops.com**Propeller Ads*ad
+sociablelabs.com**Sociable Labs*ad
+c.gigcount.com**Gigya Beacon*tracker
+mediagra.com**Mediagra*ad
+jetpackdigital.com**Jetpack Digital*ad
+hlserve.com**HookLogic*ad
+9nl.com**ClickMeter*analytics
+trafficforce.com**TrafficForce*ad
+magnify360.com**Magnify360*tracker
+callmeasurement.com**Century Interactive*tracker
+ctpsnet.com**Switch Concepts*ad
+rover.ebay.com**eBay Stats*ad
+adn.ebay.com**eBay Partner Network*ad
+adnxs.com**AppNexus*ad
+way2traffic.com**Way2traffic*ad
+capacitygrid.com**Switch Concepts*ad
+adisn.com**CrowdGather*ad
+usage.trackjs.com**TrackJS*analytics
+adition.com**Adition*ad
+voicestar.com**Marchex*tracker
+crazyegg.com**Crazy Egg*analytics
+counter.personyze.com**Personyze*widget
+adspaces.ero-advertising.com**EroAdvertising*ad
+buysellads.com**BuySellAds*ad
+rotator.adjuggler.com**AdJuggler*ad
+comclick.com**Hi-Media Performance*ad
+ktcpxl.com**Katana*tracker
+mixpanel.com**Mixpanel*analytics
+devatics.com**Devatics*tracker
+impresionesweb.com**Impresiones Web*ad
+builder.extensionfactory.com**Slice Factory*widget
+cpxinteractive.com**CPX Interactive*ad
+where.com**Where*ad
+qnsr.com**QuinStreet*ad
+veeseo.com**veeseo*tracker
+brcdn.com**BloomReach*tracker
+ad.globe7.com**Axill*ad
+popcde.com**AdOn Network*ad
+powermarketing.com**Realtime*analytics
+netmining.com**Netmining*tracker
+optmd.com**Optimax Media Delivery*ad
+btg.mtvnservices.com**Viacom Tag Container*tracker
+conduit-banners.com**Conduit*ad
+awempire.com**Adult Webmaster Empire*ad
+ad.harrenmedianetwork.com**Harren Media*ad
+mookie1.com**Media Innovation Group*analytics
+widgets.getglue.com**GetGlue*widget
+search123.uk.com**Search123*ad
+tag.admeld.com**AdMeld*ad
+js.admeld.com**AdMeld*ad
+smowtion.com**Smowtion*tracker
+apmebf.com**Commission Junction*ad
+wrating.com**Dratio*tracker
+777seo.com**Paid-To-Promote*ad
+oclaserver.com**Propeller Ads*ad
+ad-sys.com**Ad-Sys*ad
+styria-digital.com**SMART AdServer*ad
+navegg.com**Navegg*analytics
+jdn.monster.com**Monster Advertising*widget
+cts.tradepub.com**RevResponse*ad
+exelator.com**eXelate*tracker
+unthem.com**MicroAd*ad
+channeliq.com**ChannelIQ Badge*widget
+adpersia.com**Adpersia*ad
+5min.com**5min Media*widget
+adshost1.com**Epom*ad
+advertlets.com**Advertlets*ad
+btrll.com**BrightRoll*ad
+clarityray.com**ClarityRay*tracker
+gamerdna.com**gamerDNA*ad
+widgets.webengage.com**WebEngage*widget
+ppjol.com**Press+*widget
+designbloxlive.com**Akamai Cookie Sync*ad
+create.leadid.com**LeadiD*tracker
+adconnexa.com**OxaMedia*ad
+adinsight.com**ResponseTap*tracker
+blogads.com**Adknowledge*ad
+xertivemedia.com**Xertive Media*ad
+mathtag.com**MediaMath*ad
+vemba.com**Vemba*ad
+ads.bridgetrack.com**BridgeTrack*ad
+bannerplay.com**BannerPlay*ad
+rubiconproject.com**Rubicon*ad
+flite.com**Flite*ad
+pixelinteractivemedia.com**Pixel Media*ad
+tapcommerce.com**TapCommerce*ad
+mainadv.com**mainADV*ad
+sedotracker.com**etracker*analytics
+j.kissinsights.com**KissInsights*analytics
+yllix.com**YllixMedia*ad
+nxtck.com**Next Performance*tracker
+listrakbi.com**Listrak*tracker
+jquerye.com**Malware*tracker
+triplelift.com**TripleLift*ad
+behavioralengine.com**BehavioralEngine*tracker
+stat.flashtalking.com**Flashtalking*ad
+servedby.flashtalking.com**Flashtalking*ad
+a.flashtalking.com**Flashtalking*ad
+cdn.flashtalking.com**Flashtalking*ad
+dsa.csdata1.com**ClearSaleing*analytics
+adhitzads.com**AdHitz*ad
+skimresources.com**SkimLinks*ad
+webiqonline.com**Usability Sciences WebIQ*analytics
+mkt941.com**Silverpop*ad
+inside-graph.com**inside*widget
+serving-sys.com**Sizmek*ad
+widget.weibo.com**Weibo Widget*widget
+vcommission.com**vCommission*ad
+media6degrees.com**Dstillery*ad
+tritondigital.com**Triton Digital*ad
+adgoto.com**ADGoto*ad
+tracking.shopping-flux.com**Shopping Flux*tracker
+v12groupinc.com**V12 Group*tracker
+delivery.racingpost.com**Switch Concepts*ad
+ads.racingpost.com**Switch Concepts*ad
+extreme-dm.com**eXTReMe Tracker*analytics
+en25.com**Eloqua*analytics
+ad.adlegend.com**TruEffect*analytics
+evolvemediametrics.com**Gorilla Nation*ad
+33across.com**33Across*ad
+mentad.com**MentAd*ad
+ptp22.com**Paid-To-Promote*ad
+igodigital.com**iGoDigital*widget
+api.umbel.com**Umbel*analytics
+sekindo.com**Sekindo*ad
+brealtime.com**CPX Interactive*ad
+instantservice.com**Oracle Live Help*widget
+4dsply.com**AdSupply*ad
+skyglue.com**SkyGlue*analytics
+contactatonce.com**Contact At Once!*widget
+atout.email-match.com**EMatch*ad
+asset.email-match.com**EMatch*ad
+cnt.sup.com**SUP media*tracker
+wsod.com**Wall Street on Demand*ad
+tracker.wordstream.com**WordStream*tracker
+ad4max.com**ad4max*ad
+static.contactme.com**ContactMe*widget
+refinedads.com**Refined Labs*tracker
+facebookofsex.com**FriendFinder Network*ad
+puboclic.com**Puboclic*ad
+widgets.outbrain.com**Outbrain*widget
+ptp33.com**Paid-To-Promote*ad
+hiiir.com**Hiiir*ad
+tracking.feedperfect.com**FeedPerfect*tracker
+reviews.bazaarvoice.com**Bazaarvoice*widget
+ugc.bazaarvoice.com**Bazaarvoice*widget
+batanga.com**Batanga Network*ad
+echoenabled.com**Echo*widget
+tacticalrepublic.com**Second Media*ad
+c.gumgum.com**gumgum*ad
+gumgum.com**gumgum*ad
+revresponse.com**RevResponse*ad
+sitestat.com**Digital Analytix*analytics
+zaloapp.com**Zalo*widget
+mediaforge.com**mediaFORGE*tracker
+adtrustmedia.com**AdTrustMedia*ad
+innovid.com**Innovid*ad
+web.localytics.com**Localytics*analytics
+strangeloopnetworks.com**Radware*analytics
+video-loader.com**AOL Be On*ad
+xtargeting.com**YesUp Advertising*ad
+waterfrontmedia.com**Everyday Health*widget
+plugin.reactful.com**Reactful*analytics
+callrail.com**CallRail*analytics
+adready.com**AdReady*ad
+yeabble.com**Yeabble*ad
+virtusize.com**Virtusize*widget
+doublepimp.com**DoublePimp*ad
+somastackads.com**Switch Concepts*ad
+pagefair.com**PageFair*tracker
+w3roi.com**w3roi*analytics
+acxiom.com**Acxiom*ad
+coull.com**Coull*ad
+hubrus.com**HUBRUS*tracker
+powerreviews.com**PowerReviews*widget
+questionmarket.com**Dynamic Logic*tracker
+ads.audienceamplify.com**Audience Amplify*ad
+meltdsp.com**Melt*ad
+taboola.com**Taboola*widget
+data.resultlinks.com**Result Links*ad
+run.admost.com**adMOST*ad
+getsmartcontent.com**Smart Content*tracker
+co2stats.com**Green Certified Site*widget
+tag.clrstm.com**Clearstream.TV*ad
+video.clrstm.com**Clearstream.TV*ad
+view.clrstm.com**Clearstream.TV*ad
+track.clrstm.com**Clearstream.TV*ad
+inpref.s3-external-3.amazonaws.com**Frosmo Optimizer*tracker
+admarvel.s3.amazonaws.com**AdMarvel*ad
+rich-agent.s3.amazonaws.com**Rich*analytics
+sdsbucket.s3.amazonaws.com**UserReport*widget
+convertglobal.s3.amazonaws.com**Convert Platform*tracker
+inpref.s3.amazonaws.com**Frosmo Optimizer*tracker
+cd-ladsp-com.s3.amazonaws.com**Logicad*ad
+yoapp.s3.amazonaws.com**Yo Button*widget
+getbarometer.s3.amazonaws.com**Barometer*widget
+livechat.s3.amazonaws.com**LiveChat*widget
+burstbeacon.com**Burst Media*ad
+betweendigital.com**Between Digital*ad
+p-td.com**Accuen Media*ad
+wahoha.com**Wahoha*widget
+m.viglink.com**VigLink*ad
+api.viglink.com**VigLink*ad
+js.viglink.com**VigLink*ad
+cdn.viglink.com**VigLink*ad
+spylog.com**Openstat*analytics
+grt01.com**RedTram*ad
+pjatr.com**Pepperjam*ad
+remarketstats.com**ClickCertain*ad
+raasnet.com**CoreAudience*tracker
+socialamp.com**Social Amp*widget
+uptolike.com**UpToLike*widget
+voicefive.com**VoiceFive*tracker
+dmtracker.com**DemandMedia*ad
+polarmobile.com**Polar Mobile*ad
+acuityplatform.com**Acuity Ads*ad
+dynamicoxygen.com**ExitJunction*ad
+getsidecar.com**Sidecar*ad
+launchbit.com**LaunchBit*ad
+makazi.com**Makazi Group*ad
+triggit.com**TriggIt*tracker
+ads.sixapart.com**Six Apart Advertising*ad
+pubgears.com**PubGears*ad
+rtd.tubemogul.com**TubeMogul*analytics
+rtb.tubemogul.com**TubeMogul*analytics
+analytics.convertlanguage.com**MotionPoint*analytics
+adizio.com**Admedo*ad
+etargetnet.com**Etarget*ad
+socialcash.com**Spruce Media*ad
+castleridgemedia.com**Castle Ridge Media*ad
+revolvermaps.com**Revolver Maps*widget
+adsdk.com**Advertising.com*ad
+widgets.sprinkletxt.com**Sprinkle*widget
+trw12.com**GrandSlamMedia*ad
+retargeter.com**ReTargeter Beacon*tracker
+paypopup.com**YesUp Advertising*ad
+reachforce.com**ReachForce*tracker
+reduxmediagroup.com**Redux Media*ad
+conduit-data.com**Conduit*ad
+ics0.com**RichRelevance*ad
+backbeatmedia.com**Back Beat Media*ad
+lengow.com**Lengow*tracker
+app.salecycle.com**SaleCycle*ad
+pay-hit.com**Pay-Hit*ad
+dwin1.com**Digital Window*tracker
+addlvr.com**AdOn Network*ad
+cho-chin.com**Ninja Access Analysis*analytics
+ltassrv.com**AdSolution*ad
+track.hubspot.com**HubSpot*analytics
+nanigans.com**Nanigans*ad
+ping.answerbook.com**answerbook*tracker
+ads.admarvel.com**AdMarvel*ad
+adspynet.com**Rokwell*ad
+advertisespace.com**AdvertiseSpace*ad
+amazon-adsystem.com**Amazon Associates*ad
+ads.networkhm.com**Harren Media*ad
+sophus3.com**Sophus3*analytics
+madadsmedia.com**Mad Ads Media*ad
+choicestream.com**ChoiceStream*ad
+traffichaus.com**TrafficHaus*ad
+govmetric.com**GovMetric*analytics
+adsbwm.com**OxaMedia*ad
+gravatar.com**Gravatar*widget
+imrworldwide.com**NetRatings SiteCensus*analytics
+mmstat.com**MarkMonitor*tracker
+gittip.com**Gittip*widget
+hits.informer.com**Blog Rating Tracker*tracker
+keywordsconnect.com**Direct Keyword Link*ad
+ademails.com**Blog Rating Tracker*tracker
+go.adversal.com**Adversal*ad
+cubics.com**Adknowledge*ad
+aztecash.com**Aztecash*ad
+contentabc.com**JuggCash*ad
+sdscdn.userreport.com**UserReport*widget
+xg4ken.com**Kenshoo*analytics
+ptdserver.com**Switch Concepts*ad
+webeffective.keynote.com**WebEffective*tracker
+stormiq.com**DC StormIQ*analytics
+email-reflex.com**ividence*tracker
+klixfeed.com**Klixfeed*ad
+exactag.com**Exactag*tracker
+mmv.admob.com**AdMob*ad
+mm.admob.com**AdMob*ad
+a.admob.com**AdMob*ad
+p.admob.com**AdMob*ad
+ad.clovenetwork.com**Clove Network*ad
+ads.clovenetwork.com**Clove Network*ad
+serve-sys.com**Unknown Advertisers*ad
+ads-digitalkeys.com**R-Advertising*ad
+sub2tech.com**Sub2*tracker
+mads.aol.com**Advertising.com*ad
+scan.botscanner.com**BotScanner*analytics
+uadx.com**Unite*ad
+api.toptenreviews.com**Purch*ad
+customerconversio.com**crmmetrix*analytics
+ads.adpv.com**Adpv*ad
+delivery47.com**AfterDownload*ad
+ad.netcommunities.com**Net Communities*ad
+ads.netcommunities.com**Net Communities*ad
+turnto.com**TurnTo*widget
+intencysrv.com**Between Digital*ad
+js.geoads.com**GeoAds*ad
+splurgi.com**Splurgy*widget
+directtrack.com**Digital River*tracker
+sail-horizon.com**Sailthru Horizon*tracker
+sharethrough.com**ShareThrough*ad
+hotwords.com**HOTWords*ad
+livechatnow.com**LiveChatNow*widget
+appendad.com**AppendAd*ad
+hits.convergetrack.com**ConvergeTrack*tracker
+stathat.com**StatHat*tracker
+adperium.com**AdPerium*ad
+mooxar.com**Mooxar*ad
+m2pub.com**Matomy Market*ad
+perfectaudience.com**Perfect Audience*ad
+markandmini.com**Mark & Mini*ad
+webtraxs.com**Web Traxs*analytics
+xtendmedia.com**XTEND*ad
+aweber.com**AWeber*tracker
+chartbeat.com**ChartBeat*analytics
+hinsm.com**ClarityRay*tracker
+bigfineads.com**CPX Interactive*ad
+tribalfusion.com**Tribal Fusion*ad
+adgrx.com**AdGear*ad
+trk.enecto.com**Enecto Analytics*analytics
+pntra.com**Pepperjam*ad
+admailtiser.com**ConvertMedia*ad
+kontextua.com**Kontextua*ad
+banner-rotation.com**Affilinet GmbH*ad
+ads.ad4game.com**ad4game*ad
+music-tags.com**Blastro Networks*ad
+adsame.com**Adsame*ad
+sessioncam.com**SessionCam*analytics
+proximic.com**Proximic*ad
+lcxdigital.com**LCX Digital*ad
+adcash.com**Adcash*ad
+advivi.com**Pornvertising*ad
+tracking100.com**Experimently*ad
+cognitivematch.com**Cognitive Match*tracker
+s.jwpltx.com**LongTail Video Analytics*analytics
+i.n.jwpltx.com**LongTail Video Analytics*analytics
+ghmedia.com**Precision Health Media*ad
+adespresso.com**AdEspresso*ad
+inskinad.com**InSkin Media*ad
+hi-mediaserver.com**Hi-Media Performance*ad
+fimserve.com**Fox Audience Network*ad
+nuffnang.com**Nuffnang*ad
+ladsp.com**Logicad*ad
+infinityads.com**YesUp Advertising*ad
+eyewonder.com**EyeWonder*ad
+vntsm.com**Venatus Media*ad
+ijento.com**iJento*tracker
+sokrati.com**Sokrati*tracker
+activeconversion.com**ActiveConversion*widget
+247realmedia.com**Xaxis*ad
+sojern.com**Sojern*ad
+metalyzer.com**Metapeople*ad
+data.flurry.com**Flurry*analytics
+microadinc.com**MicroAd*ad
+px.steelhousemedia.com**Steel House Media*tracker
+steelhousemedia.com**Steel House Media*tracker
+pulseinsights.com**Pulse Insights*widget
+tuberewards.com**GrandSlamMedia*ad
+zanox.com**Zanox*ad
+w.usabilla.com**Usabilla*widget
+pturt.com**ClarityRay*tracker
+telemetryaudit.com**Telemetry*tracker
+hit-counts.com**Blog Rating Tracker*tracker
+minewhat.com**MineWhat*analytics
+audiencefuel.com**AudienceFUEL*tracker
+tapad.com**Tapad*ad
+tag.tlvmedia.com**TLV Media*ad
+ad.tlvmedia.com**TLV Media*ad
+ads.tlvmedia.com**TLV Media*ad
+chinesean.com**ChineseAN*ad
+web-stat.com**Web-Stat*analytics
+medyanetads.com**Adnet (MedyaNet)*ad
+complex.com**Complex Media Network*ad
+netaffiliation.com**NetAffiliation*ad
+saas.seewhy.com**SeeWhy*analytics
+cedexis.com**Cedexis Radar*analytics
+pressly.com**Pressly*ad
+newstogram.com**Newstogram*widget
+rumanalytics.com**RUMAnalytics*analytics
+sradserver.com**Switch Concepts*ad
+toroadvertising.com**TORO*ad
+adorika.com**Adorika*ad
+traforet.com**Traforet*ad
+scrsrch.com**ScoreCard Research Beacon*tracker
+statsanalytics.com**99stats*analytics
+tynt.com**Tynt*tracker
+cdn.sailthru.com**Sailthru Horizon*tracker
+scribol.com**Scribol*widget
+ometria.com**Ometria*analytics
+net.e-viral.com**e-Viral*ad
+scr.kliksaya.com**KlikSaya*ad
+6gpwkrxh.micpn.com**Movable Ink*tracker
+ad.yieldads.com**YieldAds*ad
+xyztraffic.com**XYZtraffic*tracker
+reklamstore.com**Reklam Store*ad
+pixel.adbuyer.com**AdBuyer.com*ad
+leiki.com**Leiki*widget
+ideoclick.com**IdeoClick*tracker
+exitjunction.com**ExitJunction*ad
+admasterapi.com**AdMaster.cn*ad
+adnetinteractive.com**Mediawhiz*ad
+static.nirror.com**Nirror*analytics
+footar.com**AdEffective*ad
+adsremote.scrippsnetworks.com**Scripps Networks*ad
+tracker.beezup.com**BeezUP*tracker
+adobetag.com**Adobe TagManager*widget
+inviziads.com**InviziAds*ad
+gravity.com**Gravity Insights*analytics
+admaxim.com**AdMaxim*ad
+intelliad.com**intelliAd*ad
+buzzador.com**Buzzador*ad
+sumome.com**SumoMe*widget
+jqueryc.com**Malware*tracker
+typekit.com**Typekit by Adobe*widget
+salesforceliveagent.com**Salesforce Live Agent*widget
+hiconversion.com**HiConversion*tracker
+natoms.com**Tom's Native Ads*ad
+adultfriendfinder.com**FriendFinder Network*ad
+conversionsondemand.com**Conversions On Demand*tracker
+hatid.com**Clicksor*ad
+bounceexchange.com**Bounce Exchange*tracker
+ads.albawaba.com**Al Bawaba Advertising*ad
+siterecruit.comscore.com**ScoreCard Research Beacon*tracker
+statcount.com**Blog Rating Tracker*tracker
+ensighten.com**Ensighten*analytics
+liveagentforsalesforce.com**Salesforce Live Agent*widget
+advertising.com**Advertising.com*ad
+adroll.com**AdRoll*ad
+de17a.com**AdAction*ad
+ads.jinkads.com**Jink*ad
+visualrevenue.com**Visual Revenue*analytics
+disqus.com**Disqus*widget
+c3metrics.com**C3 Metrics*analytics
+nexac.com**Datalogix*ad
+log.feedjit.com**Feedjit*analytics
+janrainbackplane.com**Janrain*widget
+adversalservers.com**Adversal*ad
+switchafrica.com**Switch Concepts*ad
+4wnet.com**4w Marketplace*ad
+shareasale.com**ShareASale*ad
+l.addthiscdn.com**AddThis*widget
+cdn.adsrvmedia.com**adk2*ad
+script.footprintlive.com**Footprint*analytics
+img.footprintlive.com**Footprint*analytics
+affiliate.godaddy.com**GoDaddy Affiliate Program*ad
+seal.godaddy.com**GoDaddy Site Seal*privacy
+developermedia.com**Developer Media*ad
+shinystat.com**ShinyStat*analytics
+analytics.conmio.com**Conmio*analytics
+gloadmarket.com**Gloadmarket*ad
+jyawd.com**ClarityRay*tracker
+reachjunction.com**ReachJunction*ad
+vop.sundaysky.com**SundaySky*ad
+avantlink.com**AvantLink*ad
+adblade.com**Adblade*ad
+getiton.com**FriendFinder Network*ad
+linkconnector.com**LinkConnector*ad
+metrigo.com**Metrigo*ad
+mkt922.com**Silverpop*ad
+live2support.com**Live2Support*widget
+mdotlabs.com**MdotLabs*analytics
+adfeedstrk.com**AdOn Network*ad
+luminate.com**Luminate*tracker
+adparlor.com**AdParlor*ad
+whoson.com**WhosOn*widget
+epom.com**Epom*ad
+adservinghost.com**FMAdserving*ad
+lomadee.com**Lomadee*ad
+api.petametrics.com**Petametrics*analytics
+cdn.petametrics.com**Petametrics*analytics
+aqtracker.com**Blog Rating Tracker*tracker
+nspmotion.com**Admotion*ad
+pointroll.com**PointRoll*ad
+badge.facebook.com**Facebook Social Plugins*widget
+graph.facebook.com**Facebook Social Graph*widget
+analytics.live.com**Microsoft Analytics*analytics
+dothads.com**Pornvertising*ad
+mythings.com**myThings*tracker
+ss.crowdprocess.com**CrowdProcess*widget
+impressiondesk.com**Infectious Media*ad
+richmetrics.com**Rich*analytics
+wtp101.com**Digilant*ad
+rsvpgenius.com**Genius*tracker
+visiblemeasures.com**Visible Measures*analytics
+miaozhen.com**Miaozhen*ad
+promodity.com**Promodity*ad
+analytics.recruitics.com**Recruitics*tracker
+reporting.singlefeed.com**SingleFeed*analytics
+adcitomedia.com**Adcito*ad
+socialannex.com**Social Annex*widget
+srv.clickfuse.com**ToneFuse*tracker
+zebra.pushbullet.com**Pushbullet*widget
+trackalyzer.com**LeadLander*analytics
+vivistats.com**ViviStats*analytics
+clkmon.com**RevenueHits*ad
+justrelevant.com**Just Relevant*ad
+content.pulse360.com**Pulse360*ad
+track.pulse360.com**Pulse360*ad
+donburako.com**Ninja Access Analysis*analytics
+trafficbroker.com**TrafficBroker*ad
+acxiom-online.com**Acxiom*ad
+advertserve.com**AdvertServe*ad
+lanistaads.com**Lanista Concepts*ad
+cdn.cdnrl.com**adk2*ad
+resultspage.com**SLI Systems*widget
+responsetap.com**ResponseTap*tracker
+1phads.com**Unknown Advertisers*ad
+mediaplex.com**ValueClick Mediaplex*ad
+smaclick.com**ad.ru*ad
+adagio.turboadv.com**Turbo*ad
+promoserv.com**Pornvertising*ad
+webtrendslive.com**WebTrends*tracker
+tyroodr.com**Tyroo Direct*ad
+metricsdirect.com**Zango*ad
+adseekmedia.com**Switch Concepts*ad
+commander1.com**Tag Commander*widget
+meteorsolutions.com**Meteor Solutions*ad
+onlinewebstat.com**Onlinewebstat*analytics
+brighteroption.com**Buddy Media*ad
+adshostnet.com**Unknown Advertisers*ad
+seal.digicert.com**Digicert Trust Seal*privacy
+livefyre.com**Livefyre*widget
+taboolasyndication.com**Taboola*widget
+ads-xtreme.com**ADSXtreme*ad
+adplan-ds.com**AdPlan*analytics
+api.demandbase.com**Demandbase*tracker
+leads.demandbase.com**Demandbase*tracker
+mystatus.skype.com**Skype*widget
+bmmetrix.com**Bluemetrix*analytics
+qservz.com**Quisma*tracker
+emergedigital.com**Switch Concepts*ad
+ads.dedicatedmedia.com**Dedicated Media*ad
+analytics.performable.com**Performable*tracker
+counter.goingup.com**GoingUp*analytics
+ads.referlocal.com**ReferLocal*ad
+ad.targetingmarketplace.com**Audience Science*tracker
+bluefinmediaads.com**Switch Concepts*ad
+slingpic.com**Slingpic*widget
+reevoo.com**Reevoo*widget
+bluecava.com**BlueCava*tracker
+agkn.com**Aggregate Knowledge*tracker
+ads.saymedia.com**Say Media*ad
+wingads.com**WingAds*ad
+600z.com**iEntry*ad
+uts.ngdata.com**NGDATA*analytics
+bannertgt.com**AdOn Network*ad
+aimediagroup.com**Ai Media Group*tracker
+nostringsattached.com**FriendFinder Network*ad
+nwidget.networkedblogs.com**NetworkedBlogs*widget
+zopim.com**Zopim*tracker
+adimpact.com**Adimpact*ad
+adsbookie.com**Pornvertising*ad
+autolinkmaker.itunes.apple.com**iTunes Link Maker*ad
+webspectator.com**Realtime*analytics
+ads2.adverline.com**Adverline*ad
+ads.adverline.com**Adverline*ad
+adsby.bidtheatre.com**BidTheatre*tracker
+iadvize.com**iAdvize*tracker
+bet365affiliates.com**Generic Affiliate Systems*ad
+webstats.motigo.com**Motigo Webstats*analytics
+adclickmedia.com**AdClickMedia*ad
+newrelic.com**New Relic*analytics
+channelintelligence.com**Channel Intelligence*analytics
+tracking.bol.com**BOL Affiliate Program*ad
+sp1.convertro.com**Convertro*tracker
+supercounters.com**SuperCounters*widget
+pglb.buzzfed.com**BuzzFeed*widget
+widespace.com**Widespace*ad
+reson8.com**Resonate Networks*ad
+adbrite.com**AdBrite*ad
+go.sonobi.com**Sonobi*ad
+ads.sonobi.com**Sonobi*ad
+andomedia.com**Triton Digital*ad
+eyereturn.com**eyeReturn Marketing*ad
+statcounter.com**Statcounter*analytics
+kameleoon.com**Kameleoon*analytics
+meaningtool.com**MeaningTool*ad
+punchtab.com**PunchTab*widget
+tyroodirect.com**Tyroo Direct*ad
+xapads.com**Switch Concepts*ad
+delivery.reklamz.com**ReklamZ*ad
+brtstats.com**BloomReach*tracker
+cg-global.maxymiser.com**Maxymiser*tracker
+a.giantrealm.com**Giant Realm*ad
+stormcontainertag.com**DC StormIQ*analytics
+clickwinks.com**Clickwinks*ad
+revcontent.com**RevContent*ad
+allotraffic.com**AlloTraffic*ad
+tracking.godatafeed.com**GoDataFeed*tracker
+lijit.com**Lijit*ad
+moontoast.com**Moontoast*widget
+tealiumiq.com**Tealium*analytics
+afdads.com**AfterDownload*ad
+privacy-policy.truste.com**TRUSTe Seal*privacy
+consent.truste.com**TRUSTe Notice*privacy
+goadservices.com**Internet BillBoard*ad
+tongji.linezing.com**LineZing*analytics
+scanscout.com**Tremor Media*ad
+analytics.brightedge.com**BrightEdge*analytics
+moon-ray.com**Moonray Autopilot*tracker
+t.channeladvisor.com**ChannelAdvisor*analytics
+moatads.com**Moat*ad
+buzzparadise.com**BuzzParadise*ad
+brainsins.com**BrainSINS*ad
+rts.sparkstudios.com**Spark Studios*ad
+clickreport.com**ClickReport*tracker
+vdopia.com**Vdopia*ad
+ads.intergi.com**Intergi*ad
+greystripe.com**Greystripe*ad
+tweetriver.com**Mass Relevance*widget
+siftscience.com**Sift Science*tracker
+wysistat.com**WysiStat*analytics
+nplexmedia.com**nPlexMedia*ad
+ladmp.com**Logicad*ad
+accmgr.com**Accordant Media*tracker
+adoperator.com**Adoperator*ad
+caanalytics.com**MarkMonitor*tracker
+virgul.com**Virgul*ad
+owpas.com**ClarityRay*tracker
+switchads.com**Switch Concepts*ad
+mplxtms.com**ValueClick Mediaplex*ad
+realmediadigital.com**Xaxis*ad
+webleads-tracker.com**Webleads Tracker*tracker
+hotjar.com**Hotjar*analytics
+cjmooter.xcache.kinxcdn.com**JS Communications*tracker
+h12-media.com**H12 Ads*ad
+spotxchange.com**SpotXchange*ad
+avenseo.com**Avenseo*widget
+radarurl.com**RadarURL*analytics
+edge.jeetyetmedia.com**Jeetyet Media*ad
+optimize.webtrends.com**WebTrends*tracker
+m.webtrends.com**WebTrends*tracker
+advertise.com**Advertise.com*ad
+stats.businessol.com**BusinessOnLine Analytics*analytics
+addthis.com**AddThis*widget
+himediadx.com**Hi-Media Performance*ad
+ads.affbuzzads.com**AffiliateBuzz*ad
+adperfect.com**AdPerfect*ad
+captifymedia.com**Captify*ad
+ohmystats.com**Oh My Stats*tracker
+clickcertain.com**ClickCertain*ad
+tqlkg.com**Commission Junction*ad
+advertstream.com**Advert Stream*ad
+addesktop.com**AdConductor*ad
+valuead.com**ValueAd*ad
+leaddyno.com**LeadDyno*ad
+dianomi.com**Dianomi*ad
+pop6.com**FriendFinder Network*ad
+scoreresearch.com**ScoreCard Research Beacon*tracker
+navdmp.com**Navegg*analytics
+clickboothlnk.com**Clickbooth*ad
+swordfishdc.com**Innometrics*analytics
+widget.foodieblogroll.com**Foodie Blogroll*ad
+ads.foodieblogroll.com**Foodie Blogroll*ad
+bizible.com**Bizible*tracker
+netseer.com**NetSeer*ad
+tagcommander.com**Tag Commander*widget
+3lift.com**TripleLift*ad
+mpnrs.com**M. P. NEWMEDIA*tracker
+levexis.com**TagMan*tracker
+populis.com**Populis*ad
+bm23.com**Bronto*tracker
+kyarm.com**ClarityRay*tracker
+code.etracker.com**etracker*analytics
+micropoll.com**MicroPoll*widget
+in.bubblestat.com**Bubblestat*analytics
+zetabbs.com**Switch Concepts*ad
+connextra.com**Connextra*ad
+merchantadvantage.com**MerchantAdvantage*tracker
+estat.com**eStat*analytics
+jyaby.com**ClarityRay*tracker
+clixsense.com**ClixSense*ad
+analytics.yahoo.com**Yahoo Analytics*analytics
+yads.yahoo.com**Right Media*ad
+visit.webhosting.yahoo.com**Yahoo Analytics*analytics
+ads.yahoo.com**Right Media*ad
+adtlgc.com**Enreach*ad
+pub-fit.com**Pub-Fit*ad
+pulsemgr.com**Buysight*ad
+svtrd.com**Relay42*widget
+d-msquared.com**DM2*ad
+adzhub.com**ADZ*ad
+bwp.cnet.com**CBS Interactive*ad
+ads.exactdrive.com**Exact Drive*ad
+ocyss.com**ClarityRay*tracker
+perfb.com**Affiliate Window*ad
+sdfje.com**AdOn Network*ad
+analytics.matchbin.com**Matchbin*ad
+ctnsnet.com**Crimtan*ad
+sitecompass.com**Encore Metrics*analytics
+redirectingat.com**SkimLinks*ad
+adxpansion.com**AdXpansion*ad
+formalyzer.com**LeadLander*analytics
+yoc-adserver.com**SMART AdServer*ad
+adserver.manutd.com**Switch Concepts*ad
+nodes.r66t.com**R66T Advertising*ad
+embed.spokenlayer.com**SpokenLayer*widget
+dinclinx.com**Madison Logic*ad
+servedbyopenx.com**OpenX*ad
+jsc.mgid.com**MarketGid*ad
+jivox.com**Jivox*ad
+merchenta.com**Merchenta*ad
+razoradserver.com**Switch Concepts*ad
+redcourtside.com**DoublePimp*ad
+intermundomedia.com**InterMundo Media*ad
+adknowledge.com**Adknowledge*ad
+cybermonitor.com**eStat*analytics
+mailfoogae.appspot.com**Streak*tracker
+promodity.appspot.com**Promodity*ad
+hnbutton.appspot.com**Hacker News Button*widget
+snapabug.appspot.com**SnapEngage*widget
+musculahq.appspot.com**Muscula*tracker
+advancedtracker.appspot.com**Advanced Tracker*tracker
+webiq-cdn.appspot.com**Usability Sciences WebIQ*analytics
+user-pulse.appspot.com**UserPulse*widget
+webiq-warp.appspot.com**Usability Sciences WebIQ*analytics
+triggeredmail.appspot.com**Triggermail*tracker
+doogleonduty.com**ClickReport*tracker
+interestably.com**Adtrace*ad
+adserving.ezanga.com**eZanga Advertising*ad
+confirmit.com**Confirmit*widget
+ad6media.com**ad6media*ad
+grepdata.com**6Sense*analytics
+struq.com**Struq*tracker
+i2idata.com**i2i.jp*ad
+adtrgt.com**AdOn Network*ad
+netmng.com**Netmining*tracker
+stags.bluekai.com**BlueKai*tracker
+tags.bluekai.com**BlueKai*tracker
+hfp.gdmdigital.com**GDM Digital*ad
+innity.com**Innity*ad
+grt02.com**RedTram*ad
+cpro.baidu.com**Baidu Ads*ad
+hm.baidu.com**Baidu Ads*ad
+cbjs.baidu.com**Baidu Ads*ad
+flxpxl.com**FLXONE*ad
+racingpostads.com**Switch Concepts*ad
+audienceiq.com**Experian Marketing Services*tracker
+up.nytimes.com**New York Times*tracker
+coremotives.com**CoreMotives*tracker
+affiliator.com**Affiliator*ad
+userdive.com**USERDIVE*analytics
+xxxwebtraffic.com**YesUp Advertising*ad
+a2pub.com**Adtrace*ad
+ibpxl.com**InternetBrands*ad
+dgm-au.com**dgm*tracker
+t.p.mybuys.com**MyBuys*ad
+bluestreak.com**BlueStreak*ad
+w3counter.com**W3Counter*analytics
+adsby.breezeads.com**BreezeAds*ad
+vizu.com**Vizu*analytics
+springmetrics.com**Spring Metrics*analytics
+widgets.digg.com**Digg Widget*widget
+tracelytics.com**TraceView*tracker
+publicidees.com**Public Ideas*tracker
+trustev.com**Trustev*tracker
+green-red.com**Green and Red*ad
+hellosociety.com**HelloSociety*ad
+bat.r.msn.com**Bing Ads*ad
+copacet.com**Copacet*ad
+iljmp.com**Improvely*tracker
+bat.bing.com**Bing Ads*ad
+livestatserver.com**Lucky Orange*analytics
+displaymarketplace.com**Datran*tracker
+cxense.com**cXense*ad
+blockmetrics.com**PageFair*tracker
+powerlinks.com**PowerLinks*ad
+eqads.com**EQ Advertising*ad
+rt.liftdna.com**LiftDNA*ad
+hotkeys.com**HotKeys*ad
+buzzdeck.com**Buzzdeck*tracker
+tailtarget.com**TailTarget*tracker
+comm100.com**Comm100*widget
+clkrev.com**RevenueHits*ad
+trklnks.com**AdSupply*ad
+postaffiliatepro.com**Post Affiliate Pro*tracker
+cookiereports.com**Cookie Reports*privacy
+worthathousandwords.com**Image Advantage*ad
+clkads.com**RevenueHits*ad
+ipromote.com**iPromote*ad
+audtd.com**Auditorius*ad
+myswitchads.com**Switch Concepts*ad
+invitemedia.com**DoubleClick Bid Manager*ad
+toroadvertisingmedia.com**TORO*ad
+fruitflan.com**FruitFlan*tracker
+servebom.com**Purch*ad
+olark.com**Olark*widget
+adsnative.com**adsnative*ad
+mmismm.com**Mindset Media*ad
+chatwing.com**ChatWing*widget
+projectwonderful.com**Project Wonderful*ad
+adsafeprotected.com**Integral Ad Science*analytics
+overture.com**Yahoo! Overture*ad
+static.getclicky.com**Clicky*analytics
+in.getclicky.com**Clicky*analytics
+atwola.com**Advertising.com*ad
+googletagmanager.com**Google Tag Manager*widget
+api.usersnap.com**Usersnap*widget
+refersion.com**Refersion*ad
+adgent007.com**AdGent Digital*ad
+ad.360yield.com**Improve Digital*ad
+scastnet.com**Sociocast*analytics
+app.ubertags.com**UberTags*tracker
+pixel.fetchback.com**Fetchback*ad
+adcode.adengage.com**AdEngage*ad
+conv.adengage.com**AdEngage*ad
+s.thebrighttag.com**Signal*tracker
+widget.breakingburner.com**Crowdynews*widget
+api.iflychat.com**iFlyChat*widget
+wredint.com**ClarityRay*tracker
+clickbooth.com**Clickbooth*ad
+cpmstar.com**CPMStar*ad
+cpmterra.com**AdsTerra*ad
+rsspump.com**RSSPump*tracker
+technorati.com**Technorati*ad
+fqtag.com**Forensiq*tracker
+kwobj.com**ClarityRay*tracker
+iqnomy.com**IQNOMY*tracker
+gooal.herokuapp.com**Goooal*tracker
+adstage-analytics.herokuapp.com**AdStage*ad
+adinch.com**Adinch*ad
+prosperent.com**Prosperent*ad
+verticalscope.com**VerticalScope*ad
+sitescout.com**SiteScout*ad
+tidaltv.com**Videology*tracker
+quinstreet.com**QuinStreet*ad
+zerezas.com**DoublePimp*ad
+persianstat.com**PersianStat*tracker
+media-clic.com**Media-clic*ad
+veinteractive.com**Ve Interactive*tracker
+securepaths.com**Forensiq*tracker
+locayta.com**Locayta*widget
+ax.xrea.com**AccessAnalyzer*analytics
+ads.creative-serving.com**Platform161*ad
+ist-track.com**Intelligent Reach*tracker
+streampad.com**AOL Streampad*widget
+flux.com**Flux*widget
+nrelate.com**nRelate*widget
+emjcd.com**Commission Junction*ad
+inskinmedia.com**InSkin Media*ad
+etrigue.com**eTrigue*tracker
+japum.com**ClarityRay*tracker
+spruce.rapleaf.com**LiveRamp*tracker
+amgdgt.com**Adconion*ad
+tracker.emailaptitude.com**Email Aptitude*tracker
+valuepubmedia.com**ValuePubMedia*ad
+juicyads.com**JuicyAds*ad
+xeontopa.com**DoublePimp*ad
+ib-ibi.com**i-Behavior*tracker
+atedra.com**Atedra*ad
+runadtag.com**RUN*ad
+yldbt.com**Yieldbot*tracker
+ringrevenue.com**Invoca*widget
+ts.istrack.com**Oracle Live Help*widget
+eloqua.com**Eloqua*analytics
+respondhq.com**Respond*ad
+adextent.com**AdExtent*ad
+brainient.com**Brainient*ad
+tealium.com**Tealium*analytics
+adtechus.com**ADTECH*ad
+qualtrics.com**Qualtrics*analytics
+boo-box.com**boo-box*ad
+massrelevance.com**Mass Relevance*widget
+affiliatelounge.com**AffiliateLounge*ad
+s2d6.com**dgm*tracker
+postrelease.com**Nativo*ad
+ads-creativesyndicator.com**Switch Concepts*ad
+addoer.com**Truehits.net*analytics
+adgorithms.com**Adgorithms*ad
+coremetrics.com**Coremetrics*analytics
+gpm-digital.com**Gazprom-Media Digital*ad
+getdrip.com**Drip*ad
+linkbucks.com**Linkbucks*ad
+wisepops.com**WisePops*widget
+dz.glanceguide.com**NetRatings SiteCensus*analytics
+skinected.com**ReactX*ad
+ad.sitemaji.com**SiteTag*analytics
+userecho.com**UserEcho*widget
+match.rundsp.com**RUN*ad
+yieldify.com**Yieldify*tracker
+sociomantic.com**Sociomantic*ad
+inq.com**TouchCommerce*analytics
+marinsm.com**Marin Search Marketer*tracker
+wigetmedia.com**Wiget Media*ad
+ad.103092804.com**Kitara Media*ad
+roitesting.com**Unica*analytics
+insightera.com**Insightera*tracker
+ad.metanetwork.com**Meta Network*ad
+misterbell.com**Mister Bell*ad
+thewheelof.com**Right Media*ad
+tr.prospecteye.com**ProspectEye*tracker
+display-img.g.atti.com**YP*ad
+static.crowdscience.com**Crowd Science*analytics
+momentsharing.com**YesUp Advertising*ad
+pingagenow.com**Ahalogy*widget
+xiti.com**AT Internet*analytics
+semilo.com**Semilo*ad
+simply.com**Simply*ad
+ads.eniro.com**Scandinavian Ad Networks*ad
+populisengage.com**Populis*ad
+ad.reklamport.com**Reklamport*ad
+adfrontiers.com**AdFrontiers*ad
+lucidmedia.com**Lucid Media*ad
+opinionbar.com**OpinionBar*widget
+2leep.com**2leep*tracker
+dotandad.com**DotAndMedia*ad
+pubdirecte.com**Pubdirecte*ad
+grvcdn.com**Gravity Insights*analytics
+adtpix.com**Adtegrity*ad
+kaltura.com**Kaltura*widget
+adrcntr.com**Weborama*ad
+ad2games.com**ad2games*ad
+mobsmith.com**Rubicon*ad
+track.adtraction.com**Adtraction*tracker
+awltovhc.com**Commission Junction*ad
+granify.com**Granify*widget
+adhese.com**Adhese*ad
+adcrowd.com**Adcrowd*ad
+metrics.brightcove.com**Brightcove*widget
+goku.brightcove.com**Brightcove*widget
+gwallet.com**RadiumOne*tracker
+psyma.com**Psyma*tracker
+theblogfrog.com**BlogFrog*tracker
+unica.com**Unica*analytics
+kontactor.com**Kontactor*widget
+mobicow.com**Mobicow*ad
+adcito.com**Adcito*ad
+rfihub.com**Rocket Fuel*tracker
+speedshiftmedia.com**Speed Shift Media*ad
+tanx.com**Tanx*ad
+piximedia.com**Piximedia*ad
+track.zappos.com**Zappos*tracker
+jirafe.com**Jirafe*analytics
+fhserve.com**MediaHub*ad
+nanorep.com**nanoRep*widget
+freeonlineusers.com**Free Online Users*analytics
+jhame.com**ClarityRay*tracker
+sptag3.com**iCrossing*analytics
+ad.antventure.com**Adgile*ad
+iasbetaffiliates.com**Generic Affiliate Systems*ad
+medleyads.com**Medley*ad
+nearbyad.com**Rubicon*ad
+adyoulike.com**Adyoulike*ad
+projectsunblock.com**Project Sunblock*tracker
+yashi.com**Yashi*ad
+pubmatic.com**PubMatic*ad
+lfstmedia.com**LifeStreet Media*ad
+chango.com**Chango*tracker
+ebuzzing.com**eBuzzing*ad
+usuarios-online.com**Blog Rating Tracker*tracker
+mrskincash.com**MrSkinCash*ad
+ad.xplusone.com**[x+1]*ad
+widget.uservoice.com**UserVoice*widget
+mouseflow.com**Mouseflow*analytics
+ireporterstvads.com**Switch Concepts*ad
+c3tag.com**C3 Metrics*analytics
+inferclick.com**InferClick*analytics
+watch.teroti.com**Teroti*ad
+linksmart.com**LinkSmart*analytics
+unrulymedia.com**Unruly Media*ad
+t.unbounce.com**Unbounce*tracker
+m-pathy.com**m-pathy*tracker
+c.p-advg.com**AdPlan*analytics
+brandreachsys.com**BrandReach*ad
+securedvisit.com**SecuredVisit*tracker
+adserve.shopzilla.com**Shopzilla*ad
+plista.com**Plista*ad
+cnzz.com**CNZZ*analytics
+pirchio.com**Pirchio*ad
+splurgy.com**Splurgy*widget
+evergage.com**Evergage*widget
+leady.com**Leady*analytics
+st.listrak.com**Listrak*tracker
+monetize-me.com**Monetize Me*ad
+trafficfacts.com**GoDaddy Site Analytics*analytics
+craktraffic.com**Crakmedia Network*ad
+websitealive.com**AliveChat*tracker
+adtoll.com**Clickbooth*ad
+techlightenment.com**Experian Marketing Services*tracker
+adfalcon.com**AdFalcon*ad
+trbo.com**trbo*tracker
+advansenow.com**Advanse*ad
+eplayer.clipsyndicate.com**Clip Syndicate*ad
+track.affiliate-b.com**Affiliate-B*ad
+optaim.com**OptAim*ad
+dust.ipfingerprint.com**IPFingerprint*tracker
+impression.clickinc.com**ClickInc*analytics
+ca.clickinc.com**ClickInc*analytics
+natpal.com**Yodle*ad
+w.hypercomments.com**HyperComments*widget
+widget.hypercomments.com**HyperComments*widget
+offers.paypal.com**PayPal Shopping*tracker
+pubsqrd.com**PubSquared*ad
+js.adforgames.com**AdForGames*ad
+tinypass.com**Tinypass*widget
+enigmaadserver.com**Switch Concepts*ad
+smartdevicemedia.com**Smart Device Media*ad
+coinurl.com**CoinURL*ad
+securestudies.com**ScoreCard Research Beacon*tracker
+cpxadroit.com**CPX Interactive*ad
+counters.gigya.com**Gigya Beacon*tracker
+toolbar.cdn.gigya.com**Gigya Toolbar*widget
+mediav.com**MediaV*ad
+1sponsor.com**1sponsor*ad
+adworldmedia.com**AdultAdWorld*ad
+adyoulike.omnitagjs.com**Adyoulike*ad
+adservinginternational.com**FMAdserving*ad
+api.contextly.com**Contextly*widget
+mlt01.com**Menlo*ad
+convertglobal.com**Convert Platform*tracker
+conversion.buddymedia.com**Buddy Media*ad
+analytics.sitewit.com**SiteWit*analytics
+peerius.com**Peerius*tracker
+www.is1.clixgalore.com**clixGalore*ad
+ads.audience2media.com**Audience2Media*ad
+openxenterprise.com**OpenX*ad
+a.akncdn.com**AdKeeper*widget
+traffiliate.com**Traffiliate*ad
+dpmsrv.com**DataPoint Media*tracker
+quantserve.com**Quantcast*ad
+ipinfodb.com**IP Mappers*tracker
+centraliprom.com**iprom*ad
+widgets.kiosked.com**Kiosked*widget
+amobee.com**Amobee*ad
+s.mousetrace.com**MouseTrace*tracker
+adexprts.com**Unknown Advertisers*ad
+auditude.com**Auditude*ad
+synovite-scripts.com**Relay42*widget
+yieldmo.com**YieldMo*ad
+realmedia.com**Xaxis*ad
+celtra.com**Celtra*ad
+scupio.com**Scupio*ad
+service.collarity.com**Collarity*tracker
+tradedoubler.com**TradeDoubler*ad
+dw.com.com**CBS Interactive*ad
+adlog.com.com**CBS Interactive*ad
+c-on-text.com**C|ON|TEXT*ad
+mathads.com**MediaMath*ad
+mongoosemetrics.com**Mongoose Metrics*analytics
+dgmatix.com**dgMatix*ad
+yieldsquare.com**YieldSquare*ad
+simplereach.com**SimpleReach*tracker
+stat.onestat.com**OneStat*analytics
+tracker.financialcontent.com**Financial Content*widget
+lite.piclens.com**Cooliris*widget
+cetrk.com**Crazy Egg*analytics
+serve.m80marketing.com**Switch Concepts*ad
+adohana.com**Ohana Advertising Network*ad
+complexmedianetwork.com**Complex Media Network*ad
+bizsolutions.strands.com**Strands Recommender*widget
+visitortracklog.com**VisitorTrack*tracker
+gamned.com**Makazi Group*ad
+platform.linkedin.com**LinkedIn Widgets*widget
+inspectlet.com**Inspectlet*analytics
+pntrac.com**Pepperjam*ad
+yb0t.com**Yieldbot*tracker
+hitsprocessor.com**HitsLink*analytics
+veoxa.com**Veoxa*ad
+yazcash.com**Pornvertising*ad
+adbooth.com**Adbooth*ad
+directavenue.com**DirectAvenue*ad
+affiliatefuture.com**AffiliateFuture*ad
+crm-metrix.com**crmmetrix*analytics
+sslt.tellapart.com**TellApart*tracker
+t.tellapart.com**TellApart*tracker
+intentiq.com**Intent IQ*ad
+ic-live.com**iCrossing*analytics
+optimost.com**Autonomy*analytics
+my.blueadvertise.com**DEX Platform*ad
+adcde.com**AdOn Network*ad
+salespidermedia.com**SaleSpider Media*ad
+data.econa.com**ECONA*tracker
+pswec.com**Proclivity*tracker
+smartadserver.com**SMART AdServer*ad
+poponclick.com**PopOnClick*ad
+adflan.com**FruitFlan*tracker
+vizury.com**Vizury*ad
+clickmanage.com**iProspect*tracker
+widgets.backtype.com**BackType Widgets*analytics
+smrtlnks.com**AdaptiveBlue SmartLinks*widget
+dmmotion.com**Admotion*ad
+nedstat.com**Digital Analytix*analytics
+hitslink.com**HitsLink*analytics
+hit.stat24.com**Stat24*analytics
+pages.etology.com**Etology*ad
+images.sohu.com**Sohu*widget
+vdna-assets.com**VisualDNA*analytics
+ligatus.com**Ligatus*ad
+adexprt.com**Unknown Advertisers*ad
+propellerads.com**Propeller Ads*ad
+heyos.com**Heyos*ad
+ozonemedia.com**Ozone Media*ad
+rightaction.com**RightAction*ad
+adswizz.com**Adswizz*ad
+api.usercycle.com**USERcycle*analytics
+juiceadv.com**JuiceADV*ad
+aim4media.com**Aim4Media*ad
+atdmt.com**Atlas*ad
+qadservice.com**Marimedia*ad
+sspcash.com**Advert Stream*ad
+rd.clickshift.com**WebTrends Ads*ad
+206solutions.com**The Publisher Desk*ad
+jumptime.com**JumpTime*tracker
+jobfeeds.coroflot.com**Coroflot Job Feed*widget
+ads.pheedo.com**Pheedo*ad
+heias.com**Adnologies*ad
+api.apptap.com**apptap*widget
+widget.apptap.com**apptap*widget
+media.richrelevance.com**RichRelevance*ad
+recs.richrelevance.com**RichRelevance*ad
+sepyra.com**Sepyra*analytics
+industrybrains.com**Industry Brains*ad
+socialtwist.com**Tell-a-Friend*tracker
+livepass.conviva.com**Conviva*ad
+livepassdl.conviva.com**Conviva*ad
+jquery-framework.com**Malware*tracker
+bidsystem.com**Adknowledge*ad
+sw.interpolls.com**Interpolls*ad
+hs.interpolls.com**Interpolls*ad
+addelive.com**AfterDownload*ad
+numbate.com**Numbate*ad
+pocketcents.com**PocketCents*ad
+hishaku.com**Ninja Access Analysis*analytics
+myroitracking.com**Clicksor*ad
+curancience.com**Adtrace*ad
+adshuffle.com**AdShuffle*ad
+geo.precisionclick.com**PrecisionClick*ad
+servedby.precisionclick.com**PrecisionClick*ad
+tbnadserver.com**Switch Concepts*ad
+bizographics.com**LinkedIn Marketing Solutions*tracker
+loggly.com**Loggly*tracker
+tracking.quisma.com**Quisma*tracker
+adsymptotic.com**Drawbridge*ad
+pixazza.com**Luminate*tracker
+acs86.com**AdChina*ad
+a.mobify.com**Mobify*ad
+engineseeker.com**EngineSeeker*ad
+evisitanalyst.com**eVisit Analyst*analytics
+mktoresp.com**Marketo*analytics
+adwebster.com**adwebster*ad
+pntrs.com**Pepperjam*ad
+rmxads.com**Right Media*ad
+appmetrx.com**AppMetrx*tracker
+ads.deliads.com**Deli Ads*ad
+getrooster.com**Rooster*analytics
+trafficmp.com**Epic Marketplace*ad
+eum-appdynamics.com**AppDynamics*analytics
+tkqlhce.com**Commission Junction*ad
+chaordicsystems.com**Chaordic*widget
+adrevolver.com**Bluelithium*ad
+adultadworld.com**AdultAdWorld*ad
+betrad.com**Ghostery Privacy Notice*privacy
+kmi-us.com**Kantar Media*tracker
+apiae.hopscore.com**Hop-Cube*widget
+hitsniffer.com**HitSniffer*analytics
+adgear.com**AdGear*ad
+sniff.visistat.com**VisiStat*analytics
+stats.visistat.com**VisiStat*analytics
+domdex.com**Magnetic*tracker
+otter.topsy.com**Topsy*widget
+cdn.topsy.com**Topsy*widget
+rtb.strikead.com**StrikeAd*ad
+stats.wordpress.com**Wordpress Stats*analytics
+hfunt.com**ClarityRay*tracker
+admaxserver.com**Admax*ad
+kissmetrics.com**Kissmetrics*analytics
+genoo.com**Genoo*ad
+creafi-online-media.com**Creafi*ad
+adslot.com**Adslot*ad
+livechatinc.com**LiveChat*widget
+amxdt.com**Aerify Media*ad
+assoc-amazon.com**Amazon Associates*ad
+urtbk.com**AdOn Network*ad
+visualdna.com**VisualDNA*analytics
+elicitapp.com**elicit*ad
+valuecommerce.com**ValueCommerce*ad
+aumago.com**Aumago*tracker
+intercomcdn.com**Intercom*widget
+cpmprofit.com**CPMProfit*ad
+ad.prismamediadigital.com**Prisma Media Digital*ad
+mogointeractive.com**Mogo Interactive*tracker
+inpref.com**Frosmo Optimizer*tracker
+gunggo.com**Gunggo*ad
+np.lexity.com**Lexity*ad
+clickmeter.com**ClickMeter*analytics
+ekmpinpoint.com**ekmPinPoint*tracker
+msgapp.com**SalesFUSION*tracker
+lzjl.com**Clicksor*ad
+dotomi.com**Dotomi*tracker
+userzoom.com**UserZoom*analytics
+plugrush.com**PlugRush*ad
+carbonads.com**Carbon Ads*ad
+yieldoptimizer.com**ADARA Analytics*analytics
+trafmag.com**TrafMag*ad
+clicktracks.com**Lyris ClickTracks*analytics
+buzzbox.buzzfeed.com**BuzzFeed*widget
+ct.buzzfeed.com**BuzzFeed*widget
+insightexpressai.com**InsightExpress*analytics
+roimediadigital.com**Switch Concepts*ad
+rt.legolas-media.com**Legolas Media*tracker
+cpvtgt.com**AdOn Network*ad
+doubleverify.com**DoubleVerify*analytics
+afcyhf.com**Commission Junction*ad
+etgdta.com**eTargeting*ad
+widget.quantcast.com**Quantcast*ad
+martiniadnetwork.com**Martini Media*ad
+popupxxx.com**YesUp Advertising*ad
+ctasnet.com**Switch Concepts*ad
+ratevoice.com**SocialRMS*widget
+beanstalkdata.com**Beanstalk Data*tracker
+brand-server.com**Centro*ad
+cdna.tremormedia.com**Tremor Media*ad
+geovisite.com**Geovisite*analytics
+himediads.com**Hi-Media Performance*ad
+httpool.com**httppool*ad
+viralmint.com**ViralMint*widget
+cpmrocket.com**CPM Rocket*ad
+vertoz.com**Vertoz*ad
+pjtra.com**Pepperjam*ad
+psyng.com**ClarityRay*tracker
+res-x.com**Certona*tracker
+twyn.com**Twyn*ad
+oc-track.autonomycloud.com**Autonomy Campaign*tracker
+paperg.com**PaperG*ad
+predictiveintent.com**PredictiveIntent*tracker
+adrcdn.com**Weborama*ad
+juquery.com**Malware*tracker
+wikia-beacon.com**Wikia Beacon*tracker
+rlcdn.com**LiveRamp*tracker
+atoomic.com**Free PageRank*widget
+expo-max.com**expo-MAX*analytics
+system.picreel.com**Picreel*tracker
+adspdbl.com**Avid Media*ad
+addyon.com**AddyON*ad
+genesismedia.com**Genesis*ad
+gmodules.com**Google Widgets*widget
+adbull.com**AdBull*tracker
+hit.clickaider.com**ClickAider*tracker
+undertone.com**Undertone*ad
+ads.undertone.com**Undertone*ad
+dtmpub.com**Dotomi*tracker
+marketo.com**Marketo*analytics
+game-advertising-online.com**Game Advertising Online*ad
+gostats.com**GoStats*analytics
+adklip.com**adklip*ad
+dmd53.com**DemandMedia*ad
+clicksor.com**Clicksor*ad
+bigmobileads.com**Big Mobile*ad
+ads.moceanads.com**mOcean Mobile*ad
+apptegic.com**Evergage*widget
+sharethis.com**ShareThis*widget
+creatives.livejasmin.com**Adult Webmaster Empire*ad
+servmetric.com**GovMetric*analytics
+atomz.com**Atomz Search*widget
+shoprunner.com**ShopRunner*widget
+q1mediahydraplatform.com**Q1Media*ad
+technoratimedia.com**Technorati Media*ad
+iperceptions.com**iPerceptions*analytics
+ad.bnmla.com**Blink New Media*ad
+zenoviaexchange.com**Zenovia*ad
+qadabra.com**Marimedia*ad
+troveread.com**Trove*widget
+nextstat.com**NextSTAT*analytics
+vdrn.redplum.com**Brand.net*ad
+fidelity-media.com**Fidelity Media*ad
+adsrpt.com**AdEffective*ad
+passionfruitads.com**Passionfruit*ad
+ae.siteapps.com**SiteApps*widget
+a.siteapps.com**SiteApps*widget
+phone-analytics.com**Jet Interactive*analytics
+ad.clickotmedia.com**Adorika*ad
+dc-storm.com**DC StormIQ*analytics
+adshost2.com**Epom*ad
+linkprice.com**LinkPrice*ad
+yieldbuild.com**YieldBuild*ad
+directrev.com**DirectREV*ad
+admarket.entireweb.com**SpeedyAds*ad
+affiliate.entireweb.com**SpeedyAds*ad
+cm.shareaholic.com**Shareaholic*widget
+tracking.percentmobile.com**PercentMobile*analytics
+go.activengage.com**ActivEngage*widget
+abtasty.com**AB Tasty*tracker
+mybloglog.com**MyBlogLog*analytics
+burstnet.com**Burst Media*ad
+77tracking.com**77Tracking*tracker
+cpvfeed.com**AdOn Network*ad
+adsonar.com**Quigo AdSonar*ad
+crsspxl.com**Cross Pixel Media*tracker
+admedia.com**AdMedia*ad
+isocket.com**isocket*ad
+performgroup.com**Perform Group*ad
+vmmpxl.com**Varick Media Management*tracker
+omgpm.com**OMG*ad
+api.pinterest.com**Pinterest*widget
+sesamestats.com**TNS*analytics
+envolve.com**Envolve*widget
+crankyads.com**CrankyAds*ad
+mousestats.com**MouseStats*analytics
+impdesk.com**Infectious Media*ad
+freshplum.com**Freshplum*widget
+oaserve.com**Xaxis*ad
+xtendadvert.com**XtendAdvert*ad
+enectoanalytics.com**Enecto Analytics*analytics
+iesnare.com**ReputationManager*tracker
+clicktripz.com**ClickTripz*widget
+crossss.com**Crossss*widget
+boldchat.com**Boldchat*widget
+investingchannel.com**InvestingChannel*ad
+adxion.com**adXion*ad
+intellitxt.com**Vibrant Ads*ad
+shop2market.com**Shop2market*tracker
+twittercounter.com**TwitterCounter*analytics
+quintelligence.com**Quintelligence*tracker
+cdn-cs.com**Commerce Sciences*widget
+dtzads.com**Digitize*ad
+js.bigdoor.com**BigDoor*widget
+ads.mofos.com**JuggCash*ad
+link.mercent.com**Mercent*ad
+adagionet.com**Ad.agio*ad
+adreactor.com**AdReactor*ad
+ads.adwitserver.com**Adwit*ad
+tailsweep.com**Tailsweep*ad
+adserverpub.com**AdServerPub*ad
+adotube.com**AdoTube*ad
+pixel.solvemedia.com**Solve Media*ad
+yengo.com**Yengo*ad
+veruta.com**Veruta*tracker
+akavita.com**Akavita*ad
+spectate.com**Spectate*tracker
+applifier.com**Applifier*ad
+webclicktracker.com**Webclicktracker*tracker
+delivery.g.switchadhub.com**Switch Concepts*ad
+g.switchadhub.com**Switch Concepts*ad
+h.switchadhub.com**Switch Concepts*ad
+switchadhub.com**Switch Concepts*ad
+clickprotector.com**ClickProtector*tracker
+c-col.com**CompeteXL*analytics
+adstheaa.com**Switch Concepts*ad
+clickdesk.com**ClickDesk*widget
+synergy-e.com**Synergy-E*ad
+siteheart.com**SiteHeart*widget
+pixel.captora.com**Captora*ad
+embed.spotify.com**Spotify Embed*widget
+onlineadultadvertising.com**YesUp Advertising*ad
+bdv.bidvertiser.com**BidVertiser*ad
+srv.bidvertiser.com**BidVertiser*ad
+provenpixel.com**ProvenPixel*ad
+bluelithium.com**Bluelithium*ad
+ad.adgile.com**Adgile*ad
+clickpoint.com**Clickpoint*ad
+hsoub.com**Hsoub*ad
+h4k5.com**DC StormIQ*analytics
+ads.q1media.com**Q1Media*ad
+toboads.com**httppool*ad
+stats.shopify.com**Shopify Stats*tracker
+s.shopify.com**Shopify Stats*tracker
+leadforensics.com**LeadForensics*tracker
+webstat.com**WebSTAT*tracker
+justpremium.com**Just Premium*ad
+ads.sexinyourcity.com**SexInYourCity*ad
+adkengage.com**Adknowledge*ad
+adversaldisplay.com**Adversal*ad
+qadserve.com**Marimedia*ad
+creativecdn.com**RTB House*ad
+adrdgt.com**Adconion*ad
+admitad.com**admitad*ad
+static.parsely.com**Parse.ly*tracker
+parsely.com**Parse.ly*tracker
+siena1.syn-api.com**Synacor*tracker
+caspion.com**Caspion*ad
+mediapass.com**MediaPass*widget
+dmp.theadex.com**The ADEX*ad
+id-visitors.com**VisualVisitor*analytics
+adsbyisocket.com**isocket*ad
+tracker.leadsius.com**Leadsius*tracker
+secure.providesupport.com**Provide Support*widget
+image.providesupport.com**Provide Support*widget
+onlinewebstats.com**Onlinewebstat*analytics
+spongecell.com**Spongecell*ad
+adtomafusion.com**Adtoma*ad
+admulti.com**ADmulti*ad
+wamcash.com**Wamcash*ad
+integral-marketing.com**Integral Marketing*ad
+analytics.clickdimensions.com**ClickDimensions*tracker
+casalemedia.com**Index Exchange (Formerly Casale Media)*ad
+djers.com**ClarityRay*tracker
+gumroad.com**Gumroad*ad
+amoad.com**AMoAd*ad
+e-generator.com**Ideal Media*ad
+mygeek.com**AdOn Network*ad
+tcimg.com**trendcounter*analytics
+allyes.com**Allyes*tracker
+hfutz.com**ClarityRay*tracker
+luckyorange.com**Lucky Orange*analytics
+rpxnow.com**Janrain*widget
+api.wipmania.com**WIPmania*tracker
+adacado.com**Adacado*ad
+speakpipe.com**SpeakPipe*widget
+content.dl-rms.com**Dynamic Logic*tracker
+kanoodle.com**Kanoodle*ad
+12mnkys.com**12Mnkys*tracker
+adtoma.com**Adtoma*ad
+websiteperform.com**eVisit Analyst*analytics
+trackuity.com**Trackuity*widget
+ru4.com**[x+1]*ad
+collserve.com**Dataium*analytics
+mlnadvertising.com**MLN Advertising*ad
+imiclk.com**Akamai Cookie Sync*ad
+reachlocal.com**ReachLocal*ad
+chatango.com**Chatango*widget
+free-pagerank.com**Free PageRank*widget
+analytics.mpn.mokonocdn.com**Mokono Analytics*analytics
+mpn-analytics.mokonocdn.com**Mokono Analytics*analytics
+yengointernational.com**Yengo*ad
+cbproads.com**ClickBank ProAds*ad
+optorb.com**Optim.al*tracker
+clixmetrix.com**ClixMetrix*analytics
+adlooxtracking.com**Adloox*tracker
+cdn.engine.adsupply.com**AdSupply*ad
+gopjn.com**Pepperjam*ad
+reduxmedia.com**Redux Media*ad
+tracking.rapidape.com**RapidApe*analytics
+aimatch.com**SAS*tracker
+centraltag.com**CentralTag*ad
+pardot.com**Pardot*tracker
+komoona.com**Komoona*ad
+snoobi.com**Snoobi*analytics
+widerplanet.com**WiderPlanet*ad
+unister-adservices.com**Unister*tracker
+widget.kelkoo.com**Kelkoo*widget
+cmmeglobal.com**Cognitive Match*tracker
+histats.com**Histats*analytics
+go.cpmadvisors.com**Optim.al*tracker
+sextracker.com**SexTracker*tracker
+stat.yellowtracker.com**YellowTracker*analytics
+engine.influads.com**InfluAds*ad
+kmdisplay.com**Kitara Media*ad
+iogous.com**iogous*ad
+streamray.com**FriendFinder Network*ad
+emailretargeting.com**Tedemis*ad
+impr.superpages.com**SuperMedia*ad
+linksynergy.com**LinkShare*ad
+atemda.com**Admeta*ad
+12mlbe.com**AudienceRate*tracker
+segment.com**Segment*analytics
+nowinteract.com**Now Interact*analytics
+flagcounter.com**Flag Counter*widget
+multipops.com**YesUp Advertising*ad
+alenty.com**Alenty*ad
+adrecord.com**Adrecord*ad
+purechat.com**Pure Chat*widget
+magnetisemedia.com**Magnetise Group*ad
+irs09.com**AdChina*ad
+hitbox.com**Omniture (Adobe Analytics)*tracker
+track.monitis.com**Monitis*analytics
+adfusion.com**Adfusion*ad
+attadworks.turn.com**AT&T AdWorks*ad
+turn.com**Turn Inc.*ad
+researchnow.com**Research Now*tracker
+upsellit.com**UpSellit*widget
+onscroll.com**OnScroll*ad
+socdm.com**ScaleOut*ad
+scorecardresearch.com**ScoreCard Research Beacon*tracker
+shuttle.sharexy.com**Yepty*ad
+ads.blogherads.com**BlogHer Ads*ad
+yotpo.com**Yotpo*widget
+zeusclicks.com**Pornvertising*ad
+rovion.com**Rovion*ad
+sa-as.com**VisiStat*analytics
+revenuemantra.com**RevenueMantra*ad
+activemeter.com**ActiveMeter*tracker
+dynamicyield.com**Dynamic Yield*ad
+smartertrack.com**SmarterTrack*widget
+api.conduit.com**Conduit*ad
+apps.conduit.com**Conduit*ad
+adparlour.com**AdParlor*ad
+onswipe.com**Onswipe*widget
+linkwithin.com**LinkWithin*widget
+ad.adserverplus.com**Ybrant Media*ad
+us2widget.nimblecommerce.com**NimbleCommerce*widget
+us3widget.nimblecommerce.com**NimbleCommerce*widget
+indieclick.com**IndieClick*ad
+heavyhearted.com**Switch Concepts*ad
+skysa.com**Skysa*widget
+jumptap.com**Jumptap*ad
+mxpnl.com**Mixpanel*analytics
+clicktale.pantherssl.com**ClickTale*analytics
+readrboard.com**ReaderBoard*widget
+track.digitalriver.com**Digital River*tracker
+data.cmcore.com**Coremetrics*analytics
+mmadsgadget.com**Marimedia*ad
+ads.mopub.com**MoPub*ad
+partner-ads.com**Partner-Ads*ad
+exoclick.com**ExoClick*ad
+propelad.com**PropelAd*ad
+engine.adpushup.com**AdPushup*ad
+lbein.com**ClarityRay*tracker
+yabuka.com**Yabuka*ad
+tag.email-attitude.com**Email Attitude*tracker
+data.publishflow.com**PublishFlow*analytics
+affinity.com**Affinity*ad
+zemanta.com**Zemanta*tracker
+mkt912.com**Silverpop*ad
+gestionpub.com**GestionPub*ad
+cams.com**FriendFinder Network*ad
+ads.crakmedia.com**Crakmedia Network*ad
+flexlinks.com**FlexOffers*ad
+adsmarket.com**Matomy Market*ad
+broadstreetads.com**Broadstreet*ad
+fanefo.com**ClarityRay*tracker
+klikki.com**Klikki*ad
+hurra.com**Hurra Tracker*tracker
+visibility-stats.com**NET Visibility*tracker
+agilone.com**AgilOne*analytics
+w00tads.com**Switch Concepts*ad
+track.yieldsoftware.com**Autonomy Campaign*tracker
+eurts.com**ClarityRay*tracker
+feedsportal.com**Feedsportal*widget
+awin1.com**Affiliate Window*ad
+fluidsurveys.com**FluidSurveys*widget
+adjal.com**Adjal*ad
+dutrus.com**ClarityRay*tracker
+metaffiliation.com**NetAffiliation*ad
+nexage.com**Nexage*ad
+thoughtleadr.com**ThoughtLeadr*ad
+contextweb.com**PulsePoint*ad
+adonion.com**AdOnion*ad
+adcentriconline.com**AdCentric*ad
+countby.com**Affinity.by*ad
+googletagservices.com**DoubleClick*ad
+neodatagroup.com**Neodata*ad
+data.gosquared.com**GoSquared*analytics
+agcdn.com**Accord Group*ad
+track.did-it.com**Didit Maestro*analytics
+omni-acttag.elasticbeanstalk.com**Elastic Beanstalk*tracker
+adjug.com**AdJug*ad
+event.adxpose.com**AdXpose*tracker
+servedby.adxpose.com**AdXpose*tracker
+ads.adxpose.com**AdXpose*tracker
+clickandchat.com**Click and Chat*widget
+netbooster.com**NetBooster Group*tracker
+webterren.com**Terren*analytics
+insight.torbit.com**Torbit*tracker
+aerisapi.com**Aeris Weather*widget
+cpvadvertise.com**CPVAdvertise*ad
+cygnus.com**Cygnus*ad
+254a.com**Yieldr*tracker
+googlesyndiscation.com**Malware*tracker
+tiqcdn.com**Tealium*analytics
+webmasterplan.com**Affilinet GmbH*ad
+rm.yieldmanager.com**Right Media*ad
+ad.yieldmanager.com**Right Media*ad
+interclick.com**Genome*ad
+impactradius.com**Impact Radius*tracker
+pixel.wp.com**Wordpress Stats*analytics
+optimahub.com**Datalicious DataCollector*tracker
+perfectmarket.com**Perfect Market*ad
+ftjcfx.com**Commission Junction*ad
+analytics.twitter.com**Twitter Advertising*ad
+dmtry.com**Adometry*analytics
+analytics.newsinc.com**NDN Analytics*analytics
+ibillboard.com**Internet BillBoard*ad
+csbew.com**AdChina*ad
+dev.visualwebsiteoptimizer.com**Visual Website Optimizer*tracker
+searchmarketing.com**ChannelAdvisor*analytics
+amigos.com**FriendFinder Network*ad
+board-books.com**FriendFinder Network*ad
+seal.geotrust.com**GeoTrust*privacy
+smarticon.geotrust.com**GeoTrust*privacy
+statistics.ro**statistics.ro*analytics
+ad4mat.ro**ad4mat*ad
+track.qcri.org**QCRI Analytics*analytics
+adsrvr.org**TradeDesk*ad
+openx.org**OpenX*ad
+gandrad.org**Green and Red*ad
+liczniki.org**Blog Rating Tracker*tracker
+zwaar.org**Zwaar*ad
+jquerys.org**Malware*tracker
+ads.elementodigital.org**comOn Group*ad
+simpleadserver.org**Simple AdServer*ad
+hypeads.org**Hype Exchange*ad
+ip-tracker.org**IP Tracker*tracker
+aprtx.com**aprtx*ad
+callpy.com**callpy*widget

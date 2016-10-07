@@ -1,0 +1,103 @@
+#!/usr/bin/env bash
+#> копируем файлы sz_vars_30days чтобы взять оттуда домены - нужен тот же список доменов что и во всех sz_vars
+#(
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+source ./00-setenv.sh
+
+# День можно указать...
+day=${1:-""} 
+# ...или он будет прошлым понедельником:
+[[ -z "$day" ]] && day=`date -d"last monday" +%F`
+
+
+for job in google ssp net; do
+    tn=`href -dict="google=>3,ssp=>3,net=>0" -val=$job` # для каждого job - свой tn
+    szvars_local="./copyed/$day.$job.$tn.szvars.gz"
+    [[ -s "$szvars_local" ]] && continue # если локальный файл сущетвует, то пропускаем
+    #domfield=`href -dict="google=>4,ssp=>5,net=>7" -val=$job` # и свой номер поля с доменами
+    #domfield=2
+    szvars_to_copy=$(ssh bbid1.adriver.x "find /home/d.belyaev/1460/RESULT/10/ -wholename \"*/$job/$tn/sz_vars_30days.gz\" |sort |tail -n1" )
+    [[ -z "$szvars_to_copy" ]] && echo "$0: not found file for mask */$job/$tn/sz_vars_30days.gz">&2 && exit 1
+    scp bbid1.adriver.x:$szvars_to_copy $szvars_local
+    [[ -s $szvars_local ]] && zcat $szvars_local | awk -F'*|:' -vOFS=* '{print $3,$1,$2}' | LANG=POSIX sort -u |
+	viatmp -gz ./copyed/$day.$job.$tn.domains.gz
+done
+
+zcat ./copyed/$day.*.domains.gz |    
+ grep -v -P '\&|\%|\@|\s' |
+ grep -v -P '\d+\.\d+\.\d+\.\d+' |
+ grep -v -P '^[\-\+\s\.\_]' |
+ grep -v -P 'anonymous.google' |
+ awk '$0~"\\."' |
+ LANG=POSIX sort -u |
+ viatmp ./copyed/dom_sid_sz.$day.txt # потом можно копировать в DOWNLOAD или не копировать
+
+if [[ ! -s ./copyed/yandex-ssp-single.$day.txt ]]; then
+# очистка однодоменных yandex-ssp:
+# input: dom*sid*sz
+yssp="197671"
+cat ./copyed/dom_sid_sz.$day.txt | awk -F* -vOFS=* '$2=='$yssp'{print $1}'| # отбираем sid==197671 - yandex ssp
+ perl -F'\.' -lane'print join ".",@F[1..$#F]' | # выводим домен без цифр внвчале '1234.dom.ru' -> 'dom.ru' 
+ LANG=POSIX sort | uniq -c | sort -nr |
+ awk '$1<=3{print $2}' | # берем только те что встречаются -НЕ- более N раз
+ viatmp ./copyed/yandex-ssp-single.$day.txt
+fi
+
+if [[ ! -s ./copyed/yandex-ssp-multi.$day.txt ]]; then
+# многодоменные yandex-ssp:
+cat ./copyed/dom_sid_sz.$day.txt | awk -F* -vOFS=* '$2=='$yssp'{print $1}'| # отбираем sid==197671 - yandex ssp
+ perl -F'\.' -lane'print join ".",@F[1..$#F]' | # выводим домен без цифр внвчале '1234.dom.ru' -> 'dom.ru' 
+ LANG=POSIX sort | uniq -c | sort -nr |
+ awk '$1>3 && $2!=""{print $2}' | # берем только те что встречаются -БОЛЕЕ- N раз
+ viatmp ./copyed/yandex-ssp-multi.$day.txt
+fi
+
+#)>>"$0.log" 2>&1
+
+# конечный список доменов:
+
+if [[ ! -s ./copyed/dom_orig_sid_sz.$day.txt ]]; then
+cat ./copyed/dom_sid_sz.$day.txt | lae -lb="dom sid sz" '
+ my $multidom_fn = shift or die "Файл с мультидоменными доменами";
+ my %multidoms = map {$_=>1} cat $multidom_fn;
+ my $yandex_ssp_sid = shift or die "yandex-ssp sid!";
+ 
+ _{
+    if ($F[SID] != $yandex_ssp_sid){
+	p $F[DOM], @F;   # - печать как есть
+	return; # - переход к сл итерации
+    }
+    # остальное - для yandex-ssp:
+    my @parts = split /\./, $F[DOM];
+    my $domtail = join ".", @parts[1..$#parts];
+    return if !$domtail; # - вообще пропускаем строку если пустой хвост домена
+    if ( $multidoms{ $domtail } ){ # если окончание домена присутствует в справочнике - это мультидоменный домен
+	p $F[DOM], @F;   
+	return; 
+    }else{
+	# иначе - это single домен, к которому яндекс прибавил спереди циферки:
+	# печатаем укороченный домен (который нужно анализировать)
+	p $domtail, $F[DOM], $F[SID], $F[SZ];  
+    }
+    
+ }
+  
+' "./copyed/yandex-ssp-multi.$day.txt" "$yssp" | # domtail * dom * sid * sz #( cut -d* -f1 | # $domtail||$dom )
+ LANG=POSIX sort -u |  
+ viatmp ./copyed/dom_orig_sid_sz.$day.txt
+ # - здесь создается файл [dom orig sid sz], где dom - очищенный от yandex-ssp (если нежуно) домен, orig - исходный домен
+fi
+
+if [[ ! -s ./copyed/doms.$day.txt ]]; then
+    # просто очищенные домены отуникаленным списком:
+    cat ./copyed/dom_orig_sid_sz.$day.txt | cut -d* -f1 | LANG=POSIX sort -u | viatmp ./copyed/doms.$day.txt
+fi    
+
+
+
+
+

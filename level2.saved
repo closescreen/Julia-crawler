@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+#>
+#(
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+#>1:
+download_dir=${1:? download_dir! } # или указать файл(ы) .../ROOT.tags
+
+#>2:
+headn=${2:-""} # можно указать сколько первых урлов из 30.tags+saved.url-urls брать
+headcmd=""
+#[[ -n "$headn" ]] && headcmd=" | head -n$headn "
+[[ -n "$headn" ]] && headcmd=" | ./randlines.pl -n=$headn "
+
+#>:3: deb
+deb=${3:-""}
+[[ -n "$deb" ]] && set -x
+wdeb=""
+[[ -n "$deb" ]] && wdeb="-d"
+
+#>4: stat:
+stt=${4:-""}
+
+#> 5 tagsfile: # можно укзать конкретные файлы
+tagsfiles=${5:-""}
+
+
+(
+ if [[ -z "$tagsfiles" ]]; then # указана только download dir
+  find "$download_dir" -name ROOT.tags | only -s -lines | only -near=ROOT.saved.url -lines
+ else
+  echo "$tagsfiles"  
+ fi  
+) |  washing -batch=1 -res='$_=$_.".L2-completed"' -cmd="set +o pipefail; ./tags+saved.url-urls %s \"/\" $headcmd | ./in.urls-saved \"$download_dir\" \"$deb\" \"$stt\" && echo %s" \
+  -w='[[ -e %f.TMP ]] || netflag --check --file="%f.FLAG" -rm' $wdeb # -- при наличии *.TMP не делать попыток скачать урл
+ 
+ 
+
+#)>>"$0.log" 2>&1

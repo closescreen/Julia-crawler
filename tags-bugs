@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#>
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+#>:1
+download_dir=${1:? download_dir! }
+
+
+if [[ -d "$download_dir" ]]; then
+    find "$download_dir" -name "*.tags" | # построчно имена *.tags-файлов:
+	./in.tags-bugs.jl $*
+else
+    # это файл(ы)
+    tags_ff=`echo $download_dir | only -s`
+    [[ -z "$tags_ff" ]] && echo "tags files!">&2 && exit 1
+    echo "$tags_ff" | ./in.tags-bugs.jl $*
+fi
+

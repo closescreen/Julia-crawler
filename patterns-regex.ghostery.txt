@@ -1,0 +1,41 @@
+\/woopra(\.v(2|3|4))?\.js	Woopra	analytics
+assets\.adobedtm\.com\/[0-9a-z]+\/satellitelib-	Adobe TagManager	widget
+\/adam\/(cm8[0-9a-z_]+\.js|detect)	CheckM8	ad
+facebook\.com\/(v2\.0\/)?(plugins|widgets)\/.*\.php	Facebook Social Plugins	widget
+s3\.amazonaws\.com\/aascript[\.\/a-zA-Z\-]+\/abandonaid[\.\/a-zA-Z\-]+\.js	AbandonAid	analytics
+digg\.com\/[0-9a-zA-Z]*\/diggthis\.js	DiggThis	widget
+^trackuity\.	Trackuity	widget
+metrics\..*\.(com|net|org)\/b\/(s|ss)\/	Omniture (Adobe Analytics)	tracker
+twitter\.com\/javascripts\/[0-9a-z]+\.js	Twitter Badge	widget
+\/resxcls[ax][0-9a-z_]*\.js	Certona	tracker
+\/econda.*\.js	Econda	analytics
+\/webtrekk(.*)\.js	Webtrekk	analytics
+revsci\.(.*)\/gw\.js	Audience Science	tracker
+\/webtrends(.*)?\.js	WebTrends	tracker
+ucoz\.(.*)\/(stat|main)\/	uCoz	tracker
+\.list-manage[1-9]\.com\/track\/	MailChimp Tracking	tracker
+(ea|eulerian).*\/ea\.js	Eulerian	analytics
+\/gomez.+?\.js	Gomez	tracker
+\.2mdn\.net\/([0-9]+|ads|dot\.gif|dynamic|viewad)	DoubleClick	ad
+\/mbox(.*)?\.js	Adobe Test & Target	tracker
+^ox\-d\.	OpenX	ad
+static\.ak\.connect\.facebook\.com\/.*\.js\.php	Facebook Connect	widget
+\/mint\/$	Mint	analytics
+websitealive[0-9]\.com	AliveChat	tracker
+(\.google\.com\/\_\/\+1\/fastbutton|plus\.google\.com\/js\/client:plusone\.js)	Google+ Platform	widget
+\.1[12]2\.2o7\.net	Omniture (Adobe Analytics)	tracker
+api\.flattr\.com\/(.*)\/load\.js	Flattr Button	widget
+xcdn\.xgraph\.net\/([0-9]|partner\.js)	XGraph	analytics
+\/(omniture|hbx|omniunih)(.*)?\.js	Omniture (Adobe Analytics)	tracker
+s(c)?_code[0-9a-zA-Z_-]*(\.[0-9a-zA-Z_-]*)?\.js	Omniture (Adobe Analytics)	tracker
+(ga|xhr)\.[0-9]+\.js	Distil Networks	privacy
+\.google\.com(...)?\/coop\/cse\/brand	Google Custom Search Engine	widget
+(\.feedburner\.com\/~f|feedproxy\.google\.com\/~fc\/)	FeedBurner	ad
+(\.haloscan\.com\/load\/|js-kit\.com\/[0-9a-z\/]+\.js)	Echo	widget
+pmetrics\.performancing\.com\/(js|in\.php|[0-9]*\.js)	Performancing Metrics	ad
+baynote(-observer)?([0-9]+)\.js	Baynote Observer	tracker
+speedtrap\.(.*)\.com	Cerberus Speed-Trap	tracker
+api\.pressly\.com\/(.*)redirect\.js	Pressly	ad
+(amconf|core|adcontent)\.videoegg\.com\/(siteconf|eap|alternates|ads)\/	Say Media	ad
+\/opentag-(.*)\.js	Qubit Opentag	tracker
+\.thesearchagency\.net\/(.*)\/tsaapi\.js	The Search Agency	tracker

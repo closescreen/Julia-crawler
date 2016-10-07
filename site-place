@@ -1,0 +1,23 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use Data::Dumper;
+use Getopt::Long;
+
+#my $usage = q{ Usage: };
+
+#GetOptions(
+#    
+#) or die "Bad opt!";
+use lib "./RND-195/";
+my $download_dir = shift() or die "download_dir!";
+
+use UrlToDest; 
+
+$\="\n";
+while(<STDIN>){
+    chomp;
+    my $place = UrlToDest::that($_, prefix=>"$download_dir", root=>"ROOT", suffix=>"saved");
+    print join(' ',$_,$place);
+}    

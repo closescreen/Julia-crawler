@@ -1,0 +1,91 @@
+#!/usr/bin/env bash
+#>
+
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+# на STDIN - подавать урлы для скачивания
+
+#>1:
+download_dir=${1:? download_dir! }
+
+
+#>2:
+deb=${2:-""} # включение отладки -x
+debok=""
+[[ -n "$deb" ]] && washingdeb="-d" && debok="yes" && set -x
+
+#>3:
+stats=${3:-""} # статистика
+
+
+perl -MUrlToDest -MData::Dumper -lane'
+ BEGIN{ 
+    $deb = shift;
+    $stats = shift;
+    %stats = ();
+ }
+ 
+ $url = $_;
+ $url = "http://$url" if not $url=~m|\://|;
+ $dest = UrlToDest::that($url, prefix=>"'$download_dir'", root=>"ROOT", suffix=>"saved");
+ if ( -e $dest ){
+    warn "skip $dest - exists" if $deb;
+    $stats{skip_ready}++;
+    next;
+ }elsif( -e "$dest.TMP" ){ # пропуск файлов TMP и готовых (чтобы не заставлять washing это делать)
+    warn "skip $dest.TMP - tmp exists." if $deb;
+    $stats{skip_tmp}++;
+    next;
+ }else{
+    
+    $bashcmd = qq{mkdir -p \$(dirname $dest)};
+    $cmd = qq{bash -c \"$bashcmd\"};
+    warn "$cmd" if $deb;
+    $rv = system($cmd);
+    if ( $rv!=0 ){
+	warn "Status = $rv\n Cmd=$cmd" if $deb;
+	#exit 1;
+	#$stats{errors}++;
+    }else{
+	#$stats{success}++;
+    }	
+    
+    sleep 1;
+    
+    `bash -c "[[ ! -s \\\"$dest\\\" ]] && echo \\\"$url\\\" | viatmp $dest.url"`;
+
+    $bashcmd = qq{ flag --file=$dest.FLAG -cmd=\\\"(./PHANTOM/url-content-timeout.sh \\\\\\"$url\\\\\\" \"15000\" 2>&1 )> $dest.TMP && mv $dest.TMP $dest\\\" };
+    
+    $cmd = qq{bash -c \"$bashcmd\"};
+    warn "$cmd" if $deb;
+    $rv = system($cmd);
+
+    if ( $rv!=0 ){
+	warn "Status = $rv" if $deb;
+	#exit 1;
+	$stats{errors}++;
+    }else{
+	$stats{success}++;
+    }	
+    
+    #die "Stop"; # after first site
+    
+    END{
+	warn "END: " . Dumper(\%stats) if $deb;
+    }	
+    
+    $dt = `date +"%F %H:%M"`;
+    chomp($dt);
+    @stat = %stats;
+    warn "$dt: @stat ($url)\n" if $stats;
+ }    
+' "$debok" "$stats"
+
+
+
+
+
+

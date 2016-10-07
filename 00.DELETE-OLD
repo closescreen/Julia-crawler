@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+#> Удаляет старые данные.
+#(
+set -u
+set -x
+cd `dirname $0`
+
+# find all download dirs:
+dirs=`find ./DOWNLOAD/ -maxdepth 1  -type d -name "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]" | sort`
+
+# all its count:
+allcount=`echo "$dirs" | wc -l`
+
+# how many last to keep (do not delete)
+# сколько последних папок ./DOWNLOADS/(yyyy-mm-dd) оставлять (не удалять):
+currentcount=8
+
+# how many dirs to delete:
+todelcount=$(( $allcount - $currentcount > 0 ? $allcount - $currentcount : 0 ))
+
+# dirs to delete:
+todeldirs=`echo "$dirs" | head -n"$todelcount"`
+
+for diri in $todeldirs; do
+    #echo "`date +\"%F %H:%M\"`: Delete old directory: $diri"
+    rm -r $diri
+done
+
+# первый день старее которого данные удалены:
+firstcurrentday=`find ./DOWNLOAD/ -maxdepth 1  -type d -name "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]" | sort | head -n1 | fn2days`
+
+# файлы из ./copyed, старее этого дня:
+copyedtodel=`find ./copyed/ -type f | only -older="$firstcurrentday" -lines`
+
+for f in $copyedtodel; do
+    #echo "`date +\"%F %H:%M\"`:Delete old file: $copyedtodel"
+    rm "$f"
+done    
+
+#)>>"$0.log" 2>&1

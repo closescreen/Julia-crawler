@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+#>
+#(
+set -u
+set +x
+set -o pipefail
+cd `dirname $0`
+
+# 1. имя файла *.tags
+f_tags=${1:? "file *.tags!"}
+[[ ! -s "$f_tags" ]] && echo "file $f_tags not exists!">&2 && exit 1
+
+# 2. разделитель на выходе. домен отделяется от пути. По умолчанию - ""
+ofs=${2:-""}
+
+# имя файла *.saved.url, что рядом
+f_saved_url=`echo "$f_tags" | sed -e's|\.tags|\.saved.url|'`
+[[ ! -s "$f_saved_url" ]] && echo "file $f_saved_url not exists!">&2 && exit 1
+
+dom=`sed -e's|\"||g' $f_saved_url`
+[[ -z "$dom" ]] && echo "empty dom from file $f_saved_url">&2 && exit 1
+
+cat "$f_tags" | # -- список тегов из *.tags 
+ awk -F* -v"dom=$dom" -v"OFS=$ofs" '$1=="a" && $2~"/." && $2!~"//" { print dom,$2 }' # только вида /lalala, не //lalala и не /
+
+#)>>"$0.log" 2>&1

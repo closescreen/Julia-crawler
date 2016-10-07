@@ -1,0 +1,10 @@
+g       grep filename in executable
+        find . -maxdepth 1 -type f -executable | while read f; do found=`grep -n %f "$f"` && echo -e "\n\n\n==> IN $f:\n $found"; done
+
+s       10.in.urls-saved-ph - download url into current download dir
+        echo '%{Enter url}' | ./in.urls-saved-ph `conf 00-RND-195-core.conf 'download_dir'`
+        
+l    lynx opposite *.url
+	urlfile=%D/%F
+	lynx --cookies=off `cat "$urlfile"`
+	

@@ -1,0 +1,109 @@
+*/image.ng/*DoubleClick DART*ad
+*/wp-content/plugins/trustjacker*Malware*tracker
+*/phpmyvisites.js*phpMyVisites*analytics
+*blueconic.min.js*BlueConic*analytics
+*/hellobar.js*Hello Bar*widget
+*webtraxs.js*Web Traxs*analytics
+*/std/resource/script/rwts.js*RightWave*tracker
+*mmcore.js*Maxymiser*tracker
+*/bazaarvoice.js*Bazaarvoice*widget
+*/ajs.php*OpenX*ad
+*ystat.js*Yahoo Analytics*analytics
+*/zig.gif*Proficientz*analytics
+*/quant.js*Quantcast*ad
+*/banners/ajtg.js*AdJuggler*ad
+*/servlet/ajrotator/*AdJuggler*ad
+*/njs.gif*WebTrends*tracker
+*/timetracking/abtastytiming.gif*AB Tasty*tracker
+*/ki.js/*KissInsights*analytics
+*baynote-observer.js*Baynote Observer*tracker
+*/__utm.*Google Analytics*analytics
+*adstream_mjx.ads/*Xaxis*ad
+*elqimg.js*Eloqua*analytics
+*certifica-js14.js*Certifica Metric*analytics
+*foresee-alive*ForeSee*analytics
+*trackingtags_v1.1.js*WebTrends*tracker
+*/zag.gif*Proficientz*analytics
+*optinmonster/assets/js/api.js*Optinmonster*tracker
+*/al.php*OpenX*ad
+*monitus.js*Monitus*tracker
+*/adg.js*OpenX*ad
+*/js_source/whv2_001.js*Yahoo Analytics*analytics
+*/piwik.js*Piwik Analytics*analytics
+*/addthis_widget.js*AddThis*widget
+*/dcs.gif*WebTrends*tracker
+*/metriweb/mwtag*MetriWeb*tracker
+*/adx.js*OpenX*ad
+*/zag.js*Proficientz*analytics
+*/resonance5050.js*Certona*tracker
+*/eluminate.js*Coremetrics*analytics
+*tealeafcfg.js*Tealeaf*analytics
+*/seesmic_topposters_v2.js*Seesmic*tracker
+*/fl.js*OpenX*ad
+*baynote.js*Baynote Observer*tracker
+*tealeaf.js*Tealeaf*analytics
+*/visitscript/*Linkbucks*ad
+*/k_button.js*Kampyle*tracker
+*/lg.php*OpenX*ad
+*awstats_misc_tracker.js*AWStats*analytics
+*/otto/modules/tracker/pixel.*Sonican*tracker
+*/share-this.php*ShareThis*widget
+*foresee-analytics*ForeSee*analytics
+*/share42/share42.js*Share42*widget
+*/owa.tracker-combined-min.js*Open Web Analytics*analytics
+*/piwik.php*Piwik Analytics*analytics
+*/github-btn.html*Unofficial GitHub Buttons*widget
+*utag.loader.js*Tealium*analytics
+*seesmic-wp.js*Seesmic*tracker
+*/advertpro/servlet/view/*AdvertPro*ad
+*pixel.buzzdeck*Buzzdeck*tracker
+*/liveball_api.js*LiveBall*analytics
+*/avw.php*OpenX*ad
+*.web-call-analytics.com/wca.js*Fonebox*widget
+*/webservices/jsparselinks.aspx*Linkbucks*ad
+*adbutler*Ad Butler*ad
+*/mymint/*Mint*analytics
+*/ag.php*OpenX*ad
+*/acton/bn/*Act-On Beacon*tracker
+*/spcjs.php*OpenX*ad
+*/zig.js*Proficientz*analytics
+*/k_push.js*Kampyle*tracker
+*/salog.js.aspx*HubSpot*analytics
+*/percent_mobile.js*PercentMobile*analytics
+*adstream_nx.ads/*Xaxis*ad
+*/performable/pax*Performable*tracker
+*touchclarity*Adobe Test & Target*tracker
+*/coradiant/*Coradiant*tracker
+*monitus_tools.js*Monitus*tracker
+*/anametrix.js*Anametrix*analytics
+*wtid.js*WebTrends*tracker
+*tns-counter.js*TNS*analytics
+*/js.ng/*DoubleClick DART*ad
+*/scripts/oas_analytics.js*Xaxis*ad
+*/wp-content/plugins/click-jacker*Malware*tracker
+*/xtcore.js*AT Internet*analytics
+*/html.ng/*DoubleClick DART*ad
+*certifica.js*Certifica Metric*analytics
+*/adpeeps.php*Ad Peeps*ad
+*/_mint/*Mint*analytics
+*/fbconnect.js*Facebook Connect*widget
+*/wp-content/themes/stealthsensei*Malware*tracker
+*/images/mlopen_track.html*Lyris ClickTracks*analytics
+*clicky.js*Clicky*analytics
+*elqcfgxml.js*Eloqua*analytics
+*elqcfg.js*Eloqua*analytics
+*/instantinvite3.js*Oracle Live Help*widget
+*ntpagetag*Unica*analytics
+*/addthis_widget.php*AddThis*widget
+*tacoda_ams_ddc_header.js*Tacoda*ad
+*/xgemius.js*Gemius*analytics
+*/afr.php*OpenX*ad
+*/internal/jscript/dwanalytics.js*Demandware Analytics*analytics
+*taboola_newsroom_article.js*Taboola*widget
+*/netupdater*NetUpdater*analytics
+*/chartbeat.js*ChartBeat*analytics
+*foresee-trigger*ForeSee*analytics
+*/wp-content/plugins/iflychat/js/script.js*iFlyChat*widget
+*indextools.js*Yahoo Analytics*analytics
+*/wp-content/plugins/roost-for-bloggers/*Roost*widget
+*realmedia/ads/*Xaxis*ad
