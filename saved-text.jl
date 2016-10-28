@@ -1,7 +1,9 @@
 #!/usr/bin/env julia
 
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using J
+using Jbase
+import File
+import Flag
 
 deb = false
 statist = false
@@ -12,11 +14,11 @@ if length(filter( arg->ismatch(r"stat",arg), ARGS)) > 0
     statist = true
 end
 
-include("./in-html-out-descr-text.jl")
+#include("./in-html-out-descr-text.jl") # возможно файлы .descr не нужны
 include("./in-html-out-main-text.jl")
 
 modules = [
-    Dict(:targetext=>".descr.text", :f=>in_html_out_descr_text, :fstr=>"in_html_out_descr_text" ), # ключевые слова с сайта/страницы
+#    Dict(:targetext=>".descr.text", :f=>in_html_out_descr_text, :fstr=>"in_html_out_descr_text" ), # ключевые слова с сайта/страницы
     Dict(:targetext=>".main.text", :f=>in_html_out_main_text, :fstr=>"in_html_out_main_text" ), # главный текст
 ]
 

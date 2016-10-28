@@ -1,7 +1,9 @@
 #!/usr/bin/env julia
 include("./in-html-out-tags.jl")
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using J
+using Jbase
+import File
+import Flag
 
 deb = false
 statist = false
@@ -19,10 +21,15 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
     skipped_ready_cnt = 0
     skipped_tmp_cnt = 0
     skipped_err_cnt = 0
-
+    
+    docontinue = 0
     # на STDIN ожидаем построчно имена *.saved файлов
 
     for saved_file in eachline(STDIN)
+        if docontinue > 0
+            docontinue-=1
+            continue
+        end    
         saved_file = chomp(saved_file)
         debinfo("saved file: ", saved_file)
 
@@ -58,12 +65,15 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
 
 	if File.iswait(tags_file) 
 	    debinfo("file $tags_file: WAIT. continue...")
+	    docontinue = 10
 	    continue
 	end    
         
         debinfo("Set flag...")
         if ! Flag.set(tags_file)
-    	    warn("can't set flag for $tags_file")
+    	    #warn("can't set flag for $tags_file")
+    	    # скорее всего здесь непонятки с другим процессом который обогнал этот после проверок
+    	    docontinue = 10
     	    continue
     	end    
         
@@ -75,9 +85,11 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
         debinfo("parse return $is_parse_html_true")
         close( tags_file_tmp_io )
         statinfo("parsed:$parsed_cnt / ready:$skipped_ready_cnt / tmp:$skipped_tmp_cnt / err: $skipped_err_cnt")        
-        if is_parse_html_true
-    	    mv( tags_file_tmp, tags_file, remove_destination=true)
-    	    parsed_cnt = parsed_cnt + 1
+        if is_parse_html_true 
+    	    if isfile(tags_file_tmp)
+    	        mv( tags_file_tmp, tags_file, remove_destination=true)
+    	        parsed_cnt = parsed_cnt + 1
+            end    	        
     	else
     	    skipped_err_cnt = skipped_err_cnt + 1
     	end    

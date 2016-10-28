@@ -1,7 +1,9 @@
 #!/usr/bin/env julia
 
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using J
+using Jbase
+import File
+import Sh
 include("./in-urls-out-bugs.jl")
 using UrlsBugs
 

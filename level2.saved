@@ -30,7 +30,11 @@ tagsfiles=${5:-""}
 
 (
  if [[ -z "$tagsfiles" ]]; then # указана только download dir
-  find "$download_dir" -name ROOT.tags | only -s -lines | only -near=ROOT.saved.url -lines
+  find "$download_dir" -name ROOT.tags | 
+  only-stream -s | 
+  only-stream -near=ROOT.saved.url |
+  only-stream -without=ROOT.tags.L2-completed |
+  only-stream -without=ROOT.tags.L2-completed.TMP
  else
   echo "$tagsfiles"  
  fi  
