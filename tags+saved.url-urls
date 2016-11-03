@@ -21,6 +21,7 @@ dom=`sed -e's|\"||g' $f_saved_url`
 [[ -z "$dom" ]] && echo "empty dom from file $f_saved_url">&2 && exit 1
 
 cat "$f_tags" | # -- список тегов из *.tags 
- awk -F* -v"dom=$dom" -v"OFS=$ofs" '$1=="a" && $2~"/." && $2!~"//" { print dom,$2 }' # только вида /lalala, не //lalala и не /
+ awk -F* -v"dom=$dom" -v"OFS=$ofs" '$1=="a" && $2~"/." && $2!~"//" { print dom,$2 }' | # только вида /lalala, не //lalala и не /
+  perl -lape's|(?<!:)/+|/|g' # удаление двойных слешей которые не являются "://"
 
 #)>>"$0.log" 2>&1
