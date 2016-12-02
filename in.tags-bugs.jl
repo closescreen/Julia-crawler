@@ -1,7 +1,7 @@
 #!/usr/bin/env julia
 
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using Jbase
+using DebInfo
 import File
 import Sh
 include("./in-urls-out-bugs.jl")
@@ -73,11 +73,22 @@ for tagsfile in eachline(STDIN)
     debinfo("Todo: $bugsfile")
     todo = todo+1
     
-    Flag.set(bugsfile)
+    # в этом месте при многопроцессной обработке случаются перезаписи флага, поэтому приняты доп меры:
+    nc = Flag.newcontent() # для дополнительной защиты сохраняем данные флага
+    Flag.set( bugsfile, nc) || continue # if set return false, then it's mean flag is in work
+    fc = Flag.read( bugsfile ) # читаем эти же данные флага из файла
+    # если то, что записали не сходится с тем, что прочитали, значит кто-то уже переписал - уходим:
+    nc["UUID"]|>string == fc["UUID"] || continue 
     
-    withopen( Sh.c("cat $tagsfile | awk -F* '\$1==\"script\" || \$1==\"img\" || \$1==\"iframe\" || \$1==\"link\" '"), Sh.viatmp(bugsfile)) do rio,wio
-	UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
+    open( Sh.c("cat $tagsfile | awk -F* '\$1==\"script\" || \$1==\"img\" || \$1==\"iframe\" || \$1==\"link\" '") ) do rio
+        open( Sh.viatmp(bugsfile), "w" ) do wio
+            UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
+        end 
     end
+# withopen in Withopen module now. Use it?
+#    withopen( Sh.c("cat $tagsfile | awk -F* '\$1==\"script\" || \$1==\"img\" || \$1==\"iframe\" || \$1==\"link\" '"), Sh.viatmp(bugsfile)) do rio,wio
+#	UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
+#    end
     
     Flag.unset(bugsfile)
     
