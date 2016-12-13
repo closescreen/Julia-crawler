@@ -78,17 +78,21 @@ for tagsfile in eachline(STDIN)
     Flag.set( bugsfile, nc) || continue # if set return false, then it's mean flag is in work
     fc = Flag.read( bugsfile ) # читаем эти же данные флага из файла
     # если то, что записали не сходится с тем, что прочитали, значит кто-то уже переписал - уходим:
-    nc["UUID"]|>string == fc["UUID"] || continue 
+    haskey( nc, "UUID") && (string(nc["UUID"]) == fc["UUID"]) || continue 
     
-    open( Sh.c("cat $tagsfile | awk -F* '\$1==\"script\" || \$1==\"img\" || \$1==\"iframe\" || \$1==\"link\" '") ) do rio
-        open( Sh.viatmp(bugsfile), "w" ) do wio
+    try
+    cmd = pipeline( tagsfile, `awk -F* '$1=="script" || $1=="img" || $1=="iframe" || $1=="link" '`)
+    open(cmd) do rio
+        #readline(rio)|>info
+        tmpname = File.tmpname( bugsfile)
+        open( pipeline(`gzip`, tmpname), "w") do wio
             UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
-        end 
+        end
+        isfile( tmpname) && mv( tmpname, bugsfile)
     end
-# withopen in Withopen module now. Use it?
-#    withopen( Sh.c("cat $tagsfile | awk -F* '\$1==\"script\" || \$1==\"img\" || \$1==\"iframe\" || \$1==\"link\" '"), Sh.viatmp(bugsfile)) do rio,wio
-#	UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
-#    end
+    catch e
+     info( "$e ", catch_stacktrace() )
+    end 
     
     Flag.unset(bugsfile)
     
