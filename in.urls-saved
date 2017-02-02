@@ -9,17 +9,21 @@ use lib $Bin;
 use UrlToDest;
 chdir $Bin;
 
-my $download_dir = shift; # либо через позиционные (по старому)
-my $deb = shift;
-my $stats = shift;
+my $download_dir; # либо через позиционные (по старому)
+my $deb;
+my $stats;
 my %stats;
 
 # либо ключами:
 GetOptions(
  "download-dir=s" => \$download_dir,
  "deb"=> \$deb,
- "stat"=> \$stats,
+ "stats"=> \$stats,
 ) or die "Bad opt!";
+
+$download_dir ||= shift;
+$deb||=shift;
+$stats||=shift;
 
 die "download-dir!" if !$download_dir;
 warn("$download_dir is not exists. Creating it...") and mkdir($download_dir) if ! -d $download_dir;
