@@ -50,7 +50,13 @@ while(<STDIN>){
     
     my $dirname_dest = dirname( $dest);    
     if ( !-d $dirname_dest ){
-        mkdir $dirname_dest or warn "Cant create dir $dirname_dest:$!";
+        #mkdir $dirname_dest or warn "Cant create dir $dirname_dest:$!";
+        my $rv = system( `mkdir -p "$dirname_dest"` );
+        if ( $rv!=0 ){
+            warn "Cant create dir $dirname_dest:$!";
+            $stats{errors}++;
+            next;
+        }
     }    
     
     sleep 1;
