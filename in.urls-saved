@@ -7,6 +7,8 @@ use FindBin qw/$Bin/;
 use File::Basename;
 use lib $Bin;
 use UrlToDest;
+use File::Path qw{make_path};
+
 chdir $Bin;
 
 my $download_dir; # либо через позиционные (по старому)
@@ -25,11 +27,16 @@ $download_dir ||= shift;
 $deb||=shift;
 $stats||=shift;
 
+if ($deb){
+ warn "download-dir=$download_dir, deb=$deb, stats=$stats"
+}
+
 die "download-dir!" if !$download_dir;
-warn("$download_dir is not exists. Creating it...") and mkdir($download_dir) if ! -d $download_dir;
+#warn("$download_dir is not exists. Creating it...") and make_path($download_dir) or die "Can't create $download_dir:$!";
 
 # на STDIN - подавать урлы для скачивания
 while(<STDIN>){
+ chomp;
  if ( length($_)>230 ){ # bash ограничивает длину файлов 255 байт
     $stats{skip_too_long}++;
     warn("Skip too long url: $_") if $deb;
@@ -51,12 +58,14 @@ while(<STDIN>){
     my $dirname_dest = dirname( $dest);    
     if ( !-d $dirname_dest ){
         #mkdir $dirname_dest or warn "Cant create dir $dirname_dest:$!";
-        my $rv = system( `mkdir -p "$dirname_dest"` );
-        if ( $rv!=0 ){
-            warn "Cant create dir $dirname_dest:$!";
-            $stats{errors}++;
-            next;
-        }
+        #`mkdir -p $dirname_dest`
+        make_path( $dirname_dest ) or ( warn("Can't create $dirname_dest: $!") and next )
+#        my $rv = system( `bash -c "mkdir -p \"$dirname_dest\""` );
+#        if ( $rv!=0 ){
+#            warn "Cant create dir $dirname_dest:$!";
+#            $stats{errors}++;
+#            next;
+#        }
     }    
     
     sleep 1;
