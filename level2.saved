@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #>
-#(
+(
 set -u
 set +x
 set -o pipefail
@@ -10,10 +10,9 @@ cd `dirname $0`
 download_dir=${1:? download_dir! } # или указать файл(ы) .../ROOT.tags
 
 #>2:
-headn=${2:-""} # можно указать сколько первых урлов из 30.tags+saved.url-urls брать
+randn=${2:-""} # можно указать сколько случайных урлов из 30.tags+saved.url-urls брать
 headcmd=""
-#[[ -n "$headn" ]] && headcmd=" | head -n$headn "
-[[ -n "$headn" ]] && headcmd=" | ./randlines.pl -n=$headn "
+[[ -n "$randn" ]] && headcmd=" | ./randlines.pl -n=$randn "
 
 #>:3: deb
 deb=${3:-""}
@@ -43,4 +42,4 @@ tagsfiles=${5:-""}
  
  
 
-#)>>"$0.log" 2>&1
+)>>"$0.log" 2>&1

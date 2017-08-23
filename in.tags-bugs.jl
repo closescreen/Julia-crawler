@@ -39,6 +39,7 @@ statinfo = debinfofun(statist)
 skipempty=0;
 skipready=0; 
 skipemptyready=0;
+skipwait=0;
 todo=0;
     
 for tagsfile in eachline(STDIN)
@@ -57,16 +58,17 @@ for tagsfile in eachline(STDIN)
     end	
 
     if File.goodsize(bugsfile) && !recalc_bugs 
-	skipready = skipready+1
+	skipready += 1
 	continue 
     end
 
     if isfile(bugsfile) && !recalc_bugs
-	skipemptyready = skipemptyready+1
+	skipemptyready += 1
+	continue # bugsfile файл есть, но пустой
     end	
 
-    
-    if File.iswait(bugsfile) 
+    if File.iswait(bugsfile)
+        skipwait += 1
         continue
     end
 
@@ -85,10 +87,11 @@ for tagsfile in eachline(STDIN)
     open(cmd) do rio
         #readline(rio)|>info
         tmpname = File.tmpname( bugsfile)
-        open( pipeline(`gzip`, tmpname), "w") do wio
+        #open( pipeline(`gzip`, tmpname), "w") do wio
+        open( tmpname, "w") do wio
             UrlsBugs.main(rio, wio, urlfield=2, printempty=printempty)
         end
-        isfile( tmpname) && mv( tmpname, bugsfile)
+        isfile( tmpname) && mv( tmpname, bugsfile, remove_destination=recalc_bugs )
     end
     catch e
      info( "$e ", catch_stacktrace() )

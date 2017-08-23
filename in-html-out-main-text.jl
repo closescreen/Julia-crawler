@@ -4,6 +4,7 @@
 
 using Gumbo
 import It # -- from juice
+import Group
 include("./main.text.functions.jl")
 
 function in_html_out_main_text(io_in::IO, 

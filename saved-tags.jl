@@ -1,7 +1,7 @@
 #!/usr/bin/env julia
 include("./in-html-out-tags.jl")
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using Jbase
+using DebInfo
 import File
 import Flag
 
@@ -79,6 +79,7 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
         
         saved_file_io = open(saved_file,"r")
 
+        try
         tags_file_tmp_io = open( tags_file_tmp, "w" )
         debinfo("Run in_html_out_tags($saved_file_io, $tags_file_tmp_io)")
         is_parse_html_true = in_html_out_tags( saved_file_io, tags_file_tmp_io, root=root, deb=deb )
@@ -86,7 +87,7 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
         close( tags_file_tmp_io )
         statinfo("parsed:$parsed_cnt / ready:$skipped_ready_cnt / tmp:$skipped_tmp_cnt / err: $skipped_err_cnt")        
         if is_parse_html_true 
-    	    if isfile(tags_file_tmp)
+    	    if isfile(tags_file_tmp) && !isfile(tags_file)
     	        mv( tags_file_tmp, tags_file, remove_destination=true)
     	        parsed_cnt = parsed_cnt + 1
             end    	        
@@ -95,7 +96,10 @@ statinfo = statist ? (x...)->info(x...) : (x...)->nothing
     	end    
         debinfo("Unset flag for  $tags_file")
         Flag.unset( tags_file )
-
+        
+        catch e
+            info( "$e", catch_stacktrace())
+        end    
     end
 
 

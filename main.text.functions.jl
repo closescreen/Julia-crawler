@@ -72,7 +72,7 @@ function group_HTMLText(ll) # ll - HTMLElements iterator
     typeof(el)<:Gumbo.HTMLText && # берем только HTMLText
     !hasparent(ignore_elements, el) # исключая плохие
  end |>
- It.group() do  e1,e2 # объединяем в группы контейнерные элементы с вложенными в них inline-элементами
+ Group.group() do  e1,e2 # объединяем в группы контейнерные элементы с вложенными в них inline-элементами
     l1 = e1.text|>length
     l2 = e2.text|>length
     

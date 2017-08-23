@@ -12,6 +12,7 @@ sub that{
 
  # params: prefix=>PREFIX_DIR||"", root=>STRING||"ROOT", suffix=>STRING||"saved"
  my $url = shift or die "Url!";
+ chomp($url);
  my %pa = @_;
  $url =~ s/\"|\'//g; # убираются кавычки (любые, даже в тексте) 
  $url =~ s|^\w+://||; # отрезается протокол 

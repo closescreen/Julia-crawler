@@ -1,7 +1,7 @@
 #!/usr/bin/env julia
 
 push!(LOAD_PATH,"/usr/local/rle/var/share3/TIKETS/juice/")
-using Jbase
+using DebInfo
 import File
 import Flag
 
